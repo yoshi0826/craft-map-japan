@@ -44,41 +44,67 @@
     selectedId: null,
   };
 
-  // ---- Map setup ----
-  const map = L.map('map', { zoomControl: true }).setView([37.5, 137.5], 5);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 18,
-    attribution: '&copy; OpenStreetMap contributors',
-  }).addTo(map);
+  // ---- Map setup (MapLibre GL, custom label-free dark style) ----
+  const map = new maplibregl.Map({
+    container: 'map',
+    style: window.CRAFT_MAP_STYLE,
+    center: [137.5, 37.5],
+    zoom: 4.3,
+    minZoom: 4,
+    maxZoom: 12,
+    maxBounds: [
+      [111, 12],
+      [158, 56],
+    ],
+    attributionControl: {
+      compact: true,
+      customAttribution: '&copy; OpenStreetMap contributors &copy; OpenFreeMap',
+    },
+  });
+  map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left');
 
-  const markers = new Map(); // id -> L.marker
+  const markers = new Map(); // id -> maplibregl.Marker
   let markerSeq = 0;
 
-  function markerIcon(craft) {
+  // Event delegation: popup HTML is injected by MapLibre outside our control,
+  // so bind "read more" clicks once instead of per-popup.
+  document.addEventListener('click', (e) => {
+    const link = e.target.closest('.popup-link');
+    if (link && link.dataset.id) showDetail(link.dataset.id);
+  });
+
+  function createMarkerEl(craft) {
+    // MapLibre applies its own positioning `transform` directly to the element
+    // passed to Marker, so the rotated/animated pin must be a CHILD of that
+    // element rather than the element itself (otherwise our CSS transform for
+    // rotation/pop-in animation would fight with MapLibre's translate).
     const cat = categories[craft.category] || categories.other;
     const delay = Math.min(markerSeq++, 60) * 8;
-    return L.divIcon({
-      className: 'craft-marker-wrap',
-      html: `<div class="craft-marker" style="background:${cat.color}; width:30px; height:30px; animation-delay:${delay}ms;">${icon(cat.icon, { size: 16 })}</div>`,
-      iconSize: [30, 30],
-      iconAnchor: [15, 30],
-      popupAnchor: [0, -28],
-    });
+    const wrap = document.createElement('div');
+    wrap.className = 'craft-marker-wrap';
+    const pin = document.createElement('div');
+    pin.className = 'craft-marker';
+    pin.style.background = cat.color;
+    pin.style.width = '30px';
+    pin.style.height = '30px';
+    pin.style.animationDelay = `${delay}ms`;
+    pin.style.setProperty('--glow', cat.color);
+    pin.innerHTML = icon(cat.icon, { size: 16 });
+    wrap.appendChild(pin);
+    return wrap;
   }
 
   crafts.forEach((craft) => {
-    const marker = L.marker([craft.lat, craft.lon], { icon: markerIcon(craft) });
-    marker.bindPopup(
-      `<div class="popup-name">${craft.name}</div>
-       <div class="popup-loc">${craft.prefecture}${craft.city ? ' ・ ' + craft.city : ''}</div>
-       <div class="popup-link" data-id="${craft.id}">詳しく見る<span class="link-arrow">${icon('arrow-right', { size: 13 })}</span></div>`
-    );
-    marker.on('popupopen', () => {
-      const el = document.querySelector(`.popup-link[data-id="${craft.id}"]`);
-      if (el) el.addEventListener('click', () => showDetail(craft.id));
-    });
-    marker.on('click', () => highlightListItem(craft.id));
-    marker.addTo(map);
+    const wrap = createMarkerEl(craft);
+    const popupHtml = `<div class="popup-name">${escapeHtml(craft.name)}</div>
+       <div class="popup-loc">${escapeHtml(craft.prefecture)}${craft.city ? ' ・ ' + escapeHtml(craft.city) : ''}</div>
+       <div class="popup-link" data-id="${escapeHtml(craft.id)}">詳しく見る<span class="link-arrow">${icon('arrow-right', { size: 13 })}</span></div>`;
+    const popup = new maplibregl.Popup({ offset: 22, closeButton: true, maxWidth: '240px' }).setHTML(popupHtml);
+    const marker = new maplibregl.Marker({ element: wrap, anchor: 'bottom' })
+      .setLngLat([craft.lon, craft.lat])
+      .setPopup(popup)
+      .addTo(map);
+    wrap.addEventListener('click', () => highlightListItem(craft.id));
     markers.set(craft.id, marker);
   });
 
@@ -138,9 +164,15 @@
     const visibleIds = new Set(list.map((c) => c.id));
     markers.forEach((marker, id) => {
       const shouldShow = visibleIds.has(id);
-      const isOnMap = map.hasLayer(marker);
-      if (shouldShow && !isOnMap) marker.addTo(map);
-      if (!shouldShow && isOnMap) map.removeLayer(marker);
+      const isOnMap = marker._craftOnMap !== false;
+      if (shouldShow && !isOnMap) {
+        marker.addTo(map);
+        marker._craftOnMap = true;
+      }
+      if (!shouldShow && isOnMap) {
+        marker.remove();
+        marker._craftOnMap = false;
+      }
     });
 
     list.forEach((craft, index) => {
@@ -158,9 +190,12 @@
       `;
       li.addEventListener('click', () => {
         showDetail(craft.id);
-        map.flyTo([craft.lat, craft.lon], 8, { duration: 0.6 });
+        map.flyTo({ center: [craft.lon, craft.lat], zoom: 8, duration: 600, essential: true });
         const marker = markers.get(craft.id);
-        if (marker) marker.openPopup();
+        if (marker) {
+          const popup = marker.getPopup();
+          if (popup && !popup.isOpen()) marker.togglePopup();
+        }
       });
       listEl.appendChild(li);
     });
@@ -170,9 +205,8 @@
   function setSelectedMarker(id) {
     if (selectedMarkerEl) selectedMarkerEl.classList.remove('marker-selected');
     const marker = markers.get(id);
-    const el = marker && marker.getElement && marker.getElement();
-    const inner = el && el.querySelector('.craft-marker');
-    selectedMarkerEl = inner || null;
+    const wrap = marker && marker.getElement();
+    selectedMarkerEl = (wrap && wrap.querySelector('.craft-marker')) || null;
     if (selectedMarkerEl) selectedMarkerEl.classList.add('marker-selected');
   }
 
