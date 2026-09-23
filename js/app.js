@@ -10,6 +10,29 @@
     return /^https?:\/\//.test(url) ? url : null;
   }
 
+  // ---- Lucide icons (inlined, stroke="currentColor" so they inherit color/size from CSS) ----
+  const ICON_PATHS = {
+    amphora: '<path d="M10 2v5.632c0 .424-.272.795-.653.982A6 6 0 0 0 6 14c.006 4 3 7 5 8" /><path d="M10 5H8a2 2 0 0 0 0 4h.68" /><path d="M14 2v5.632c0 .424.272.795.652.982A6 6 0 0 1 18 14c0 4-3 7-5 8" /><path d="M14 5h2a2 2 0 0 1 0 4h-.68" /><path d="M18 22H6" /><path d="M9 2h6" />',
+    paintbrush: '<path d="m14.622 17.897-10.68-2.913" /><path d="M18.376 2.622a1 1 0 1 1 3.002 3.002L17.36 9.643a.5.5 0 0 0 0 .707l.944.944a2.41 2.41 0 0 1 0 3.408l-.944.944a.5.5 0 0 1-.707 0L8.354 7.348a.5.5 0 0 1 0-.707l.944-.944a2.41 2.41 0 0 1 3.408 0l.944.944a.5.5 0 0 0 .707 0z" /><path d="M9 8c-1.804 2.71-3.97 3.46-6.583 3.948a.507.507 0 0 0-.302.819l7.32 8.883a1 1 0 0 0 1.185.204C12.735 20.405 16 16.792 16 15" />',
+    shirt: '<path d="M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z" />',
+    palette: '<path d="M12 22a1 1 0 0 1 0-20 10 9 0 0 1 10 9 5 5 0 0 1-5 5h-2.25a1.75 1.75 0 0 0-1.4 2.8l.3.4a1.75 1.75 0 0 1-1.4 2.8z" /><circle cx="13.5" cy="6.5" r=".5" fill="currentColor" /><circle cx="17.5" cy="10.5" r=".5" fill="currentColor" /><circle cx="6.5" cy="12.5" r=".5" fill="currentColor" /><circle cx="8.5" cy="7.5" r=".5" fill="currentColor" />',
+    hammer: '<path d="m15 12-9.373 9.373a1 1 0 0 1-3.001-3L12 9" /><path d="m18 15 4-4" /><path d="m21.5 11.5-1.914-1.914A2 2 0 0 1 19 8.172v-.344a2 2 0 0 0-.586-1.414l-1.657-1.657A6 6 0 0 0 12.516 3H9l1.243 1.243A6 6 0 0 1 12 8.485V10l2 2h1.172a2 2 0 0 1 1.414.586L18.5 14.5" />',
+    scroll: '<path d="M19 17V5a2 2 0 0 0-2-2H4" /><path d="M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3" />',
+    axe: '<path d="m14 12-8.381 8.38a1 1 0 0 1-3.001-3L11 9" /><path d="M15 15.5a.5.5 0 0 0 .5.5A6.5 6.5 0 0 0 22 9.5a.5.5 0 0 0-.5-.5h-1.672a2 2 0 0 1-1.414-.586l-5.062-5.062a1.205 1.205 0 0 0-1.704 0L9.352 5.648a1.205 1.205 0 0 0 0 1.704l5.062 5.062A2 2 0 0 1 15 13.828z" />',
+    drama: '<path d="M10 11h.01" /><path d="M14 6h.01" /><path d="M18 6h.01" /><path d="M6.5 13.1h.01" /><path d="M22 5c0 9-4 12-6 12s-6-3-6-12c0-2 2-3 6-3s6 1 6 3" /><path d="M17.4 9.9c-.8.8-2 .8-2.8 0" /><path d="M10.1 7.1C9 7.2 7.7 7.7 6 8.6c-3.5 2-4.7 3.9-3.7 5.6 4.5 7.8 9.5 8.4 11.2 7.4.9-.5 1.9-2.1 1.9-4.7" /><path d="M9.1 16.5c.3-1.1 1.4-1.7 2.4-1.4" />',
+    sparkles: '<path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z" /><path d="M20 2v4" /><path d="M22 4h-4" /><circle cx="4" cy="20" r="2" />',
+    x: '<path d="M18 6 6 18" /><path d="m6 6 12 12" />',
+    'arrow-right': '<path d="M5 12h14" /><path d="m12 5 7 7-7 7" />',
+    'external-link': '<path d="M15 3h6v6" /><path d="M10 14 21 3" /><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />',
+    search: '<path d="m21 21-4.34-4.34" /><circle cx="11" cy="11" r="8" />',
+    image: '<rect width="18" height="18" x="3" y="3" rx="2" ry="2" /><circle cx="9" cy="9" r="2" /><path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21" />',
+  };
+
+  function icon(name, { size = 16, className = '' } = {}) {
+    const paths = ICON_PATHS[name] || '';
+    return `<svg class="icon ${className}" width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths}</svg>`;
+  }
+
   const [crafts, categories] = await Promise.all([
     fetch('data/crafts.json').then((r) => r.json()),
     fetch('data/categories.json').then((r) => r.json()),
@@ -34,7 +57,7 @@
     const cat = categories[craft.category] || categories.other;
     return L.divIcon({
       className: 'craft-marker-wrap',
-      html: `<div class="craft-marker" style="background:${cat.color}; width:30px; height:30px;"><span>${cat.icon}</span></div>`,
+      html: `<div class="craft-marker" style="background:${cat.color}; width:30px; height:30px;">${icon(cat.icon, { size: 16 })}</div>`,
       iconSize: [30, 30],
       iconAnchor: [15, 30],
       popupAnchor: [0, -28],
@@ -46,7 +69,7 @@
     marker.bindPopup(
       `<div class="popup-name">${craft.name}</div>
        <div class="popup-loc">${craft.prefecture}${craft.city ? ' ・ ' + craft.city : ''}</div>
-       <div class="popup-link" data-id="${craft.id}">詳しく見る →</div>`
+       <div class="popup-link" data-id="${craft.id}">詳しく見る${icon('arrow-right', { size: 13 })}</div>`
     );
     marker.on('popupopen', () => {
       const el = document.querySelector(`.popup-link[data-id="${craft.id}"]`);
@@ -64,7 +87,7 @@
     chip.className = 'cat-chip active';
     chip.style.borderColor = cat.color;
     chip.style.background = cat.color;
-    chip.textContent = `${cat.icon} ${cat.label}`;
+    chip.innerHTML = `${icon(cat.icon, { size: 14 })}<span>${escapeHtml(cat.label)}</span>`;
     chip.dataset.key = key;
     chip.addEventListener('click', () => {
       if (state.activeCategories.has(key)) {
@@ -150,6 +173,7 @@
   // ---- Detail panel ----
   const detailPanel = document.getElementById('detail-panel');
   const detailContent = document.getElementById('detail-content');
+  document.getElementById('detail-close').innerHTML = icon('x', { size: 16 });
   document.getElementById('detail-close').addEventListener('click', () => {
     detailPanel.classList.add('hidden');
   });
@@ -163,7 +187,7 @@
     const cat = categories[craft.category] || categories.other;
     const heroImg = craft.image
       ? `<img src="${escapeHtml(craft.image)}" alt="${escapeHtml(craft.name)}" />`
-      : `<span>${cat.icon}</span>`;
+      : icon(cat.icon, { size: 56 });
 
     const metaRows = [
       ['産地', `${escapeHtml(craft.prefecture)}${craft.city ? ' ・ ' + escapeHtml(craft.city) : ''}`],
@@ -178,20 +202,20 @@
     if (assocUrl) {
       linkButtons.push(
         `<a class="detail-link-btn" href="${assocUrl}" target="_blank" rel="noopener noreferrer">
-           ${escapeHtml(craft.association.name || '産地組合の公式サイト')} ↗
+           <span>${escapeHtml(craft.association.name || '産地組合の公式サイト')}</span>${icon('external-link', { size: 14 })}
          </a>`
       );
     }
     if (sourceUrl) {
       linkButtons.push(
         `<a class="detail-link-btn secondary" href="${sourceUrl}" target="_blank" rel="noopener noreferrer">
-           伝統工芸 青山スクエアで見る ↗
+           <span>伝統工芸 青山スクエアで見る</span>${icon('external-link', { size: 14 })}
          </a>`
       );
     }
 
     detailContent.innerHTML = `
-      <div class="detail-hero" style="background:${cat.color}22;">${heroImg}</div>
+      <div class="detail-hero" style="background:${cat.color}22; color:${cat.color};">${heroImg}</div>
       <div class="detail-body">
         <span class="detail-category-tag" style="background:${cat.color}">${cat.label}</span>
         <h2>${escapeHtml(craft.name)}</h2>
@@ -207,7 +231,7 @@
         }
         ${
           !craft.image
-            ? `<div class="detail-note">写真は準備中です。images/${escapeHtml(craft.id)}.jpg を追加し、data/crafts.json の "image" 欄にパスを設定すると、ここに実際の写真を表示できます。</div>`
+            ? `<div class="detail-note">${icon('image', { size: 15 })}<span>写真は準備中です。images/${escapeHtml(craft.id)}.jpg を追加し、data/crafts.json の "image" 欄にパスを設定すると、ここに実際の写真を表示できます。</span></div>`
             : ''
         }
       </div>

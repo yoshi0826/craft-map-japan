@@ -8,13 +8,18 @@
   --accent-soft: #f7e3cf;
   --dark: #15130f;
   --dark-soft: #2a251e;
-  --cream: #f3ede1;
   --shadow: 0 4px 20px rgba(21, 19, 15, 0.14);
   --sans: "Zen Kaku Gothic New", "Hiragino Sans", "Yu Gothic", sans-serif;
   --mono: "Space Grotesk", "Zen Kaku Gothic New", sans-serif;
 }
 
 * { box-sizing: border-box; }
+
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+  flex-shrink: 0;
+}
 
 html, body {
   margin: 0;
@@ -205,13 +210,22 @@ html, body {
 }
 
 .search-box {
+  position: relative;
   padding: 0 14px 14px;
   border-bottom: 1px solid var(--border);
 }
 
+.search-box-icon {
+  position: absolute;
+  left: 14px;
+  bottom: 12px;
+  color: var(--ink-soft);
+  pointer-events: none;
+}
+
 #search-input {
   width: 100%;
-  padding: 9px 2px;
+  padding: 9px 2px 9px 24px;
   border: none;
   border-bottom: 2px solid var(--border);
   font-size: 0.92rem;
@@ -281,7 +295,10 @@ html, body {
 
 .craft-item.selected {
   background: var(--accent-soft);
-  box-shadow: inset 3px 0 0 var(--accent);
+}
+
+.craft-item.selected .name {
+  color: var(--accent);
 }
 
 .craft-item .dot {
@@ -331,11 +348,11 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: #fff;
 }
 
-.craft-marker span {
+.craft-marker .icon {
   transform: rotate(45deg);
-  font-size: 13px;
 }
 
 .leaflet-popup-content-wrapper {
@@ -357,11 +374,13 @@ html, body {
 }
 
 .popup-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
   font-size: 0.78rem;
   font-weight: 700;
   color: var(--accent);
   cursor: pointer;
-  text-decoration: underline;
 }
 
 /* ---------- Detail panel ---------- */
@@ -394,7 +413,10 @@ html, body {
   border-radius: 50%;
   border: 1px solid var(--border);
   background: var(--panel-bg);
-  font-size: 0.9rem;
+  color: var(--ink);
+  display: flex;
+  align-items: center;
+  justify-content: center;
   cursor: pointer;
   z-index: 2;
 }
@@ -409,7 +431,6 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 5rem;
   border-bottom: 1px solid var(--border);
 }
 
@@ -509,13 +530,21 @@ html, body {
 }
 
 .detail-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
   margin-top: 22px;
   padding: 12px 14px;
   font-size: 0.75rem;
   color: var(--ink-soft);
-  background: var(--cream);
-  border-left: 2px solid var(--accent);
+  background: transparent;
+  border: 1px dashed var(--border);
+  border-radius: 4px;
   line-height: 1.7;
+}
+
+.detail-note .icon {
+  margin-top: 2px;
 }
 
 @media (max-width: 860px) {

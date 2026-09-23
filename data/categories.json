@@ -1,11 +1,11 @@
 {
-  "ceramics": { "label": "陶磁器", "color": "#c1440e", "icon": "🏺" },
-  "lacquerware": { "label": "漆器", "color": "#8a2be2", "icon": "🥢" },
-  "textile": { "label": "織物", "color": "#1b7f79", "icon": "🧵" },
-  "dyeing": { "label": "染物", "color": "#2e6fab", "icon": "🎨" },
-  "metalwork": { "label": "金工", "color": "#6b6b6b", "icon": "⚒️" },
-  "paper": { "label": "和紙", "color": "#b08d57", "icon": "📜" },
-  "woodwork": { "label": "木竹工", "color": "#5a7d3a", "icon": "🪵" },
-  "doll": { "label": "人形・玩具", "color": "#d1467a", "icon": "🎎" },
-  "other": { "label": "その他工芸", "color": "#c99a2e", "icon": "✨" }
+  "ceramics": { "label": "陶磁器", "color": "#c1440e", "icon": "amphora" },
+  "lacquerware": { "label": "漆器", "color": "#8a2be2", "icon": "paintbrush" },
+  "textile": { "label": "織物", "color": "#1b7f79", "icon": "shirt" },
+  "dyeing": { "label": "染物", "color": "#2e6fab", "icon": "palette" },
+  "metalwork": { "label": "金工", "color": "#6b6b6b", "icon": "hammer" },
+  "paper": { "label": "和紙", "color": "#b08d57", "icon": "scroll" },
+  "woodwork": { "label": "木竹工", "color": "#5a7d3a", "icon": "axe" },
+  "doll": { "label": "人形・玩具", "color": "#d1467a", "icon": "drama" },
+  "other": { "label": "その他工芸", "color": "#c99a2e", "icon": "sparkles" }
 }
