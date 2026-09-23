@@ -1,0 +1,4795 @@
+[
+  {
+    "id": "nibutaniattoushi",
+    "name": "二風谷アットゥㇱ",
+    "kana": "にぶたにあっとぅし",
+    "prefecture": "北海道",
+    "city": "沙流郡平取町",
+    "lat": 42.6667,
+    "lon": 142.0167,
+    "category": "textile",
+    "since": "2013年(平成25年)指定",
+    "products": "着尺、着物、手甲、脚絆、帯地、壁掛け、小物類など",
+    "description": "北海道沙流川流域でアイヌの人々が古くから受け継いできた織物。オヒョウなどの樹皮の繊維から糸を紡ぎ、専用の織機で織り上げる。水に強く通気性に優れ、天然繊維ならではの丈夫さと独特の風合いを持つ。",
+    "association": {
+      "name": "二風谷民芸組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0101/",
+    "image": null,
+    "kougeihinId": "0101"
+  },
+  {
+    "id": "oitamatsumugi",
+    "name": "置賜紬",
+    "kana": "おいたまつむぎ",
+    "prefecture": "山形県",
+    "city": "米沢市、長井市、西置賜郡白鷹町",
+    "lat": 37.9219,
+    "lon": 140.1167,
+    "category": "textile",
+    "since": "1976年(昭和51年)指定",
+    "products": "着物地、袴、帯、袋物",
+    "description": "8世紀に起源を持つとされ、江戸初期に藩主上杉景勝の奨励で産地としての体制が整った織物。板締め絣や紅花染めなど6つの技法による先染めの平織で、素朴な風合いが特徴。",
+    "association": {
+      "name": "置賜紬伝統織物協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0102/",
+    "image": null,
+    "kougeihinId": "0102"
+  },
+  {
+    "id": "uetsushinafu",
+    "name": "羽越しな布",
+    "kana": "うえつしなふ",
+    "prefecture": "山形県",
+    "city": "鶴岡市　新潟県／村上市",
+    "lat": 38.7275,
+    "lon": 139.8272,
+    "category": "textile",
+    "since": "2005年(平成17年)指定",
+    "products": "帯、小物",
+    "description": "シナノキなどの樹皮から取った繊維で糸を作り織り上げる、縄文時代にまでさかのぼるとされる古い技法を伝える織物。ざっくりとした手触りと落ち着いた風合いが特徴で、山形県鶴岡市と新潟県村上市にまたがる地域で受け継がれている。",
+    "association": {
+      "name": "羽越しな布振興協議会"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0103/",
+    "image": null,
+    "kougeihinId": "0103"
+  },
+  {
+    "id": "yuukitsumugi",
+    "name": "結城紬",
+    "kana": "ゆうきつむぎ",
+    "prefecture": "茨城県",
+    "city": "結城市、下妻市、筑西市、結城郡八千代町　栃木県／小山市、下野市、河内郡上三川町、真岡市",
+    "lat": 36.3053,
+    "lon": 139.8853,
+    "category": "textile",
+    "since": "1977年(昭和52年)指定",
+    "products": "着物地、帯",
+    "description": "奈良時代にはすでに朝廷へ納められていたとされる、養蚕が盛んな茨城県結城地方の紬。真綿から手で糸を引き出す独特の製法により撚りのないふっくらとした糸を用いるため、絹でありながら木綿のような素朴な風合いを持つ。",
+    "association": {
+      "name": "茨城県本場結城紬織物協同組合",
+      "url": "https://www.honba-yukitumugi.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0104/",
+    "image": null,
+    "kougeihinId": "0104"
+  },
+  {
+    "id": "isesakigasuri",
+    "name": "伊勢崎絣",
+    "kana": "いせさきがすり",
+    "prefecture": "群馬県",
+    "city": "伊勢崎市、太田市　埼玉県／本庄市",
+    "lat": 36.3125,
+    "lon": 139.1969,
+    "category": "textile",
+    "since": "1975年(昭和50年)指定",
+    "products": "着物地",
+    "description": "起源は古代にまでさかのぼるとされ、17世紀後半に産地としての基盤が整った絹織物で、明治・大正期には「伊勢崎銘仙」として全国に知られた。括り絣や板締め絣、捺染などの技法を用い、絹の風合いを生かした手作りの絣模様が特徴。",
+    "association": {
+      "name": "伊勢崎織物工業組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0105/",
+    "image": null,
+    "kougeihinId": "0105"
+  },
+  {
+    "id": "kiryuuori",
+    "name": "桐生織",
+    "kana": "きりゅうおり",
+    "prefecture": "群馬県",
+    "city": "桐生市、太田市、みどり市　栃木県／足利市",
+    "lat": 36.4058,
+    "lon": 139.3306,
+    "category": "textile",
+    "since": "1977年(昭和52年)指定",
+    "products": "着物地、帯",
+    "description": "1300年ほど前、宮中に仕えた白滝姫が村人に機織りを伝えたのが始まりと伝わる織物で、新田義貞の旗揚げや徳川家康の旗にも用いられたと言われる。江戸後期には金襴緞子などの高級織物の技術を確立し、多品種で付加価値の高い先染めジャカード織物として今に伝わる。",
+    "association": {
+      "name": "桐生織物協同組合",
+      "url": "http://www.kiryuorimono.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0106/",
+    "image": null,
+    "kougeihinId": "0106"
+  },
+  {
+    "id": "chichibumeisen",
+    "name": "秩父銘仙",
+    "kana": "ちちぶめいせん",
+    "prefecture": "埼玉県",
+    "city": "秩父市、秩父郡横瀬町、秩父郡小鹿野町、秩父郡皆野町、秩父郡長瀞町",
+    "lat": 35.9928,
+    "lon": 139.0856,
+    "category": "textile",
+    "since": "2013年(平成25年)指定",
+    "products": "着物地、和洋装小物類、室内用品",
+    "description": "江戸時代に発祥し、明治41年に独自の「解し捺染」技法で特許を取得して隆盛を迎えた絹織物。補色の緯糸を用いることで生まれる玉虫のような光沢と、植物柄を多く用いた意匠が特徴。",
+    "association": {
+      "name": "秩父銘仙協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0107/",
+    "image": null,
+    "kougeihinId": "0107"
+  },
+  {
+    "id": "murayamaooshimatsumugi",
+    "name": "村山大島紬",
+    "kana": "むらやまおおしまつむぎ",
+    "prefecture": "東京都",
+    "city": "立川市、青梅市、昭島市、東大和市、武蔵村山市他　埼玉県／飯能市他",
+    "lat": 35.6939,
+    "lon": 139.4136,
+    "category": "textile",
+    "since": "1975年(昭和50年)指定",
+    "products": "着物地",
+    "description": "江戸後期に起源を持ち、大正期頃に藍染めの「村山紺絣」と玉繭を使う「砂川太織」が合流して生まれたとされる絹織物。軽く着心地が良く丈夫なことから高く評価され、東京都の無形文化財にも指定されている。",
+    "association": {
+      "name": "村山織物協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0108/",
+    "image": null,
+    "kougeihinId": "0108"
+  },
+  {
+    "id": "honbakihachijou",
+    "name": "本場黄八丈",
+    "kana": "ほんばきはちじょう",
+    "prefecture": "東京都",
+    "city": "八丈島八丈町",
+    "lat": 33.1075,
+    "lon": 139.7853,
+    "category": "textile",
+    "since": "1977年(昭和52年)指定",
+    "products": "着物地、帯",
+    "description": "室町時代から島の特産として絹を納めていた記録が残る八丈島の織物で、江戸中期以降に現在に通じる縦縞・格子縞が織られるようになった。黄・茶・黒の3色を基調とした、渋みのある優雅な色合いが特徴。",
+    "association": {
+      "name": "黄八丈織物協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0109/",
+    "image": null,
+    "kougeihinId": "0109"
+  },
+  {
+    "id": "tamaori",
+    "name": "多摩織",
+    "kana": "たまおり",
+    "prefecture": "東京都",
+    "city": "八王子市、あきる野市",
+    "lat": 35.6558,
+    "lon": 139.3389,
+    "category": "textile",
+    "since": "1980年(昭和55年)指定",
+    "products": "着物地、羽織、コート、袴",
+    "description": "平安末期から絹織物が作られていた多摩地域で、室町後期に北条氏の奨励により産地として整ったとされる織物。お召織・紬織・風通織など複数の織種を持ち、伝統的な渋い実用性に加え、近年は洗練されたデザインも取り入れている。",
+    "association": {
+      "name": "八王子織物工業組合",
+      "url": "https://hachioji-orimono.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0110/",
+    "image": null,
+    "kougeihinId": "0110"
+  },
+  {
+    "id": "shiozawatsumugi",
+    "name": "塩沢紬",
+    "kana": "しおざわつむぎ",
+    "prefecture": "新潟県",
+    "city": "南魚沼市",
+    "lat": 37.05,
+    "lon": 138.8833,
+    "category": "textile",
+    "since": "1975年(昭和50年)指定",
+    "products": "着物地",
+    "description": "奈良の正倉院に保存される麻布（越後上布）の技術を絹織物に応用し、江戸時代に織り始められたとされる紬。細かい十字絣や亀甲絣による絣模様が、上品で落ち着いた表情を生み出している。",
+    "association": {
+      "name": "塩沢織物工業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0111/",
+    "image": null,
+    "kougeihinId": "0111"
+  },
+  {
+    "id": "ojiyachijimi",
+    "name": "小千谷縮",
+    "kana": "おぢやちぢみ",
+    "prefecture": "新潟県",
+    "city": "長岡市、小千谷市、十日町市",
+    "lat": 37.4468,
+    "lon": 138.8514,
+    "category": "textile",
+    "since": "1975年(昭和50年)指定",
+    "products": "着物地、洋服、室内インテリア",
+    "description": "縄文時代の土器にも布目の跡が残るほど古い麻織物の歴史を持ち、将軍への献上品にもなったとされる。緯糸に強い撚りをかけて独特のシボを出す技法が確立され、国の重要無形文化財にも指定されている。",
+    "association": {
+      "name": "小千谷織物同業協同組合",
+      "url": "https://ojiya.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0112/",
+    "image": null,
+    "kougeihinId": "0112"
+  },
+  {
+    "id": "ojiyatsumugi",
+    "name": "小千谷紬",
+    "kana": "おぢやつむぎ",
+    "prefecture": "新潟県",
+    "city": "長岡市、小千谷市、十日町市",
+    "lat": 37.4468,
+    "lon": 138.8514,
+    "category": "textile",
+    "since": "1975年(昭和50年)指定",
+    "products": "着物地、室内インテリア",
+    "description": "江戸中期の養蚕の広まりとともに始まり、当初は小千谷縮の陰で自家用として織られていたくず繭の紬。昭和初期に本格的な生産が始まり、膨らみのある軽く暖かな風合いと民芸調の柄が特徴。",
+    "association": {
+      "name": "小千谷織物同業協同組合",
+      "url": "https://ojiya.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0113/",
+    "image": null,
+    "kougeihinId": "0113"
+  },
+  {
+    "id": "honshiozawa",
+    "name": "本塩沢",
+    "kana": "ほんしおざわ",
+    "prefecture": "新潟県",
+    "city": "南魚沼市",
+    "lat": 37.05,
+    "lon": 138.8833,
+    "category": "textile",
+    "since": "1976年(昭和51年)指定",
+    "products": "着物地",
+    "description": "「塩沢お召」の名で親しまれてきた塩沢産地を代表する織物で、江戸中期、麻織物の絹縮の技法を絹に応用したのが始まりとされる。強撚糸を使い湯もみでシボを立てた生地の風合いと、十字絣や亀甲絣による上品な柄が特徴。",
+    "association": {
+      "name": "塩沢織物工業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0114/",
+    "image": null,
+    "kougeihinId": "0114"
+  },
+  {
+    "id": "tookamachigasuri",
+    "name": "十日町絣",
+    "kana": "とおかまちがすり",
+    "prefecture": "新潟県",
+    "city": "十日町市、中魚沼郡津南町",
+    "lat": 37.1333,
+    "lon": 138.7667,
+    "category": "textile",
+    "since": "1982年(昭和57年)指定",
+    "products": "着物地、和装小物",
+    "description": "18世紀前半に絣技術が定着し、19世紀後半には絹織物への応用が進んだとされる織物。伝統的な美しさと現代感覚を融合させた民芸調の柄で、絹独特の艶と着心地の良さから普段着として親しまれている。",
+    "association": {
+      "name": "十日町織物工業協同組合",
+      "url": "https://www.tokamachi-orikumi.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0115/",
+    "image": null,
+    "kougeihinId": "0115"
+  },
+  {
+    "id": "tookamachiakashichijimi",
+    "name": "十日町明石ちぢみ",
+    "kana": "とおかまちあかしちぢみ",
+    "prefecture": "新潟県",
+    "city": "十日町市",
+    "lat": 37.1333,
+    "lon": 138.7667,
+    "category": "textile",
+    "since": "1982年(昭和57年)指定",
+    "products": "着物地",
+    "description": "19世紀末、京都西陣の夏物見本をもとに在来の技術を応用して開発された織物で、明治中頃に「明石ちぢみ」の名で世に出た。緯糸に強撚糸を用いた清涼感のある生地が特徴で、夏の着物として一世を風靡した。",
+    "association": {
+      "name": "十日町織物工業協同組合",
+      "url": "https://www.tokamachi-orikumi.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0116/",
+    "image": null,
+    "kougeihinId": "0116"
+  },
+  {
+    "id": "shinshuutsumugi",
+    "name": "信州紬",
+    "kana": "しんしゅうつむぎ",
+    "prefecture": "長野県",
+    "city": "長野市、松本市、上田市、岡谷市、飯田市、駒ヶ根市他",
+    "lat": 36.6486,
+    "lon": 138.1947,
+    "category": "textile",
+    "since": "1975年(昭和50年)指定",
+    "products": "着物地、帯、羽織",
+    "description": "奈良時代の「あしぎぬ」にまでさかのぼるとされる織物で、江戸初期には信州各藩の奨励により養蚕とともに広く生産された。戦後の復興を経て高級反物として名声を高め、山繭のみで織る山繭紬はこの地だけの特産品。",
+    "association": {
+      "name": "長野県織物工業組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0117/",
+    "image": null,
+    "kougeihinId": "0117"
+  },
+  {
+    "id": "ushikubitsumugi",
+    "name": "牛首紬",
+    "kana": "うしくびつむぎ",
+    "prefecture": "石川県",
+    "city": "白山市",
+    "lat": 36.5083,
+    "lon": 136.5667,
+    "category": "textile",
+    "since": "1988年(昭和63年)指定",
+    "products": "和装用品、着物地、帯、小物類",
+    "description": "白山山麓の牛首村（現・白峰）が名の由来で、平治の乱で逃れた武家の妻女が村人に機織りを伝えたのが始まりと伝わる。2匹の蚕が共同で作る玉繭から太く節のある玉糸を紡ぎ出し、独特の光沢と野趣に富んだ素朴な風合いを持つ。",
+    "association": {
+      "name": "石川県牛首紬生産振興協同組合",
+      "url": "http://www.icnet.or.jp/dentou/national/09.html"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0118/",
+    "image": null,
+    "kougeihinId": "0118"
+  },
+  {
+    "id": "oumijoufu",
+    "name": "近江上布",
+    "kana": "おうみじょうふ",
+    "prefecture": "滋賀県",
+    "city": "東近江市、愛知郡愛荘町、犬上郡多賀町",
+    "lat": 35.1167,
+    "lon": 136.2,
+    "category": "textile",
+    "since": "1977年(昭和52年)指定",
+    "products": "着物地、帯、婦人服地",
+    "description": "愛知川流域の豊かな水と近江商人の活躍を背景に鎌倉時代から発展した麻織物で、江戸時代には彦根藩の振興によりさらに栄えた。型紙捺染や櫛押捺染で染めた上品な絣模様が特徴で、麻ならではの涼しく爽やかな着心地を持つ。",
+    "association": {
+      "name": "滋賀県麻織物工業協同組合",
+      "url": "https://omi-jofu.com"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0119/",
+    "image": null,
+    "kougeihinId": "0119"
+  },
+  {
+    "id": "nishijin-ori",
+    "name": "西陣織",
+    "kana": "にしじんおり",
+    "prefecture": "京都府",
+    "city": "京都市、宇治市、亀岡市、城陽市、長岡京市他",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "textile",
+    "since": "1976年(昭和51年)指定",
+    "products": "着物地、金襴（きんらん）、裂地、緞帳（どんちょう）",
+    "description": "応仁の乱で西軍の陣地があった地に由来する名を持ち、平安時代以前に秦氏がもたらした織技術を源流として宮廷文化とともに発展してきた。綴、錦、緞子、朱珍など多くの品種を少量ずつ生産する先染めの紋織物で、多色の糸を使った絢爛な意匠を誇る。",
+    "association": {
+      "name": "西陣織工業組合",
+      "url": "http://www.nishijin.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0120/",
+    "image": null,
+    "kougeihinId": "0120"
+  },
+  {
+    "id": "yumihamagasuri",
+    "name": "弓浜絣",
+    "kana": "ゆみはまがすり",
+    "prefecture": "鳥取県",
+    "city": "米子市、境港市",
+    "lat": 35.4281,
+    "lon": 133.3311,
+    "category": "textile",
+    "since": "1975年(昭和50年)指定",
+    "products": "着物地、座布団、のれん、袋物",
+    "description": "17世紀後半、鳥取県西部の弓ヶ浜地方で自家用の綿栽培から始まり、19世紀初めには農家の女性たちによる絵絣「浜の目絣」として発展した。糸を括って染め分ける技法により、縁起物や吉祥文様などを繊細かつ大胆に表現する素朴な風合いが特徴。",
+    "association": {
+      "name": "鳥取県弓浜絣協同組合",
+      "url": "https://sites.google.com/view/yumihamagasuri/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0121/",
+    "image": null,
+    "kougeihinId": "0121"
+  },
+  {
+    "id": "awashouaishijiraori",
+    "name": "阿波正藍しじら織",
+    "kana": "あわしょうあいしじらおり",
+    "prefecture": "徳島県",
+    "city": "徳島市",
+    "lat": 34.0703,
+    "lon": 134.5547,
+    "category": "textile",
+    "since": "1978年(昭和53年)指定",
+    "products": "着物地、のれん、ランチョンマット、ネクタイ、ハンカチ、タペストリー",
+    "description": "18世紀末に阿波地方で織られていた木綿縞「たたえ織」を、明治初期に改良して生まれた織物。濡れた布を天日で乾かした際に生じる自然な縮み模様がヒントになったと伝えられ、独特のしじら風合いが特徴。",
+    "association": {
+      "name": "阿波しじら織協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0122/",
+    "image": null,
+    "kougeihinId": "0122"
+  },
+  {
+    "id": "hakataori",
+    "name": "博多織",
+    "kana": "はかたおり",
+    "prefecture": "福岡県",
+    "city": "福岡市、筑紫野市、大野城市他、佐賀県／唐津市他、大分県",
+    "lat": 33.5904,
+    "lon": 130.4017,
+    "category": "textile",
+    "since": "1976年(昭和51年)指定",
+    "products": "帯、小物、ネクタイ、ドレス生地、インテリア製品",
+    "description": "鎌倉時代に博多商人が宋から持ち帰った織技術を起源とし、江戸時代には藩主黒田長政が幕府へ献上したことから「献上博多」の名で知られるようになった。平織は優美な艶を、紋織は緻密な柄と色合いを見せ、締めるときに絹鳴りがする帯として親しまれている。",
+    "association": {
+      "name": "博多織工業組合",
+      "url": "https://hakataori.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0123/",
+    "image": null,
+    "kougeihinId": "0123"
+  },
+  {
+    "id": "kurumegasuri",
+    "name": "久留米絣",
+    "kana": "くるめがすり",
+    "prefecture": "福岡県",
+    "city": "久留米市、八女市、筑後市、大川市、うきは市、八女郡広川町、三潴郡大木町",
+    "lat": 33.3192,
+    "lon": 130.5083,
+    "category": "textile",
+    "since": "1976年(昭和51年)指定",
+    "products": "着物地、洋装、インテリア商品",
+    "description": "19世紀初め、12歳の少女が古布の擦れた糸からヒントを得て考案したと伝わる木綿絣。久留米藩の奨励と絵絣・小絣などの技法改良により、大柄・小柄から絵絣まで幅広い表現を持つ産地に発展した。",
+    "association": {
+      "name": "久留米絣協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0124/",
+    "image": null,
+    "kougeihinId": "0124"
+  },
+  {
+    "id": "honbaooshimatsumugi",
+    "name": "本場大島紬",
+    "kana": "ほんばおおしまつむぎ",
+    "prefecture": "鹿児島県",
+    "city": "鹿児島県／奄美市、鹿児島市、大島郡竜郷町、喜界町、宮崎県／都城市他",
+    "lat": 28.3775,
+    "lon": 129.4931,
+    "category": "textile",
+    "since": "1975年(昭和50年)指定",
+    "products": "着物地",
+    "description": "奄美で7世紀頃に始まったとされ、18世紀初めに産地が形成された後、鹿児島本土にも技法が伝わった絹織物。締め機で作る精緻な絣模様と、シャリンバイと泥を使う「泥染め」による渋い光沢が特徴で、軽くしなやかでしわになりにくい。",
+    "association": {
+      "name": "鹿児島県本場大島紬協同組合連合会",
+      "url": "https://oshimatsumugi.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0125/",
+    "image": null,
+    "kougeihinId": "0125"
+  },
+  {
+    "id": "kumejimatsumugi",
+    "name": "久米島紬",
+    "kana": "くめじまつむぎ",
+    "prefecture": "沖縄県",
+    "city": "島尻郡久米島町",
+    "lat": 26.3358,
+    "lon": 126.7539,
+    "category": "textile",
+    "since": "1975年(昭和50年)指定",
+    "products": "着物地、洋装、帯、テーブルクロス、のれん、小物類",
+    "description": "14世紀頃に南方貿易を通じてインド由来の織法が伝わり、中国から学んだ養蚕技術とともに広まったとされる、日本の紬発祥の地ともいわれる織物。植物染料と泥染めによる深い焦げ茶色と、紡ぎ糸ならではのしなやかな風合いが特徴。",
+    "association": {
+      "name": "久米島紬事業協同組合",
+      "url": "https://www.kume-tumugi.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0126/",
+    "image": null,
+    "kougeihinId": "0126"
+  },
+  {
+    "id": "miyakojoufu",
+    "name": "宮古上布",
+    "kana": "みやこじょうふ",
+    "prefecture": "沖縄県",
+    "city": "宮古島市・宮古郡多良間村",
+    "lat": 24.8058,
+    "lon": 125.2811,
+    "category": "textile",
+    "since": "1975年(昭和50年)指定",
+    "products": "着物地",
+    "description": "琉球への貢船を救った宮古島の男の妻が心を込めて布を織り王に献上した、という伝承に始まるとされる麻織物。細い糸で織られた精緻な絣模様とロウを引いたような滑らかな地風を持ち、通気性に優れ丈夫で長く使えることから重宝されてきた。",
+    "association": {
+      "name": "宮古織物事業協同組合",
+      "url": "https://miyako-joufu.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0127/",
+    "image": null,
+    "kougeihinId": "0127"
+  },
+  {
+    "id": "yuntanzahanaui",
+    "name": "読谷山花織",
+    "kana": "ゆんたんざはなうい",
+    "prefecture": "沖縄県",
+    "city": "中頭郡読谷村",
+    "lat": 26.3928,
+    "lon": 127.7419,
+    "category": "textile",
+    "since": "1976年(昭和51年)指定",
+    "products": "着物地、テーブルセンター、帯",
+    "description": "南方由来とみられる意匠を持ち、15世紀には既に生産され、かつては琉球王朝への献上布として一般の着用が制限されていた織物。色糸を浮かせて織る可憐な花模様に絣の風合いを加えた、南国情緒あふれる意匠が特徴。",
+    "association": {
+      "name": "読谷山花織事業協同組合",
+      "url": "http://www.yomitanhanaori.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0128/",
+    "image": null,
+    "kougeihinId": "0128"
+  },
+  {
+    "id": "yuntanzaminsaa",
+    "name": "読谷山ミンサー",
+    "kana": "ゆんたんざみんさー",
+    "prefecture": "沖縄県",
+    "city": "中頭郡読谷村",
+    "lat": 26.3928,
+    "lon": 127.7419,
+    "category": "textile",
+    "since": "1976年(昭和51年)指定",
+    "products": "帯",
+    "description": "読谷山花織とほぼ同時期に始まったとされる、細帯を意味する「ミンサー」の名を持つ織物で、一度は生産が途絶えたものの古い技術を知る年配者の手で復活した。先染めの木綿絣糸を用い、南国らしい色彩感覚の紋様で知られる。",
+    "association": {
+      "name": "読谷山花織事業協同組合",
+      "url": "http://www.yomitanhanaori.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0129/",
+    "image": null,
+    "kougeihinId": "0129"
+  },
+  {
+    "id": "ryuukyuukasuri",
+    "name": "琉球絣",
+    "kana": "りゅうきゅうかすり",
+    "prefecture": "沖縄県",
+    "city": "那覇市、島尻郡八重瀬町、島尻郡南風原町",
+    "lat": 26.2124,
+    "lon": 127.6809,
+    "category": "textile",
+    "since": "1983年(昭和58年)指定",
+    "products": "着物地",
+    "description": "14〜15世紀の中国・東南アジアとの交易を機に始まったとされ、大正時代に本格的な産地として発展した織物。沖縄の動植物をモチーフにした幾何学文様が特徴で、絹糸を中心に草木染めや化学染料で染め上げられる。",
+    "association": {
+      "name": "琉球絣事業協同組合",
+      "url": "https://ryukyukasuri.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0130/",
+    "image": null,
+    "kougeihinId": "0130"
+  },
+  {
+    "id": "shuriori",
+    "name": "首里織",
+    "kana": "しゅりおり",
+    "prefecture": "沖縄県",
+    "city": "那覇市、中頭郡西原町、島尻郡南風原町",
+    "lat": 26.2124,
+    "lon": 127.6809,
+    "category": "textile",
+    "since": "1983年(昭和58年)指定",
+    "products": "着物地、帯、テーブルセンター",
+    "description": "14〜15世紀、東南アジアや中国との交易を通じて技術を学んだ琉球王国の中でも、王府の城下町として栄えた首里で発展した格調高い織物群。花倉織や道屯織など王家・貴族専用とされた織種を含み、多彩な織と絣の技法を伝えている。",
+    "association": {
+      "name": "那覇伝統織物事業協同組合",
+      "url": "https://shuri-ori.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0131/",
+    "image": null,
+    "kougeihinId": "0131"
+  },
+  {
+    "id": "yonaguniori",
+    "name": "与那国織",
+    "kana": "よなぐにおり",
+    "prefecture": "沖縄県",
+    "city": "八重山郡与那国町",
+    "lat": 24.4667,
+    "lon": 122.9833,
+    "category": "textile",
+    "since": "1987年(昭和62年)指定",
+    "products": "着物地、帯、飾布",
+    "description": "日本最西端の与那国島に約500年の歴史を持つとされる織物で、16世紀前半には貢ぎ物として納められていたとみられる。板花織のシダティや与那国花織、日常着のドゥタティなど、島の風土と人々の暮らしに根ざした素朴な手仕事が特徴。",
+    "association": {
+      "name": "与那国町伝統織物協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0132/",
+    "image": null,
+    "kougeihinId": "0132"
+  },
+  {
+    "id": "kijokanobashoufu",
+    "name": "喜如嘉の芭蕉布",
+    "kana": "きじょかのばしょうふ",
+    "prefecture": "沖縄県",
+    "city": "国頭郡大宣味村",
+    "lat": 26.6833,
+    "lon": 128.1667,
+    "category": "textile",
+    "since": "1988年(昭和63年)指定",
+    "products": "着物地、帯、座布団、ネクタイ、袋物、のれん、テーブルセンター",
+    "description": "13世紀頃には既に作られていたとみられ、庭先に植えた糸芭蕉から繊維を取り出し家庭で織られてきた沖縄を代表する織物。軽くさらりとした肌触りが盛夏の着物として愛され、昭和49年には重要無形文化財の総合指定を受けている。",
+    "association": {
+      "name": "喜如嘉芭蕉布事業協同組合",
+      "url": "https://bashofu.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0133/",
+    "image": null,
+    "kougeihinId": "0133"
+  },
+  {
+    "id": "yaeyamaminsaa",
+    "name": "八重山ミンサー",
+    "kana": "やえやまみんさー",
+    "prefecture": "沖縄県",
+    "city": "石垣市、八重山郡竹富町",
+    "lat": 24.34,
+    "lon": 124.1556,
+    "category": "textile",
+    "since": "1989年(平成1年)指定",
+    "products": "男物帯、女帯、ネクタイ、小物",
+    "description": "16世紀初めには既に織られていたとみられる木綿の細帯で、名は「綿の狭い帯」に由来するとされる。通い婚の時代に女性が想い人へ贈った風習があり、五つと四つの絣模様には「いつの世までも変わらぬ愛」の意味が込められている。",
+    "association": {
+      "name": "竹富町織物事業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0134/",
+    "image": null,
+    "kougeihinId": "0134"
+  },
+  {
+    "id": "yaeyamajoufu",
+    "name": "八重山上布",
+    "kana": "やえやまじょうふ",
+    "prefecture": "沖縄県",
+    "city": "石垣市、八重山郡竹富町",
+    "lat": 24.34,
+    "lon": 124.1556,
+    "category": "textile",
+    "since": "1989年(平成1年)指定",
+    "products": "着物地、帯、タペストリー、のれん",
+    "description": "17世紀初めの薩摩侵攻後に課された人頭税のもとで発展したとされる麻織物で、明治末の人頭税廃止後に組合が結成され産業として栄えた。苧麻の手紡ぎ糸を植物染料で染め、全て手織りで仕上げるため風合いが一枚ごとに異なり、涼やかな肌触りが夏の着物に適している。",
+    "association": {
+      "name": "石垣市織物事業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0135/",
+    "image": null,
+    "kougeihinId": "0135"
+  },
+  {
+    "id": "chibanahanaori",
+    "name": "知花花織",
+    "kana": "ちばなはなおり",
+    "prefecture": "沖縄県",
+    "city": "沖縄市",
+    "lat": 26.3342,
+    "lon": 127.8056,
+    "category": "textile",
+    "since": "2012年(平成24年)指定",
+    "products": "着物地、帯、羽尺、小物",
+    "description": "旧美里村（現・沖縄市）で盛んに織られてきた経浮花織の紋織物で、19世紀後半には技法が確立し、祭事用の衣装などに用いられてきた。第二次大戦で一時途絶えたが、五穀豊穣を祈る伝統行事の衣装として今も着用され、裏地に経糸が浮くのが特徴。",
+    "association": {
+      "name": "知花花織事業協同組合",
+      "url": "https://www.chibana-hanaori.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0136/",
+    "image": null,
+    "kougeihinId": "0136"
+  },
+  {
+    "id": "haebaruhanaori",
+    "name": "南風原花織",
+    "kana": "はえばるはなおり",
+    "prefecture": "沖縄県",
+    "city": "沖縄県　鳥尻郡南風原町",
+    "lat": 26.1889,
+    "lon": 127.7261,
+    "category": "textile",
+    "since": "2017年(平成29年)指定",
+    "products": "",
+    "description": "明治以降、沖縄県南風原町で生産されてきた組織織の織物。花のように美しい立体的な柄が特徴で、クヮンクヮン花織やチップガサーなど独自の名称を持つ模様が伝えられている。",
+    "association": {
+      "name": "琉球絣事業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0137/",
+    "image": null,
+    "kougeihinId": "0137"
+  },
+  {
+    "id": "okuaizushouwakaramushiori",
+    "name": "奥会津昭和からむし織",
+    "kana": "おくあいづしょうわからむしおり",
+    "prefecture": "福島県",
+    "city": "大沼郡昭和村",
+    "lat": 37.3833,
+    "lon": 139.6833,
+    "category": "textile",
+    "since": "2017年(平成29年)指定",
+    "products": "",
+    "description": "苧麻とも呼ばれる植物「からむし」の栽培から糸づくり、織りまでを手作業で行う福島県昭和村の織物。吸湿性・速乾性に優れ、夏物の衣料や小物などに仕立てられる。",
+    "association": {
+      "name": "昭和村からむし後継者育成協議会"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0138/",
+    "image": null,
+    "kougeihinId": "0138"
+  },
+  {
+    "id": "toukyousomekomon",
+    "name": "東京染小紋",
+    "kana": "とうきょうそめこもん",
+    "prefecture": "東京都",
+    "city": "千代田区、新宿区、世田谷区、豊島区、練馬区他",
+    "lat": 35.6938,
+    "lon": 139.7532,
+    "category": "dyeing",
+    "since": "1976年(昭和51年)指定",
+    "products": "着物地、羽織",
+    "description": "室町時代に起源を持ち、江戸時代に諸大名の裃を染める産地として発展した染物。伊勢形紙を熟練の職人が手彫りし、単色でも格調高く見える微細な幾何学模様が特徴。",
+    "association": {
+      "name": "東京都染色工業協同組合",
+      "url": "http://www.tokyo-senshoku.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0201/",
+    "image": null,
+    "kougeihinId": "0201"
+  },
+  {
+    "id": "toukyoutegakiyuuzen",
+    "name": "東京手描友禅",
+    "kana": "とうきょうてがきゆうぜん",
+    "prefecture": "東京都",
+    "city": "特別区全域他",
+    "lat": 35.6938,
+    "lon": 139.7532,
+    "category": "dyeing",
+    "since": "1980年(昭和55年)指定",
+    "products": "着物地、羽織、帯",
+    "description": "江戸中期、関西から移り住んだ染師によって様々な技法が伝わり、町人文化の発達とともに発展した友禅染め。色数を抑えた粋なデザインに、地味さの中にも明るさと新しさを感じさせる意匠が特徴。",
+    "association": {
+      "name": "東京都工芸染色協同組合",
+      "url": "http://www.tokyotegakiyuzen.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0202/",
+    "image": null,
+    "kougeihinId": "0202"
+  },
+  {
+    "id": "kagayuuzen",
+    "name": "加賀友禅",
+    "kana": "かがゆうぜん",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "lat": 36.5613,
+    "lon": 136.6562,
+    "category": "dyeing",
+    "since": "1975年(昭和50年)指定",
+    "products": "着物地、帯、小物",
+    "description": "15世紀中頃には存在したとされる加賀独自の染め技法「梅染」を源流とし、江戸中期に京都から来た宮崎友禅斎の指導で絵画的な意匠が確立された染物。写実的な草花模様を中心とした落ち着いた色合いに、加賀百万石の文化を映す気品が漂う。",
+    "association": {
+      "name": "協同組合加賀染振興協会",
+      "url": "http://www.kagayuzen.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0203/",
+    "image": null,
+    "kougeihinId": "0203"
+  },
+  {
+    "id": "arimatsu-narumishibori",
+    "name": "有松・鳴海絞",
+    "kana": "ありまつ・なるみしぼり",
+    "prefecture": "愛知県",
+    "city": "名古屋市、岡崎市、半田市、刈谷市、知多半島他",
+    "lat": 35.1815,
+    "lon": 136.9066,
+    "category": "dyeing",
+    "since": "1975年(昭和50年)指定",
+    "products": "着物地、羽織、浴衣（ゆかた）",
+    "description": "奈良時代に起源を持つ絞り染めの技法が、江戸初期に名古屋城築城に携わった人々によって伝えられたのが始まりとされる。縫絞やくも絞、鹿の子絞など100種にも及ぶ多彩な技法を持ち、藍染めならではの絞り独特の濃淡の風合いが特徴。",
+    "association": {
+      "name": "愛知県絞工業組合",
+      "url": "http://arimatsu-narumishibori.com/ikusei.html"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0204/",
+    "image": null,
+    "kougeihinId": "0204"
+  },
+  {
+    "id": "nagoyayuuzen",
+    "name": "名古屋友禅",
+    "kana": "なごやゆうぜん",
+    "prefecture": "愛知県",
+    "city": "名古屋市、春日井市",
+    "lat": 35.1815,
+    "lon": 136.9066,
+    "category": "dyeing",
+    "since": "1983年(昭和58年)指定",
+    "products": "着物地",
+    "description": "18世紀前半、尾張文化の隆盛とともに京都などから伝わったとされる友禅染め。色数を抑え単色の濃淡で描く渋みのある柄が特徴で、独自の「トロ引黒染」による艶やかな黒染めの留袖でも知られる。",
+    "association": {
+      "name": "名古屋友禅黒紋付協同組合連合会",
+      "url": "https://www.pref.aichi.jp/soshiki/sangyoshinko/204.html"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0205/",
+    "image": null,
+    "kougeihinId": "0205"
+  },
+  {
+    "id": "nagoyakuromontsukizome",
+    "name": "名古屋黒紋付染",
+    "kana": "なごやくろもんつきぞめ",
+    "prefecture": "愛知県",
+    "city": "名古屋市、西尾市",
+    "lat": 35.1815,
+    "lon": 136.9066,
+    "category": "dyeing",
+    "since": "1983年(昭和58年)指定",
+    "products": "着物地、羽織",
+    "description": "江戸初期、尾張藩士が徳川家康に認められ旗印などの染色を手がけたのが始まりとされ、末期には庶民の黒紋付染としても広まった。紋の際をきれいに染める紋当網付の技法と、艶やかな黒に染め上げる「トロ引黒染」が特徴。",
+    "association": {
+      "name": "名古屋友禅黒紋付協同組合連合会",
+      "url": "https://www.pref.aichi.jp/soshiki/sangyoshinko/205.html"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0206/",
+    "image": null,
+    "kougeihinId": "0206"
+  },
+  {
+    "id": "kyoukanokoshibori",
+    "name": "京鹿の子絞",
+    "kana": "きょうかのこしぼり",
+    "prefecture": "京都府",
+    "city": "京都市、亀岡市、綴喜郡井手町、笠置町、和束町",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "dyeing",
+    "since": "1976年(昭和51年)指定",
+    "products": "着物地、羽織、兵児帯、帯揚、洋装用品、室内装飾品",
+    "description": "千数百年前から宮廷衣装の文様表現として用いられてきた絞り染めの一種で、括った模様が子鹿の斑点に似ることから名付けられた。室町から江戸初期には辻が花染として広まり、江戸中期に最盛期を迎えた、疋田絞や一目絞による立体的な意匠が特徴。",
+    "association": {
+      "name": "京鹿の子絞振興協同組合",
+      "url": "http://www.kyokanoko-shibori.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0207/",
+    "image": null,
+    "kougeihinId": "0207"
+  },
+  {
+    "id": "kyouyuuzen",
+    "name": "京友禅",
+    "kana": "きょうゆうぜん",
+    "prefecture": "京都府",
+    "city": "京都市、宇治市、亀岡市、城陽市、向日市、久世郡久御山町",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "dyeing",
+    "since": "1976年(昭和51年)指定",
+    "products": "着物地、コート、羽織",
+    "description": "8世紀に遡る染色技法を背景に、江戸時代の京都の絵師宮崎友禅斎が自らの画風を模様染めに生かしたことから生まれたとされる染物。防染の糸目糊を使い分け、多彩な色で絵画のような模様を描き出す技法が特徴。",
+    "association": {
+      "name": "京友禅協同組合連合会",
+      "url": "http://www.kyosenren.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0208/",
+    "image": null,
+    "kougeihinId": "0208"
+  },
+  {
+    "id": "kyoukomon",
+    "name": "京小紋",
+    "kana": "きょうこもん",
+    "prefecture": "京都府",
+    "city": "京都市、宇治市、亀岡市、城陽市、向日市他",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "dyeing",
+    "since": "1976年(昭和51年)指定",
+    "products": "着物地、コート、羽織",
+    "description": "基本の型紙は1200年前に遡るとされ、応仁の乱後に辻ヶ花染や茶屋染とともに堀川周辺で染色職人町が形成される中で技術が磨かれた。上杉謙信や徳川家康の衣装にも用いられた小紋染めの系譜を引き、一色で細かな文様を型染めする技法から大胆な図案まで幅広く手がける。",
+    "association": {
+      "name": "京友禅協同組合連合会",
+      "url": "http://www.kyosenren.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0209/",
+    "image": null,
+    "kougeihinId": "0209"
+  },
+  {
+    "id": "kyoukuromontsukizome",
+    "name": "京黒紋付染",
+    "kana": "きょうくろもんつきぞめ",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "dyeing",
+    "since": "1979年(昭和54年)指定",
+    "products": "着物地、羽織",
+    "description": "黒染めの歴史は10世紀に遡るとされ、17世紀初めに黒紋付染として確立、江戸中期以降は武士階級に愛用された。明治には礼服として広まり、紅や藍で下染めしてから黒く染め上げる「黒浸染」や「黒引染」の技法により、深みのある黒色に仕上げる。",
+    "sourceUrl": "https://kougeihin.jp/craft/0210/",
+    "image": null,
+    "kougeihinId": "0210"
+  },
+  {
+    "id": "naniwahonzome",
+    "name": "浪華本染め",
+    "kana": "なにわほんぞめ",
+    "prefecture": "大阪府",
+    "city": "堺市、柏原市",
+    "lat": 34.5733,
+    "lon": 135.4831,
+    "category": "dyeing",
+    "since": "2019年(令和元年)指定",
+    "products": "手ぬぐい、ゆかた",
+    "description": "手拭いの大産地だった大阪で、明治20年頃に防染糊を置いた生地を重ねて染料を注ぐ「注染」の技法として生まれた染物。表裏両面から染料が浸透するため風合いが豊かで、差し分けやぼかしなど職人が磨いた多色染めの技法により、手拭いやゆかたなど日用品に広く使われている。",
+    "association": {
+      "name": "協同組合オリセン",
+      "url": "https://www.osaka-orisen.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/02100/",
+    "image": null,
+    "kougeihinId": "02100"
+  },
+  {
+    "id": "ryuukyuubingata",
+    "name": "琉球びんがた",
+    "kana": "りゅうきゅうびんがた",
+    "prefecture": "沖縄県",
+    "city": "那覇市、宜野湾市、浦添市、糸満市、豊見城市",
+    "lat": 26.2124,
+    "lon": 127.6809,
+    "category": "dyeing",
+    "since": "1984年(昭和59年)指定",
+    "products": "着物地、帯、飾布",
+    "description": "15世紀半ばに起源を持つとされ、琉球王府の保護のもとで発展し、19世紀初めには貿易品として中国にも知られていた沖縄唯一の染物。中国の型紙技法や京友禅の手法も取り入れ、色鮮やかな「紅型」と琉球藍で染める「藍型」の二系統があり、南国らしい鮮烈な色彩が特徴。",
+    "association": {
+      "name": "琉球びんがた事業協同組合",
+      "url": "http://www.ryukyu-bingata.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0211/",
+    "image": null,
+    "kougeihinId": "0211"
+  },
+  {
+    "id": "toukyoumujizome",
+    "name": "東京無地染",
+    "kana": "とうきょうむじぞめ",
+    "prefecture": "東京都",
+    "city": "千代田区、新宿区、墨田区、江東区、中野区、杉並区、豊島区、北区、板橋区、練馬区、足立区、神奈川県/川崎市",
+    "lat": 35.6938,
+    "lon": 139.7532,
+    "category": "dyeing",
+    "since": "2017年(平成29年)指定",
+    "products": "",
+    "description": "江戸中後期の染物職人が用いた江戸紫や藍、紅花などの無地染を起源とする染物。複数回染め重ねることで微妙な色合いを作り出す点に特色がある。",
+    "association": {
+      "name": "東京都染色工業協同組合",
+      "url": "http://www.tokyo-senshoku.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0212/",
+    "image": null,
+    "kougeihinId": "0212"
+  },
+  {
+    "id": "gyoudatabi",
+    "name": "行田足袋",
+    "kana": "ぎょうだたび",
+    "prefecture": "埼玉県",
+    "city": "行田市",
+    "lat": 36.14,
+    "lon": 139.4581,
+    "category": "textile",
+    "since": "2019年(令和元年)指定",
+    "products": "足袋",
+    "description": "江戸中期から特産品として知られるようになり、江戸や東北へも出荷された埼玉県行田市の足袋。明治後期のミシン導入で生産量が増え、行田は全国一の足袋産地となった。",
+    "association": {
+      "name": "「行田足袋」振興会"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0300/",
+    "image": null,
+    "kougeihinId": "0300"
+  },
+  {
+    "id": "kaganui",
+    "name": "加賀繍",
+    "kana": "かがぬい",
+    "prefecture": "石川県",
+    "city": "金沢市、能美市、白山市",
+    "lat": 36.5613,
+    "lon": 136.6562,
+    "category": "textile",
+    "since": "1991年(平成3年)指定",
+    "products": "着物地、帯、袱紗（ふくさ）、衝立、掛軸、装飾用額",
+    "description": "室町初期、仏教の布教とともに打敷や袈裟の装飾として京都から伝わり、江戸時代には藩主の陣羽織や奥方の着物にも用いられ「加賀の繍い」として発展した。金銀糸や多彩な絹糸を一針ずつ刺し込んで描く、華やかで気品ある文様が特徴。",
+    "association": {
+      "name": "石川県加賀刺繍協同組合",
+      "url": "http://www.kaganui.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0301/",
+    "image": null,
+    "kougeihinId": "0301"
+  },
+  {
+    "id": "igakumihimo",
+    "name": "伊賀くみひも",
+    "kana": "いがくみひも",
+    "prefecture": "三重県",
+    "city": "伊賀市、名張市",
+    "lat": 34.7686,
+    "lon": 136.1281,
+    "category": "textile",
+    "since": "1976年(昭和51年)指定",
+    "products": "帯締め、羽織紐、ネクタイ",
+    "description": "奈良時代以前にさかのぼるとされ、仏具・神具や武具の紐として発展し、廃刀令後は帯締めや羽織紐として親しまれてきたくみひも。染め上げた絹糸を一筋ずつ組み合わせることで生まれる独特の風合いが特徴。",
+    "association": {
+      "name": "三重県組紐協同組合",
+      "url": "http://www.kumihimo.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0302/",
+    "image": null,
+    "kougeihinId": "0302"
+  },
+  {
+    "id": "kyounui",
+    "name": "京繍",
+    "kana": "きょうぬい",
+    "prefecture": "京都府",
+    "city": "京都市、宇治市",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "textile",
+    "since": "1976年(昭和51年)指定",
+    "products": "着物地、羽織、旗幕、緞帳（どんちょう",
+    "description": "平安京に刺繍職人を抱える織部司が置かれたことに始まるとされ、宮崎友禅斎が友禅染めを完成させる以前は鹿の子絞や摺り箔と並ぶ重要な加飾法として発展した。絹や金銀糸を用いた約30種の技法で、雅やかな平安の趣を伝える華麗な意匠を生み出す。",
+    "association": {
+      "name": "京都刺繍協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0303/",
+    "image": null,
+    "kougeihinId": "0303"
+  },
+  {
+    "id": "kyoukumihimo",
+    "name": "京くみひも",
+    "kana": "きょうくみひも",
+    "prefecture": "京都府",
+    "city": "京都市、宇治市",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "textile",
+    "since": "1976年(昭和51年)指定",
+    "products": "和装飾用、帯締め、羽織紐（ひも）、和洋服飾品",
+    "description": "縄文時代から使われていた撚りひもを源流に、平安時代に技術が確立し、鎌倉時代には武具用として、江戸時代には羽織紐として発達したとされる組紐。用途に応じた組み方が3500種にも及び、現在は帯締めなど和装小物として親しまれている。",
+    "association": {
+      "name": "京くみひも工業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0304/",
+    "image": null,
+    "kougeihinId": "0304"
+  },
+  {
+    "id": "ooborisoumayaki",
+    "name": "大堀相馬焼",
+    "kana": "おおぼりそうまやき",
+    "prefecture": "福島県",
+    "city": "双葉郡浪江町",
+    "lat": 37.4903,
+    "lon": 141.0,
+    "category": "ceramics",
+    "since": "1978年(昭和53年)指定",
+    "products": "茶器、酒器、花器、灰皿",
+    "description": "江戸初期の1690年頃、相馬藩の保護を受けて始まったとされる陶器で、最盛期には東北一の窯業地となった。器全体をひび割れ模様が覆う「青ひび」が特徴で、産地でのみ採れる砥山石を使った青磁釉によって生み出される。",
+    "association": {
+      "name": "大堀相馬焼協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0401/",
+    "image": null,
+    "kougeihinId": "0401"
+  },
+  {
+    "id": "aizuhongouyaki",
+    "name": "会津本郷焼",
+    "kana": "あいづほんごうやき",
+    "prefecture": "福島県",
+    "city": "大沼郡会津美里町",
+    "lat": 37.4,
+    "lon": 139.8667,
+    "category": "ceramics",
+    "since": "1993年(平成5年)指定",
+    "products": "食卓用品、茶器、花器、酒器",
+    "description": "戦国時代、若松城の瓦を焼いたことに始まるとされ、江戸初期には会津藩の御用窯として発展した、東北最古とされる白磁の産地。同じ産地で陶器と磁器の両方が作られ、染付や多色の色絵など表現の幅が広い。",
+    "association": {
+      "name": "会津本郷焼事業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0402/",
+    "image": null,
+    "kougeihinId": "0402"
+  },
+  {
+    "id": "kasamayaki",
+    "name": "笠間焼",
+    "kana": "かさまやき",
+    "prefecture": "茨城県",
+    "city": "笠間市、水戸市、石岡市、常陸太田市、ひたちなか市、筑西市他",
+    "lat": 36.3608,
+    "lon": 140.2536,
+    "category": "ceramics",
+    "since": "1992年(平成4年)指定",
+    "products": "洋食器、和食器、花器、置物",
+    "description": "江戸中期、信楽焼の陶工の指導を受けて始まったとされる陶器。台所用品から現在は食器や花瓶、置物へと作風が広がり、伝統から個性的な創作まで多様な作品が共存する産地として知られる。",
+    "association": {
+      "name": "笠間焼協同組合",
+      "url": "https://www.kasamayaki.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0403/",
+    "image": null,
+    "kougeihinId": "0403"
+  },
+  {
+    "id": "mashikoyaki",
+    "name": "益子焼",
+    "kana": "ましこやき",
+    "prefecture": "栃木県",
+    "city": "真岡市、芳賀郡益子町、市貝町、茂木町",
+    "lat": 36.4333,
+    "lon": 140.0083,
+    "category": "ceramics",
+    "since": "1979年(昭和54年)指定",
+    "products": "食器、花器類",
+    "description": "19世紀半ば、笠間焼の影響を受けて始まった陶器で、大正期に陶芸家・浜田庄司が移り住んだことで広く知られるようになった。地元でとれる陶土を生かした白化粧や刷毛目など、力強く素朴な作風が特徴。",
+    "association": {
+      "name": "益子焼協同組合",
+      "url": "https://mashikoyakikumiai.shop/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0404/",
+    "image": null,
+    "kougeihinId": "0404"
+  },
+  {
+    "id": "kutaniyaki",
+    "name": "九谷焼",
+    "kana": "くたにやき",
+    "prefecture": "石川県",
+    "city": "金沢市、小松市、加賀市、能美市",
+    "lat": 36.5613,
+    "lon": 136.6562,
+    "category": "ceramics",
+    "since": "1975年(昭和50年)指定",
+    "products": "花器、食器、茶器、置物、酒器",
+    "description": "17世紀半ば、九谷の陶石発見と加賀藩士が有田で学んだ磁器技術を背景に始まった「古九谷」を源流とし、19世紀に再興されて多様な画風の窯元が現れた。緑・黄・赤・紫・紺青の五彩を用いた力強い上絵付けと、青みを帯びた素地の落ち着いた色調が特徴。",
+    "association": {
+      "name": "石川県九谷陶磁器商工業協同組合連合会",
+      "url": "https://kutani.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0405/",
+    "image": null,
+    "kougeihinId": "0405"
+  },
+  {
+    "id": "minoyaki",
+    "name": "美濃焼",
+    "kana": "みのやき",
+    "prefecture": "岐阜県",
+    "city": "多治見市、土岐市、瑞浪市、可児市、恵那市、可児郡御嵩町",
+    "lat": 35.3325,
+    "lon": 137.1333,
+    "category": "ceramics",
+    "since": "1978年(昭和53年)指定",
+    "products": "花器、茶器、飲食器、置物",
+    "description": "1300年以上前、朝鮮半島から伝わった須恵器の技術に始まり、平安時代には灰釉を施した白瓷が焼かれるようになった陶器。志野・黄瀬戸・織部・瀬戸黒など15種の様式を持ち、茶の湯文化とともに多彩な作風を育んできた。",
+    "association": {
+      "name": "美濃焼伝統工芸品協同組合",
+      "url": "http://www.minoyaki.gr.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0406/",
+    "image": null,
+    "kougeihinId": "0406"
+  },
+  {
+    "id": "tokonameyaki",
+    "name": "常滑焼",
+    "kana": "とこなめやき",
+    "prefecture": "愛知県",
+    "city": "常滑市、半田市、知多市",
+    "lat": 34.8936,
+    "lon": 136.8286,
+    "category": "ceramics",
+    "since": "1976年(昭和51年)指定",
+    "products": "茶器、花器、置物、植木鉢、壷、かめ",
+    "description": "平安末期にまでさかのぼり、日本六古窯の一つに数えられる陶器で、経塚壺から茶道具、生活雑器、さらに明治以降は土管やタイルまで時代とともに製品を広げてきた。鉄分を赤く発色させる土味の豊かさが特徴で、素朴な土肌を生かした器から釉薬をかけたものまで幅広い。",
+    "association": {
+      "name": "とこなめ焼協同組合",
+      "url": "http://www.tokonameyaki.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0407/",
+    "image": null,
+    "kougeihinId": "0407"
+  },
+  {
+    "id": "akazuyaki",
+    "name": "赤津焼",
+    "kana": "あかづやき",
+    "prefecture": "愛知県",
+    "city": "瀬戸市",
+    "lat": 35.2233,
+    "lon": 137.0864,
+    "category": "ceramics",
+    "since": "1977年(昭和52年)指定",
+    "products": "茶器、花器、飲食器",
+    "description": "奈良時代の須恵器にルーツを持ち、桃山から江戸初期にかけて志野・織部・黄瀬戸・御深井などの釉薬技法が確立された、尾張徳川家の御用窯として栄えた陶器。7種の釉薬とへら彫り・印花・櫛目・三島手など12の加飾技法を使い分け、茶道具や生け花道具などを手がける。",
+    "association": {
+      "name": "赤津焼工業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0408/",
+    "image": null,
+    "kougeihinId": "0408"
+  },
+  {
+    "id": "setosometsukeyaki",
+    "name": "瀬戸染付焼",
+    "kana": "せとそめつけやき",
+    "prefecture": "愛知県",
+    "city": "瀬戸市、尾張旭市",
+    "lat": 35.2233,
+    "lon": 137.0864,
+    "category": "ceramics",
+    "since": "1997年(平成9年)指定",
+    "products": "食卓用品、茶道具、華道具、室内装飾用品",
+    "description": "19世紀初め、九州から持ち帰った磁器焼成の技術と中国風の絵付け技術が結びついて発展した磁器。素焼きの生地に呉須の藍色で直接絵を描く下絵付けにより、鳥や花、風景を潤いのある筆致で表現するのが持ち味。",
+    "association": {
+      "name": "瀬戸染付焼工業協同組合",
+      "url": "http://www.aitohko.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0409/",
+    "image": null,
+    "kougeihinId": "0409"
+  },
+  {
+    "id": "yokkaichibankoyaki",
+    "name": "四日市萬古焼",
+    "kana": "よっかいちばんこやき",
+    "prefecture": "三重県",
+    "city": "四日市市、桑名市、鈴鹿市、いなべ市、員弁郡東員町、三重郡菰野町、朝日町、川越町",
+    "lat": 34.9653,
+    "lon": 136.6244,
+    "category": "ceramics",
+    "since": "1979年(昭和54年)指定",
+    "products": "急須、茶器、花器、酒器、室内置物",
+    "description": "江戸中期の茶人・沼波弄山が「萬古不易」の印を押したことに名の由来を持つ陶器で、一時途絶えた後、江戸後期に再興し明治期に現在の技法の礎が築かれた。使い込むほどに落ち着いた艶が生まれる急須で特に親しまれている。",
+    "association": {
+      "name": "萬古陶磁器工業協同組合",
+      "url": "http://banko.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0410/",
+    "image": null,
+    "kougeihinId": "0410"
+  },
+  {
+    "id": "igayaki",
+    "name": "伊賀焼",
+    "kana": "いがやき",
+    "prefecture": "三重県",
+    "city": "伊賀市、名張市",
+    "lat": 34.7686,
+    "lon": 136.1281,
+    "category": "ceramics",
+    "since": "1982年(昭和57年)指定",
+    "products": "茶器、花器、土器、行平（ゆきひら）、食器",
+    "description": "7世紀後半から8世紀にさかのぼる須恵器に始まり、安土桃山時代に茶の湯の器として全国に知られるようになった陶器。窯の中の状態によって色や形が変化する「窯変」によるガラス質の付着や焦げ、力強い形が特徴。",
+    "association": {
+      "name": "伊賀焼振興協同組合",
+      "url": "http://www.igayaki.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0411/",
+    "image": null,
+    "kougeihinId": "0411"
+  },
+  {
+    "id": "echizenyaki",
+    "name": "越前焼",
+    "kana": "えちぜんやき",
+    "prefecture": "福井県",
+    "city": "福井市、あわら市、丹生郡越前町、三方上中郡若狭町",
+    "lat": 36.0652,
+    "lon": 136.2217,
+    "category": "ceramics",
+    "since": "1986年(昭和61年)指定",
+    "products": "酒器、花器、茶器、日用雑器、壷、かめ",
+    "description": "平安時代末期に起源を持つ日本六古窯の一つで、200基以上の古窯跡が確認されている。釉薬を使わない焼き締めや灰釉・鉄釉を用いた素朴な肌合いが特徴で、かめや壺など暮らしの器として発展してきた。",
+    "association": {
+      "name": "越前焼工業協同組合",
+      "url": "http://www.echizenyaki.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0412/",
+    "image": null,
+    "kougeihinId": "0412"
+  },
+  {
+    "id": "shigarakiyaki",
+    "name": "信楽焼",
+    "kana": "しがらきやき",
+    "prefecture": "滋賀県",
+    "city": "甲賀市",
+    "lat": 34.9667,
+    "lon": 136.2,
+    "category": "ceramics",
+    "since": "1975年(昭和50年)指定",
+    "products": "花器、食器、傘立、置物、植木鉢、庭園用品",
+    "description": "奈良時代、紫香楽宮の瓦を焼いたことに始まるとされる日本六古窯の一つで、鎌倉・室町期には水がめや茶道具の名品を生み、近代には火鉢や生活雑器へと展開した。登り窯で薪の灰が溶け付いて生まれる自然釉や火色、灰かぶりなど、土の味わいを生かした素朴な表情が特徴。",
+    "association": {
+      "name": "信楽陶器工業協同組合",
+      "url": "http://www.shigaraki.ne.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0413/",
+    "image": null,
+    "kougeihinId": "0413"
+  },
+  {
+    "id": "kyouyaki-kiyomizuyaki",
+    "name": "京焼・清水焼",
+    "kana": "きょうやき・きよみずやき",
+    "prefecture": "京都府",
+    "city": "京都市、宇治市、城陽市、向日市、亀岡市、長岡京市",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "ceramics",
+    "since": "1977年(昭和52年)指定",
+    "products": "飲食器、花器、茶器、香道（こうどう）用品",
+    "description": "平安京造営とともに本格化したとされ、江戸時代には仁清・乾山、後に磁器を完成させた頴川など数々の名工を輩出した。原料の陶石は地元で採れず他産地から仕入れるが、繊細で優麗な伝統的意匠と現代の暮らしに合う斬新な器づくりが共存している。",
+    "association": {
+      "name": "京都陶磁器協同組合連合会",
+      "url": "http://www.kyoyaki.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0414/",
+    "image": null,
+    "kougeihinId": "0414"
+  },
+  {
+    "id": "tanbatachikuiyaki",
+    "name": "丹波立杭焼",
+    "kana": "たんばたちくいやき",
+    "prefecture": "兵庫県",
+    "city": "丹波篠山市、三田市、加西市",
+    "lat": 35.0728,
+    "lon": 135.22,
+    "category": "ceramics",
+    "since": "1978年(昭和53年)指定",
+    "products": "食器、酒器、茶器、花器、置物、植木鉢",
+    "description": "平安時代末期に起源を持つ日本六古窯の一つで、桃山期以降は登り窯とこの産地独特の蹴ろくろで技術を受け継いできた。江戸時代に小堀遠州らの指導で茶器の名品を多く生み、松薪の灰が釉と溶け合って生まれる「灰被り」など、一つひとつ表情の異なる窯変が魅力。",
+    "association": {
+      "name": "丹波立杭陶磁器協同組合",
+      "url": "http://www.tanbayaki.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0415/",
+    "image": null,
+    "kougeihinId": "0415"
+  },
+  {
+    "id": "izushiyaki",
+    "name": "出石焼",
+    "kana": "いずしやき",
+    "prefecture": "兵庫県",
+    "city": "豊岡市",
+    "lat": 35.5439,
+    "lon": 134.8228,
+    "category": "ceramics",
+    "since": "1980年(昭和55年)指定",
+    "products": "花器、茶器",
+    "description": "江戸中期に地元で白磁の原石が発見され、藩主が有田から陶工を招いて磁器づくりを始めたのが起こり。磁器産地の中でも数少ない純白の白磁を特徴とし、彫りや透かし彫りによる高度な装飾が絹肌のような清楚な美しさを引き立てる。",
+    "association": {
+      "name": "出石焼陶友会",
+      "url": "https://www.izushi.co.jp/izushiyaki/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0416/",
+    "image": null,
+    "kougeihinId": "0416"
+  },
+  {
+    "id": "iwamiyaki",
+    "name": "石見焼",
+    "kana": "いわみやき",
+    "prefecture": "島根県",
+    "city": "江津市、浜田市、益田市、大田市、鹿足郡津和野町",
+    "lat": 35.0136,
+    "lon": 132.2181,
+    "category": "ceramics",
+    "since": "1994年(平成6年)指定",
+    "products": "水かめ、すり鉢、炊事用品",
+    "description": "江戸中期、地元の職人が山口の陶工から製陶法を学んで片口や徳利を焼き始め、その後備前から水がめなど大物陶器の技法も伝わったとされる。鉄分を含む釉による茶褐色や、焼成の具合で黄土色にも青色にも変化する透明釉が特徴。",
+    "association": {
+      "name": "石見陶器工業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0417/",
+    "image": null,
+    "kougeihinId": "0417"
+  },
+  {
+    "id": "bizenyaki",
+    "name": "備前焼",
+    "kana": "びぜんやき",
+    "prefecture": "岡山県",
+    "city": "備前市、岡山市、瀬戸内市",
+    "lat": 34.7167,
+    "lon": 134.1667,
+    "category": "ceramics",
+    "since": "1982年(昭和57年)指定",
+    "products": "食器、酒器、茶器、花器、置物",
+    "description": "平安時代から続く日本六古窯の一つで、室町末期から茶人に愛され多くの茶道具が焼かれた。釉薬も絵付けも使わず、赤松の薪で約2週間焼き続ける中で生まれる「窯変」により、同じものが二つとない自然の表情を持つ。",
+    "association": {
+      "name": "協同組合岡山県備前焼陶友会",
+      "url": "https://touyuukai.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0418/",
+    "image": null,
+    "kougeihinId": "0418"
+  },
+  {
+    "id": "hagiyaki",
+    "name": "萩焼",
+    "kana": "はぎやき",
+    "prefecture": "山口県",
+    "city": "萩市、長門市、山口市、阿武郡阿武町",
+    "lat": 34.4083,
+    "lon": 131.4022,
+    "category": "ceramics",
+    "since": "2002年(平成14年)指定",
+    "products": "茶器、花器、食器、装飾用品",
+    "description": "約400年前、毛利輝元が朝鮮出兵の際に連れ帰った陶工兄弟が萩で御用窯を開いたことに始まる。焼き締まりの少ない柔らかな土味と高い吸水性が特徴で、長年使ううちに茶や酒が浸透し色合いが変化する「茶馴れ」が茶人に愛されている。",
+    "association": {
+      "name": "萩陶芸家協会",
+      "url": "https://hagi-tougei.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0419/",
+    "image": null,
+    "kougeihinId": "0419"
+  },
+  {
+    "id": "ootaniyaki",
+    "name": "大谷焼",
+    "kana": "おおたにやき",
+    "prefecture": "徳島県",
+    "city": "鳴門市",
+    "lat": 34.1731,
+    "lon": 134.6081,
+    "category": "ceramics",
+    "since": "2003年(平成15年)指定",
+    "products": "酒器、かめ、鉢",
+    "description": "18世紀末、徳島藩主の命で始まった磁器生産が材料不足で頓挫した後、信楽の技術を学んだ職人が登り窯を築いて陶器生産を始めたのが起こりとされる。二人一組で足を使って回す「寝ろくろ」で作る等身大の大甕が知られ、精巧なろくろ技術による薄手で丈夫な酒器も特色。",
+    "association": {
+      "name": "大谷焼陶業協会",
+      "url": "https://r.goope.jp/ootaniyaki"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0420/",
+    "image": null,
+    "kougeihinId": "0420"
+  },
+  {
+    "id": "tobeyaki",
+    "name": "砥部焼",
+    "kana": "とべやき",
+    "prefecture": "愛媛県",
+    "city": "松山市、伊予郡松前町、砥部町",
+    "lat": 33.8392,
+    "lon": 132.7658,
+    "category": "ceramics",
+    "since": "1976年(昭和51年)指定",
+    "products": "飲食器、花器、置物",
+    "description": "江戸中期、藩の財政を助けるため肥前から陶工を招いて地元の陶石で磁器を作らせたのが始まり。地元産陶石ならではの温かみある素地に、大胆な筆致で青の染付を施した食器や、柔らかな発色の青磁が特徴。",
+    "association": {
+      "name": "砥部焼協同組合",
+      "url": "https://www.tobeyaki.org/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0421/",
+    "image": null,
+    "kougeihinId": "0421"
+  },
+  {
+    "id": "koishiwarayaki",
+    "name": "小石原焼",
+    "kana": "こいしわらやき",
+    "prefecture": "福岡県",
+    "city": "朝倉郡東峰村",
+    "lat": 33.4333,
+    "lon": 130.8667,
+    "category": "ceramics",
+    "since": "1975年(昭和50年)指定",
+    "products": "かめ、壷、置物、飲食器",
+    "description": "17世紀、黒田藩主が開いた筑前最初の窯で、当初は大型の甕や徳利を焼く「中野焼」と呼ばれ、18世紀初めから陶器へと発展した。刷毛目の大皿や飛び鉋の壺など、素地に模様を刻む加飾技法に特色がある。",
+    "association": {
+      "name": "小石原焼陶器協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0422/",
+    "image": null,
+    "kougeihinId": "0422"
+  },
+  {
+    "id": "aganoyaki",
+    "name": "上野焼",
+    "kana": "あがのやき",
+    "prefecture": "福岡県",
+    "city": "田川郡福智町",
+    "lat": 33.65,
+    "lon": 130.7333,
+    "category": "ceramics",
+    "since": "1983年(昭和58年)指定",
+    "products": "茶器、酒器、花器、飲食器、香器、装飾器",
+    "description": "17世紀初め、小倉藩主細川忠興が朝鮮の陶工を招いて登り窯を築かせたのが始まりで、茶人小堀遠州の好みに合う茶器を多く生んだことから遠州七窯の一つに数えられる。薄手の美しい陶胎に、釉薬の流れ方や窯変による多彩な表情が特徴。",
+    "association": {
+      "name": "上野焼協同組合",
+      "url": "https://www.aganoyaki-fukuchi.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0423/",
+    "image": null,
+    "kougeihinId": "0423"
+  },
+  {
+    "id": "imari-aritayaki",
+    "name": "伊万里・有田焼",
+    "kana": "いまり・ありたやき",
+    "prefecture": "佐賀県",
+    "city": "伊万里市、武雄市、嬉野市、西松浦郡有田町",
+    "lat": 33.2564,
+    "lon": 129.8886,
+    "category": "ceramics",
+    "since": "1977年(昭和52年)指定",
+    "products": "和洋食器、装飾品",
+    "description": "16世紀末の朝鮮出兵時に佐賀藩主が連れ帰った陶工李参平が有田泉山で磁器の原料となる陶石を発見したのが始まりとされ、日本で最初の磁器を生んだ産地といわれる。伊万里港から積み出されたことから伊万里焼とも呼ばれ、青一色の染付から柿右衛門様式などの華やかな色絵まで多彩な様式を持ち、江戸時代にはオランダ商館を通じてヨーロッパへ大量に輸出された。",
+    "association": {
+      "name": "佐賀県陶磁器工業協同組合",
+      "url": "https://www.aritayaki.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0424/",
+    "image": null,
+    "kougeihinId": "0424"
+  },
+  {
+    "id": "karatsuyaki",
+    "name": "唐津焼",
+    "kana": "からつやき",
+    "prefecture": "佐賀県",
+    "city": "唐津市、武雄市、多久市、伊万里市、嬉野市、東松浦郡玄海町、西松浦郡有田町、杵島郡白石町",
+    "lat": 33.4497,
+    "lon": 129.9694,
+    "category": "ceramics",
+    "since": "1988年(昭和63年)指定",
+    "products": "茶器、花器、徳利",
+    "description": "16世紀末には既に焼かれていたとされ、松浦地方各地に築かれた窯が「唐津もの」として今日まで受け継がれている。土の味わいを生かした素朴な作風が魅力で、特に茶の湯の器として名高い。",
+    "association": {
+      "name": "唐津焼協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0425/",
+    "image": null,
+    "kougeihinId": "0425"
+  },
+  {
+    "id": "mikawachiyaki",
+    "name": "三川内焼",
+    "kana": "みかわちやき",
+    "prefecture": "長崎県",
+    "city": "佐世保市",
+    "lat": 33.1594,
+    "lon": 129.7228,
+    "category": "ceramics",
+    "since": "1978年(昭和53年)指定",
+    "products": "香炉、酒器、花器、茶器、割烹食器",
+    "description": "16世紀末の朝鮮出兵の際に連れ帰られた陶工が窯を開いたことに始まり、明治維新まで平戸藩の御用窯として栄えた。白磁に呉須の藍で絵付けする染付が特徴で、朝廷や将軍家への献上品として磨かれた繊細優美な意匠を持つ。",
+    "association": {
+      "name": "三川内陶磁器工業協同組合",
+      "url": "https://www.mikawachiware.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0426/",
+    "image": null,
+    "kougeihinId": "0426"
+  },
+  {
+    "id": "hasamiyaki",
+    "name": "波佐見焼",
+    "kana": "はさみやき",
+    "prefecture": "長崎県",
+    "city": "東彼杵郡波佐見町、川棚町、東彼杵町",
+    "lat": 33.05,
+    "lon": 129.9333,
+    "category": "ceramics",
+    "since": "1978年(昭和53年)指定",
+    "products": "和飲食器",
+    "description": "16世紀末、大村藩主が連れ帰った朝鮮の陶工により始められたとされ、江戸期には日用の染付食器の産地として発展、「くらわんか碗」として庶民にも親しまれた。透けるような白磁と藍の染付の繊細な味わいを持ちながら、時代に合わせて手頃な製品を作り続けている。",
+    "association": {
+      "name": "波佐見陶磁器工業協同組合",
+      "url": "https://www.hasamiyaki.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0427/",
+    "image": null,
+    "kougeihinId": "0427"
+  },
+  {
+    "id": "shoudaiyaki",
+    "name": "小代焼",
+    "kana": "しょうだいやき",
+    "prefecture": "熊本県",
+    "city": "荒尾市、熊本市、宇城市、玉名郡南関町、長州町",
+    "lat": 33.0761,
+    "lon": 130.4325,
+    "category": "ceramics",
+    "since": "2003年(平成15年)指定",
+    "products": "茶器、花器、食器、装飾品",
+    "description": "1632年、細川忠利の転封に従った陶工が始めたと伝わり、江戸後期には藩の産業振興策として窯が築かれ現在まで技が受け継がれている。鉄分の多い小代粘土を使い、青・黄・白と呼ばれる釉の発色や、流し掛けによる大胆な模様が力強い持ち味。",
+    "association": {
+      "name": "小代焼窯元の会"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0428/",
+    "image": null,
+    "kougeihinId": "0428"
+  },
+  {
+    "id": "amakusatoujiki",
+    "name": "天草陶磁器",
+    "kana": "あまくさとうじき",
+    "prefecture": "熊本県",
+    "city": "本渡市、上天草市、天草郡苓北町、天草市",
+    "lat": 32.4581,
+    "lon": 130.1978,
+    "category": "ceramics",
+    "since": "2003年(平成15年)指定",
+    "products": "茶器、花器、食器、装飾品",
+    "description": "江戸初期・中期、天草の各村が自活の道として陶業を始め、良質な天草陶石を生かした磁器と、水の平焼などの陶器が発展した。収縮が少なく可塑性に富む天草陶石による透明感ある白磁や、釉薬を二重に掛ける赤海鼠など個性的な陶器が持ち味。",
+    "association": {
+      "name": "天草陶磁振興協議会"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0429/",
+    "image": null,
+    "kougeihinId": "0429"
+  },
+  {
+    "id": "satsumayaki",
+    "name": "薩摩焼",
+    "kana": "さつまやき",
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市、指宿市、日置市",
+    "lat": 31.5966,
+    "lon": 130.5571,
+    "category": "ceramics",
+    "since": "2002年(平成14年)指定",
+    "products": "食器、茶器、花器、酒器、装飾品",
+    "description": "文禄・慶長の役の際に島津氏が連れ帰った朝鮮陶工により始まり、400年以上の歴史の中で堅野系・龍門司系・苗代川系など異なる作風が育まれた。1867年のパリ万博出品でヨーロッパを魅了し「SATSUMA」の名を世界に広めた、白薩摩・黒薩摩をはじめ多様な作風を持つ焼き物。",
+    "association": {
+      "name": "鹿児島県薩摩焼協同組合",
+      "url": "https://satsumayaki-coop.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0430/",
+    "image": null,
+    "kougeihinId": "0430"
+  },
+  {
+    "id": "tsuboyayaki",
+    "name": "壺屋焼",
+    "kana": "つぼややき",
+    "prefecture": "沖縄県",
+    "city": "那覇市、国頭郡恩納村、中頭郡読谷村",
+    "lat": 26.2124,
+    "lon": 127.6809,
+    "category": "ceramics",
+    "since": "1976年(昭和51年)指定",
+    "products": "酒器（カラカラ）、抱瓶（ダチビン）、獅子（シーサー）、壷",
+    "description": "17世紀後半、琉球王府が知花・宝口・湧田の3つの窯を現在の壺屋町に統合して誕生した沖縄を代表する焼き物。釉薬をかけ沖縄独特の色柄で仕上げる「上焼」と、釉薬を使わない大物中心の「荒焼」に大別される。",
+    "association": {
+      "name": "壺屋陶器事業協同組合",
+      "url": "https://tuboya.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0431/",
+    "image": null,
+    "kougeihinId": "0431"
+  },
+  {
+    "id": "sanshuuonigawarakougeihin",
+    "name": "三州鬼瓦工芸品",
+    "kana": "さんしゅうおにがわらこうげいひん",
+    "prefecture": "愛知県",
+    "city": "碧南市、安城市、高浜市",
+    "lat": 34.8878,
+    "lon": 136.9997,
+    "category": "ceramics",
+    "since": "2017年(平成29年)指定",
+    "products": "",
+    "description": "18世紀初頭から生産が盛んになった、300年以上の伝統を持つ瓦工芸。「鬼師」と呼ばれる職人が、伝統的な鬼面や家紋入りの鬼瓦から、室内用の小さなインテリア商品まで幅広く手がけている。",
+    "association": {
+      "name": "三州瓦工業協同組合",
+      "url": "http://www.sansyuu.net/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0432/",
+    "image": null,
+    "kougeihinId": "0432"
+  },
+  {
+    "id": "tsugarunuri",
+    "name": "津軽塗",
+    "kana": "つがるぬり",
+    "prefecture": "青森県",
+    "city": "青森市、弘前市、黒石市、平川市、西津軽郡深浦町、南津軽郡藤崎町、北津軽郡板柳町",
+    "lat": 40.8244,
+    "lon": 140.74,
+    "category": "lacquerware",
+    "since": "1975年(昭和50年)指定",
+    "products": "家具、座卓、茶器、食器、文箱、盆類、硯箱、箸、花器",
+    "description": "江戸時代初期、津軽藩のお抱え漆工が始めたと伝わる、本州最北の伝統漆器。研磨を重ねて模様を浮かび上がらせる「ななこ塗」や艶を抑えた「紋紗塗」など、多彩な技法による手作りならではの温かみが特徴。",
+    "association": {
+      "name": "青森県漆器協同組合連合会",
+      "url": "https://www.tsugarunuri.org/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0501/",
+    "image": null,
+    "kougeihinId": "0501"
+  },
+  {
+    "id": "hidehiranuri",
+    "name": "秀衡塗",
+    "kana": "ひでひらぬり",
+    "prefecture": "岩手県",
+    "city": "盛岡市、花巻市、一関市、奥州市、平泉町、滝沢市",
+    "lat": 39.7036,
+    "lon": 141.1527,
+    "category": "lacquerware",
+    "since": "1985年(昭和60年)指定",
+    "products": "椀、盆、菓子器、重箱、茶器、花器",
+    "description": "平安末期、平泉に華麗な仏教美術を築いた奥州藤原氏のもとで始まったと伝わる漆器。雲形の「源氏雲」と菱文様を金箔で描きつつ、上塗りの光沢を抑えることで漆本来の落ち着いた艶を生かしている。",
+    "association": {
+      "name": "岩手県漆器協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0502/",
+    "image": null,
+    "kougeihinId": "0502"
+  },
+  {
+    "id": "jouboujinuri",
+    "name": "浄法寺塗",
+    "kana": "じょうぼうじぬり",
+    "prefecture": "岩手県",
+    "city": "盛岡市、二戸市、八幡平市、滝沢市",
+    "lat": 39.7036,
+    "lon": 141.1527,
+    "category": "lacquerware",
+    "since": "1985年(昭和60年)指定",
+    "products": "椀、皿、盆、茶器、花器",
+    "description": "中世にこの地を治めた浄法寺一族に由来する名を持つ漆器で、奈良時代に僧侶が持ち込んだ技術が起源と伝えられる。無地の朱・黒・溜色を基調にした光沢控えめな椀が中心で、国内有数の漆産地ならではの質感が持ち味。",
+    "association": {
+      "name": "岩手県漆器協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0503/",
+    "image": null,
+    "kougeihinId": "0503"
+  },
+  {
+    "id": "narukoshikki",
+    "name": "鳴子漆器",
+    "kana": "なるこしっき",
+    "prefecture": "宮城県",
+    "city": "大崎市",
+    "lat": 38.5772,
+    "lon": 140.9569,
+    "category": "lacquerware",
+    "since": "1991年(平成3年)指定",
+    "products": "盆、茶托（ちゃたく）、重箱、菓子器",
+    "description": "江戸初期、領主が漆器職人と蒔絵師を京都へ修行に送ったことで発展したと伝わる漆器。木目を生かす「木地呂塗」やふき漆仕上げ、墨流し模様の「竜文塗」など、木の表情を生かす技法に特色がある。",
+    "association": {
+      "name": "鳴子漆工芸会"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0504/",
+    "image": null,
+    "kougeihinId": "0504"
+  },
+  {
+    "id": "kawatsurashikki",
+    "name": "川連漆器",
+    "kana": "かわつらしっき",
+    "prefecture": "秋田県",
+    "city": "湯沢市",
+    "lat": 39.1667,
+    "lon": 140.5,
+    "category": "lacquerware",
+    "since": "1976年(昭和51年)指定",
+    "products": "椀、鉢、皿、盆、重箱",
+    "description": "鎌倉時代、領主の弟が武具に漆を塗らせたことに始まるとされ、江戸中期以降は椀づくりの産地として発展した。下地を丈夫に仕上げる堅地仕上げにより、価格を抑えつつも実用性に優れた漆器を幅広く生産している。",
+    "association": {
+      "name": "秋田県漆器工業協同組合",
+      "url": "https://www.kawatsura.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0505/",
+    "image": null,
+    "kougeihinId": "0505"
+  },
+  {
+    "id": "aizunuri",
+    "name": "会津塗",
+    "kana": "あいづぬり",
+    "prefecture": "福島県",
+    "city": "会津若松市、喜多方市、南会津郡南会津町、耶麻郡西会津町、北塩原村、大沼郡会津美里町",
+    "lat": 37.495,
+    "lon": 139.9297,
+    "category": "lacquerware",
+    "since": "1975年(昭和50年)指定",
+    "products": "椀、重箱、茶托（ちゃたく）、盆",
+    "description": "室町時代に漆の木の植栽が奨励されたことに始まり、安土桃山時代に近江から招かれた職人によって産業として確立したとされる漆器。錆絵の「鉄錆塗」やもみ殻で模様を出す「金虫くい塗」など、縁起の良い意匠と多彩な加飾技法が持ち味。",
+    "association": {
+      "name": "会津漆器協同組合",
+      "url": "http://www.chuokai-fukushima.or.jp/aizushikkikumiai/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0506/",
+    "image": null,
+    "kougeihinId": "0506"
+  },
+  {
+    "id": "kamakurabori",
+    "name": "鎌倉彫",
+    "kana": "かまくらぼり",
+    "prefecture": "神奈川県",
+    "city": "横浜市、横須賀市、鎌倉市、藤沢市、小田原市、茅ヶ崎市、逗子市、相模原市、三浦市、大和市、座間市、綾瀬市、中郡大磯町",
+    "lat": 35.4437,
+    "lon": 139.638,
+    "category": "lacquerware",
+    "since": "1979年(昭和54年)指定",
+    "products": "盆、皿、茶托（ちゃたく）、鉢、箱",
+    "description": "鎌倉時代に中国から伝わった彫漆品「堆朱」「堆黒」の影響を受け、仏師や宮大工が木の器に彫刻し漆を塗り重ねたのが始まりとされる。マコモ墨を朱漆に蒔いて立体感を強調する独特の技法による、力強く大胆な彫刻模様が特徴。",
+    "association": {
+      "name": "伝統鎌倉彫事業協同組合（鎌倉彫工芸館）",
+      "url": "https://www.kamakurabori-kougeikan.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0507/",
+    "image": null,
+    "kougeihinId": "0507"
+  },
+  {
+    "id": "odawarashikki",
+    "name": "小田原漆器",
+    "kana": "おだわらしっき",
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "lat": 35.2544,
+    "lon": 139.1531,
+    "category": "lacquerware",
+    "since": "1984年(昭和59年)指定",
+    "products": "盆、皿、椀、茶托（ちゃたく）",
+    "description": "室町中期、箱根山系の木材で作った挽物に漆を塗ったのが始まりとされ、北条氏が招いた職人により彩漆塗の技法が広まった。木目の美しさをそのまま生かす摺漆塗や木地呂塗など、素材の表情を尊重した塗りが特徴。",
+    "association": {
+      "name": "伝統小田原漆器組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0508/",
+    "image": null,
+    "kougeihinId": "0508"
+  },
+  {
+    "id": "murakamikiboritsuishu",
+    "name": "村上木彫堆朱",
+    "kana": "むらかみきぼりついしゅ",
+    "prefecture": "新潟県",
+    "city": "村上市",
+    "lat": 38.2242,
+    "lon": 139.4747,
+    "category": "lacquerware",
+    "since": "1976年(昭和51年)指定",
+    "products": "重箱、盆、茶器、花器、菓子器",
+    "description": "天然漆の産地として知られる新潟県村上地方で、15世紀に京都の漆器職人が中国の堆朱を模して始めたとされる木彫漆器。細やかな木彫りと、それを引き立てる艶消し仕上げの朱漆など6種の技法の総称で、落ち着いた肌合いが持ち味。",
+    "association": {
+      "name": "村上堆朱事業協同組合",
+      "url": "https://tsuishukumiai.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0509/",
+    "image": null,
+    "kougeihinId": "0509"
+  },
+  {
+    "id": "niigatashikki",
+    "name": "新潟漆器",
+    "kana": "にいがたしっき",
+    "prefecture": "新潟県",
+    "city": "新潟市、加茂市",
+    "lat": 37.9161,
+    "lon": 139.0364,
+    "category": "lacquerware",
+    "since": "2003年(平成15年)指定",
+    "products": "盆、箱、座卓類、花器、茶器",
+    "description": "江戸初期に他産地から漆塗り技術が伝わり、1638年には専売地域が定められて保護されたとされる漆器。北前船の寄港地として様々な地方の技法が集まり、竹の節や肌を漆で表現する「竹塗」など多彩な塗りが特徴。",
+    "association": {
+      "name": "新潟市漆器同業組合",
+      "url": "http://niigatasikki.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0510/",
+    "image": null,
+    "kougeihinId": "0510"
+  },
+  {
+    "id": "kisoshikki",
+    "name": "木曽漆器",
+    "kana": "きそしっき",
+    "prefecture": "長野県",
+    "city": "松本市、塩尻市、木曽郡木曽町",
+    "lat": 36.2381,
+    "lon": 137.972,
+    "category": "lacquerware",
+    "since": "1975年(昭和50年)指定",
+    "products": "座卓、盆、膳、重箱、そば道具、花器、家具",
+    "description": "17世紀初頭、木曽ヒノキの木地づくりが盛んな土地で始まり、尾張徳川藩の庇護を受けて発展した漆器。明治期に発見された「錆土」により堅牢さが増し、木肌を生かす春慶塗やまだら模様の堆朱など多彩な技法を持つ。",
+    "association": {
+      "name": "木曽漆器工業協同組合",
+      "url": "http://kiso.shikkikumiai.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0511/",
+    "image": null,
+    "kougeihinId": "0511"
+  },
+  {
+    "id": "takaokashikki",
+    "name": "高岡漆器",
+    "kana": "たかおかしっき",
+    "prefecture": "富山県",
+    "city": "高岡市",
+    "lat": 36.7539,
+    "lon": 137.0253,
+    "category": "lacquerware",
+    "since": "1975年(昭和50年)指定",
+    "products": "盆、箱物、室内調度品",
+    "description": "江戸初期、加賀藩主前田利長が高岡城を築いた際、武具や日用品を作らせたのが始まりとされる漆器。彫刻塗や螺鈿、青貝を使った存星など多彩な技法を持ち、高岡の祭礼で曳かれる御車山の装飾にもその技が生かされている。",
+    "association": {
+      "name": "伝統工芸高岡漆器協同組合",
+      "url": "https://takaokashikki.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0512/",
+    "image": null,
+    "kougeihinId": "0512"
+  },
+  {
+    "id": "wajimanuri",
+    "name": "輪島塗",
+    "kana": "わじまぬり",
+    "prefecture": "石川県",
+    "city": "輪島市",
+    "lat": 37.3897,
+    "lon": 136.8994,
+    "category": "lacquerware",
+    "since": "1975年(昭和50年)指定",
+    "products": "什器、装飾品、家具",
+    "description": "最古の作例は室町時代の朱塗扉とされるが、遺跡調査では鎌倉期の漆器も見つかっている、堅牢さで知られる漆器。壊れやすい部分に布を貼って漆を幾重にも塗り重ねる下地作りが特徴で、その上に沈金や蒔絵の豪華な加飾を施し、傷んでも修理して長く使い続けられる。",
+    "association": {
+      "name": "輪島漆器商工業協同組合",
+      "url": "http://www.wajimanuri.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0513/",
+    "image": null,
+    "kougeihinId": "0513"
+  },
+  {
+    "id": "yamanakashikki",
+    "name": "山中漆器",
+    "kana": "やまなかしっき",
+    "prefecture": "石川県",
+    "city": "加賀市",
+    "lat": 36.2967,
+    "lon": 136.3167,
+    "category": "lacquerware",
+    "since": "1975年(昭和50年)指定",
+    "products": "盆、茶托（ちゃたく）、重箱、茶道具",
+    "description": "16世紀後半、良材を求めて移住した職人集団によるろくろ挽きに始まり、山中温泉の土産物として発展、19世紀前半には蒔絵の技術も加わり山中高蒔絵の基礎が築かれた。極細の縞模様を刻む「千筋」などの加飾挽きの技術と、蒔絵が盛り上がる高蒔絵が特徴。",
+    "association": {
+      "name": "山中漆器連合協同組合",
+      "url": "https://yamanakashikki.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0514/",
+    "image": null,
+    "kougeihinId": "0514"
+  },
+  {
+    "id": "kanazawashikki",
+    "name": "金沢漆器",
+    "kana": "かなざわしっき",
+    "prefecture": "石川県",
+    "city": "金沢市、野々市市、河北郡内灘町",
+    "lat": 36.5613,
+    "lon": 136.6562,
+    "category": "lacquerware",
+    "since": "1980年(昭和55年)指定",
+    "products": "室内調度品、茶道具、花道具",
+    "description": "江戸初期、加賀藩主が桃山文化を代表する蒔絵師五十嵐道甫を招いたことに始まり、江戸からも名工を招いて加賀蒔絵の伝統を築いた。木地・塗り双方の高い技術が結集し、貴族文化の優美さと武家文化の力強さを併せ持つ漆工芸として発展した。",
+    "association": {
+      "name": "金沢漆器商工業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0515/",
+    "image": null,
+    "kougeihinId": "0515"
+  },
+  {
+    "id": "hidashunkei",
+    "name": "飛騨春慶",
+    "kana": "ひだしゅんけい",
+    "prefecture": "岐阜県",
+    "city": "高山市、飛騨市",
+    "lat": 36.1461,
+    "lon": 137.2522,
+    "category": "lacquerware",
+    "since": "1975年(昭和50年)指定",
+    "products": "盆、花器、重箱、菓子器、茶道具、文庫、卓上品、和家具",
+    "description": "江戸初期、高山城下の大工棟梁がサワラの木の美しい木目を偶然見出したことに始まるとされる漆器。透明な漆を用いて木肌の美しさをそのまま生かす塗りと、立体的に仕上げる曲げ技法に特色がある。",
+    "association": {
+      "name": "飛騨春慶連合協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0516/",
+    "image": null,
+    "kougeihinId": "0516"
+  },
+  {
+    "id": "echizenshikki",
+    "name": "越前漆器",
+    "kana": "えちぜんしっき",
+    "prefecture": "福井県",
+    "city": "福井市、鯖江市、越前市",
+    "lat": 36.0652,
+    "lon": 136.2217,
+    "category": "lacquerware",
+    "since": "1975年(昭和50年)指定",
+    "products": "椀、膳、盆、重箱",
+    "description": "6世紀、天皇の冠の塗り替えを命じられた職人が献上した黒塗りの食器の艶に感銘を受けたことが始まりと伝わる、河和田塗の名でも知られる漆器。刷毛跡やほこりを残さず仕上げる「花塗」の技法による、堅牢な下地と優雅な艶が特徴。",
+    "association": {
+      "name": "越前漆器協同組合",
+      "url": "http://www.echizen.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0517/",
+    "image": null,
+    "kougeihinId": "0517"
+  },
+  {
+    "id": "wakasanuri",
+    "name": "若狭塗",
+    "kana": "わかさぬり",
+    "prefecture": "福井県",
+    "city": "小浜市",
+    "lat": 35.4939,
+    "lon": 135.7458,
+    "category": "lacquerware",
+    "since": "1978年(昭和53年)指定",
+    "products": "花器、茶器、酒器、箸箱",
+    "description": "江戸初期、小浜藩の職人が中国の漆器技術をヒントに海底の様子を図案化したのが始まりで、17世紀半ばには卵の殻や金銀箔で飾る技法が完成、藩主が「若狭塗」と名付け足軽の副業として奨励した。卵殻や貝、松葉などを塗り込めて幾重にも研ぎ上げる、一つとして同じ模様のない意匠が特徴。",
+    "association": {
+      "name": "若狭漆器協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0518/",
+    "image": null,
+    "kougeihinId": "0518"
+  },
+  {
+    "id": "kyoushikki",
+    "name": "京漆器",
+    "kana": "きょうしっき",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "lacquerware",
+    "since": "1976年(昭和51年)指定",
+    "products": "茶道具、食器、家具",
+    "description": "奈良時代に唐の影響で蒔絵の源流となる技法が生まれ、平安遷都とともに京都で発展、室町以後は茶の湯文化とともに全国漆器産業の中心として栄えた。「わび」「さび」に通じる深い味わいと、金銀粉や貝殻を使った繊細で立体的な加飾が特徴。",
+    "association": {
+      "name": "京都漆器工芸協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0519/",
+    "image": null,
+    "kougeihinId": "0519"
+  },
+  {
+    "id": "kishuushikki",
+    "name": "紀州漆器",
+    "kana": "きしゅうしっき",
+    "prefecture": "和歌山県",
+    "city": "和歌山市、海南市、海草郡紀美野町",
+    "lat": 34.2306,
+    "lon": 135.1708,
+    "category": "lacquerware",
+    "since": "1978年(昭和53年)指定",
+    "products": "盆類、菓子鉢器類、食器類",
+    "description": "室町から戦国期、近江から移り住んだ木地師の集団が紀州ヒノキで椀を作り始め、渋下地を施す「渋地椀」の産地として江戸時代に全国に名を広めた。当初「黒江塗」と呼ばれ、日常使いしやすいシンプルで頑丈な作りが特徴。",
+    "association": {
+      "name": "紀州漆器協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0520/",
+    "image": null,
+    "kougeihinId": "0520"
+  },
+  {
+    "id": "oouchinuri",
+    "name": "大内塗",
+    "kana": "おおうちぬり",
+    "prefecture": "山口県",
+    "city": "山口市、萩市",
+    "lat": 34.1786,
+    "lon": 131.4736,
+    "category": "lacquerware",
+    "since": "1989年(平成1年)指定",
+    "products": "丸盆、銘々皿、茶托（ちゃたく）、人形",
+    "description": "室町時代、大内氏が明・朝鮮との貿易品として奨励したのが始まりとされる漆器。渋みのある大内朱の地に黄緑の彩漆で秋草文様を描き、金箔で大内菱の家紋を配した独特の意匠が特徴。",
+    "association": {
+      "name": "大内塗漆器振興協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0521/",
+    "image": null,
+    "kougeihinId": "0521"
+  },
+  {
+    "id": "kagawashikki",
+    "name": "香川漆器",
+    "kana": "かがわしっき",
+    "prefecture": "香川県",
+    "city": "高松市、丸亀市、さぬき市、三豊市、観音寺市、木田郡三木町、仲多度郡まんのう町",
+    "lat": 34.3401,
+    "lon": 134.0434,
+    "category": "lacquerware",
+    "since": "1976年(昭和51年)指定",
+    "products": "盆、茶托（ちゃたく）、菓子器、座卓",
+    "description": "江戸後期、玉楮象谷がタイや中国伝来の蒟醤・存清などの技法に日本古来の技を加えて生み出したのが始まり。蒟醤や存清、彫漆など複数の技法を持ち、使い込むほどに渋みと味わいを増す色調が特徴で、座卓から菓子器まで種類の豊富さは全国随一といわれる。",
+    "association": {
+      "name": "香川県漆器工業協同組合",
+      "url": "https://www.kagawashikki.org/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0522/",
+    "image": null,
+    "kougeihinId": "0522"
+  },
+  {
+    "id": "ryuukyuushikki",
+    "name": "琉球漆器",
+    "kana": "りゅうきゅうしっき",
+    "prefecture": "沖縄県",
+    "city": "那覇市、浦添市、糸満市、沖縄市、豊見城市、中頭郡中城村、島尻郡南風原町",
+    "lat": 26.2124,
+    "lon": 127.6809,
+    "category": "lacquerware",
+    "since": "1986年(昭和61年)指定",
+    "products": "盆、茶椀、銘々皿、椀、重箱、棗（なつめ）",
+    "description": "14世紀から始まった中国への朝貢貿易とともに発達し、17世紀初めには首里王府に漆器製作所「貝摺奉行所」が置かれ技術と芸術性を高めた。朱と黒を基調にした花塗を基本に、堆錦・沈金・螺鈿など多彩な加飾技法を持ち、鮮やかな朱の美しさに定評がある。",
+    "association": {
+      "name": "琉球漆器事業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0523/",
+    "image": null,
+    "kougeihinId": "0523"
+  },
+  {
+    "id": "nibutaniita",
+    "name": "二風谷イタ",
+    "kana": "にぶたにいた",
+    "prefecture": "北海道",
+    "city": "沙流郡平取町",
+    "lat": 42.6667,
+    "lon": 142.0167,
+    "category": "woodwork",
+    "since": "2013年(平成25年)指定",
+    "products": "盆、小物",
+    "description": "沙流川流域のアイヌの人々に百年以上前から伝わる木製の盆。モレウノカ（渦巻き）やアイウㇱノカ（棘）などのアイヌ文様やウロコ彫りが施され、実用性と美しさを兼ね備える。",
+    "association": {
+      "name": "二風谷民芸組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0601/",
+    "image": null,
+    "kougeihinId": "0601"
+  },
+  {
+    "id": "iwayadoutansu",
+    "name": "岩谷堂簞笥",
+    "kana": "いわやどうたんす",
+    "prefecture": "岩手県",
+    "city": "奥州市、盛岡市",
+    "lat": 39.1428,
+    "lon": 141.1289,
+    "category": "woodwork",
+    "since": "1982年(昭和57年)指定",
+    "products": "整理箪笥、車付箪笥、小箪笥",
+    "description": "18世紀末、岩谷堂城主が家臣に木工家具の商品化を研究させたのが始まりとされる。ケヤキやキリの木地に漆を塗り、手打ち・手彫りの重厚な金具を取り付けた堅牢で優美な和箪笥。",
+    "association": {
+      "name": "岩谷堂箪笥生産協同組合",
+      "url": "https://www.iwayado-tansu.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0602/",
+    "image": null,
+    "kougeihinId": "0602"
+  },
+  {
+    "id": "sendaitansu",
+    "name": "仙台箪笥",
+    "kana": "せんだいたんす",
+    "prefecture": "宮城県",
+    "city": "仙台市、塩篭市、東松島市、黒川郡冨谷町及び大衝村、柴田郡柴田町、遠田郡涌谷町、宮城郡利府町、亘理郡亘理町",
+    "lat": 38.2682,
+    "lon": 140.8694,
+    "category": "woodwork",
+    "since": "2015年(平成27年)指定",
+    "products": "仙台箪笥",
+    "description": "江戸末期以降、仙台藩の地場産業として発展した箪笥。木目が浮かび上がる木地呂塗りに、唐草や竜などをあしらった豪華な金属飾り金具を組み合わせているのが特徴。",
+    "association": {
+      "name": "仙台箪笥協同組合",
+      "url": "https://www.sendai-tansu.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/060210/",
+    "image": null,
+    "kougeihinId": "060210"
+  },
+  {
+    "id": "kabazaiku",
+    "name": "樺細工",
+    "kana": "かばざいく",
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "lat": 39.4256,
+    "lon": 140.69,
+    "category": "woodwork",
+    "since": "1976年(昭和51年)指定",
+    "products": "茶筒",
+    "description": "18世紀末、佐竹北家によって阿仁地方から角館に伝えられたとされる木工品。ヤマザクラの樹皮を用い、あめ皮やひび皮など十数種の皮を使い分けるため、同じ模様の作品は二つとない。",
+    "association": {
+      "name": "角館工芸協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0603/",
+    "image": null,
+    "kougeihinId": "0603"
+  },
+  {
+    "id": "oodatemagewappa",
+    "name": "大館曲げわっぱ",
+    "kana": "おおだてまげわっぱ",
+    "prefecture": "秋田県",
+    "city": "大館市",
+    "lat": 40.2717,
+    "lon": 140.5647,
+    "category": "woodwork",
+    "since": "1980年(昭和55年)指定",
+    "products": "櫃（ひつ）、水差し、盆、すし鉢、弁当箱、菓子器、小物入れ、コーヒーカップ、ビールジョッキ",
+    "description": "江戸初期、秋田へ移った佐竹西家が下級武士の副業として奨励したのが始まりとされる曲げ物。天然秋田杉のまっすぐで香り高い柾目を生かした、軽くて弾力のある木工品。",
+    "association": {
+      "name": "大館曲げわっぱ協同組合",
+      "url": "https://odate-magewappa.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0604/",
+    "image": null,
+    "kougeihinId": "0604"
+  },
+  {
+    "id": "akitasugioketaru",
+    "name": "秋田杉桶樽",
+    "kana": "あきたすぎおけたる",
+    "prefecture": "秋田県",
+    "city": "大館市、能代市、秋田市、横手市他",
+    "lat": 40.2717,
+    "lon": 140.5647,
+    "category": "woodwork",
+    "since": "1984年(昭和59年)指定",
+    "products": "櫃（ひつ）、菓子器、花器、酒樽、銚子樽、ジョッキ、すし桶、風呂桶、傘立",
+    "description": "秋田城遺跡から桶の部材が出土するなど古い歴史をもつ木工品。年輪が細かく美しい天然秋田杉を用い、伸び縮みが少なく狂いにくい性質を生かして作られる。",
+    "association": {
+      "name": "秋田杉桶樽協同組合",
+      "url": "https://www2.chuokai-akita.or.jp/oketaru/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0605/",
+    "image": null,
+    "kougeihinId": "0605"
+  },
+  {
+    "id": "okuaizuamikumizaiku",
+    "name": "奥会津編み組細工",
+    "kana": "おくあいづあみくみざいく",
+    "prefecture": "福島県",
+    "city": "大沼郡三島町",
+    "lat": 37.45,
+    "lon": 139.6667,
+    "category": "woodwork",
+    "since": "2003年(平成15年)指定",
+    "products": "手さげかご、抱えかご、肩かけかご、腰かご、菓子器、米研ぎざる、小豆漉しざる、そばざる",
+    "description": "縄文時代の遺跡からも編み組の痕跡が見つかっている福島県奥会津地方の伝統技術で、積雪期の手仕事として受け継がれてきた。ヒロロや山ブドウ、マタタビといった山野の植物を素材に、丈夫で素朴な籠や笊などを手編みで仕上げる。",
+    "association": {
+      "name": "奥会津三島編組品振興協議会",
+      "url": "https://www.okuaizu-amikumi.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0606/",
+    "image": null,
+    "kougeihinId": "0606"
+  },
+  {
+    "id": "kasukabekiritansu",
+    "name": "春日部桐簞笥",
+    "kana": "かすかべきりたんす",
+    "prefecture": "埼玉県",
+    "city": "さいたま市、春日部市、越谷市、白岡市",
+    "lat": 35.8617,
+    "lon": 139.6455,
+    "category": "woodwork",
+    "since": "1979年(昭和54年)指定",
+    "products": "衣装箪笥、抽出（ひきだし）箪笥、洋服箪笥",
+    "description": "江戸初期、日光東照宮の造営に集まった職人が春日部に住みつき、周辺で採れるキリを材料に指物を作り始めたのが起源とされる。無駄な装飾を排した質素な外観と直線的なデザインに、武家文化の質実剛健さが表れている。",
+    "association": {
+      "name": "春日部桐たんす組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0607/",
+    "image": null,
+    "kougeihinId": "0607"
+  },
+  {
+    "id": "edowazao",
+    "name": "江戸和竿",
+    "kana": "えどわざお",
+    "prefecture": "東京都",
+    "city": "栃木県／塩谷郡高根沢町、埼玉県／川口市ほか、千葉県／市川市ほか、東京都／千代田区ほか、神奈川県／横浜市",
+    "lat": 35.6938,
+    "lon": 139.7532,
+    "category": "woodwork",
+    "since": "1991年(平成3年)指定",
+    "products": "釣竿",
+    "description": "江戸中期に生まれ、後期には美術工芸の域に達したとされる継ぎ竿。魚種や釣り場に応じた実用性を追求しつつ、美しい漆塗りを施した江戸の釣り文化の結晶。",
+    "association": {
+      "name": "江戸和竿組合",
+      "url": "https://sites.google.com/view/edowazao-official"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0608/",
+    "image": null,
+    "kougeihinId": "0608"
+  },
+  {
+    "id": "edosashimono",
+    "name": "江戸指物",
+    "kana": "えどさしもの",
+    "prefecture": "東京都",
+    "city": "台東区、荒川区、足立区、葛飾区、江東区",
+    "lat": 35.7128,
+    "lon": 139.78,
+    "category": "woodwork",
+    "since": "1997年(平成9年)指定",
+    "products": "箪笥、机、台、棚、箱物、火鉢、茶道・邦楽用品",
+    "description": "江戸幕府が各地から職人を集め職人町を形成したことに始まり、大工職から分かれて発達したとされる木工品。装飾を抑えて木目の美しさを生かした直線的な造形が特徴で、御蔵島産の「島桑」は最高級材とされる。",
+    "association": {
+      "name": "江戸指物協同組合",
+      "url": "http://www.edosashi.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0609/",
+    "image": null,
+    "kougeihinId": "0609"
+  },
+  {
+    "id": "hakoneyosegizaiku",
+    "name": "箱根寄木細工",
+    "kana": "はこねよせぎざいく",
+    "prefecture": "神奈川県",
+    "city": "小田原市、足柄下郡箱根町",
+    "lat": 35.2544,
+    "lon": 139.1531,
+    "category": "woodwork",
+    "since": "1984年(昭和59年)指定",
+    "products": "室内用品、食卓厨房用品、文庫、小箪笥、装身具",
+    "description": "江戸後期、箱根山の畑宿で始まったとされる木工品で、明治初期に静岡の技法を取り入れて連続文様の技法が確立した。多樹種が採れる箱根山系ならではの自然の色合いを生かした幾何学文様が特徴で、国内唯一の産地とされる。",
+    "association": {
+      "name": "小田原箱根伝統寄木協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0610/",
+    "image": null,
+    "kougeihinId": "0610"
+  },
+  {
+    "id": "kamokiritansu",
+    "name": "加茂桐簞笥",
+    "kana": "かもきりたんす",
+    "prefecture": "新潟県",
+    "city": "加茂市",
+    "lat": 37.65,
+    "lon": 139.05,
+    "category": "woodwork",
+    "since": "1976年(昭和51年)指定",
+    "products": "箪笥",
+    "description": "19世紀初め、大工が作ったのが始まりと伝わる桐箪笥で、昭和初期に開発された矢車塗装により現在のデザインが完成した。白く艶やかで上品な木目を生かし、湿気や熱から収納物を守る密閉性の高さで知られ、全国生産の7割を占める。",
+    "association": {
+      "name": "加茂箪笥協同組合",
+      "url": "https://www.kamokiritansu.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0611/",
+    "image": null,
+    "kougeihinId": "0611"
+  },
+  {
+    "id": "matsumotokagu",
+    "name": "松本家具",
+    "kana": "まつもとかぐ",
+    "prefecture": "長野県",
+    "city": "松本市、塩尻市、安曇野市、木曽郡木祖村",
+    "lat": 36.2381,
+    "lon": 137.972,
+    "category": "woodwork",
+    "since": "1976年(昭和51年)指定",
+    "products": "箪笥、飾り棚、座卓",
+    "description": "16世紀後半、松本の城下町形成とともに始まった家具づくりで、江戸末期に庶民の生活用具としても広まった。無垢材を用いた組み接ぎ技法による堅牢な作りと、木目を生かす拭き漆仕上げが特徴。",
+    "association": {
+      "name": "松本家具工芸協同組合",
+      "url": "http://matsumin.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0612/",
+    "image": null,
+    "kougeihinId": "0612"
+  },
+  {
+    "id": "nagisorokurozaiku",
+    "name": "南木曽ろくろ細工",
+    "kana": "なぎそろくろざいく",
+    "prefecture": "長野県",
+    "city": "木曽郡南木曽町、下伊那郡阿智村、岐阜県／中津川市",
+    "lat": 35.6,
+    "lon": 137.6,
+    "category": "woodwork",
+    "since": "1980年(昭和55年)指定",
+    "products": "木地鉢、茶櫃（ちゃびつ）、盆、汁椀",
+    "description": "18世紀前半にはすでに盆や椀などの木地物を名古屋・大阪方面へ出荷していたとされる木工品。天然木の木目や木質の違いを生かして作られ、素朴で温かみのある手作りの味わいが持ち味。",
+    "association": {
+      "name": "南木曽ろくろ工芸協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0613/",
+    "image": null,
+    "kougeihinId": "0613"
+  },
+  {
+    "id": "surugatakesensujizaiku",
+    "name": "駿河竹千筋細工",
+    "kana": "するがたけせんすじざいく",
+    "prefecture": "静岡県",
+    "city": "静岡市",
+    "lat": 34.9756,
+    "lon": 138.3828,
+    "category": "woodwork",
+    "since": "1976年(昭和51年)指定",
+    "products": "花器、盛籠、茶托（ちゃたく）、盛器、盆、虫籠、菓子器",
+    "description": "江戸初期、武士の内職として始まったとされる竹細工で、19世紀半ばに技法が広まり東海道の旅人へ土産物として売られるようになった。細く丸く削った竹ひごをしなやかに組み込む技法により、温かみと柔らかさを感じさせる造形を生み出す。",
+    "association": {
+      "name": "駿河竹千筋細工協同組合",
+      "url": "http://www.takesensuji.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0614/",
+    "image": null,
+    "kougeihinId": "0614"
+  },
+  {
+    "id": "inamichoukoku",
+    "name": "井波彫刻",
+    "kana": "いなみちょうこく",
+    "prefecture": "富山県",
+    "city": "砺波市、南砺市",
+    "lat": 36.6486,
+    "lon": 136.9583,
+    "category": "woodwork",
+    "since": "1975年(昭和50年)指定",
+    "products": "欄間、天神様・獅子頭等の置物、衝立、パネル",
+    "description": "18世紀中頃、焼失した寺の本堂再建の際に京都の御用彫刻師から技術を学んだのが始まりとされる木彫刻。クスノキやケヤキなどを用い、200本以上のノミを駆使して風景や花鳥を両面から透かし深彫りする高度な技法を持つ。",
+    "association": {
+      "name": "井波彫刻協同組合",
+      "url": "https://inamichoukoku.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0615/",
+    "image": null,
+    "kougeihinId": "0615"
+  },
+  {
+    "id": "ichiiittoubori",
+    "name": "一位一刀彫",
+    "kana": "いちいいっとうぼり",
+    "prefecture": "岐阜県",
+    "city": "高山市、飛騨市、下呂市",
+    "lat": 36.1461,
+    "lon": 137.2522,
+    "category": "woodwork",
+    "since": "1975年(昭和50年)指定",
+    "products": "茶道具、置物、面",
+    "description": "江戸末期、飛騨のイチイの木の美しい木目を生かし、色を付けずに仕上げる根付づくりから発展した彫刻。木の特性をそのまま生かした彫りにより、小動物や仏像などの細やかな表情を一本の木から彫り出す。",
+    "association": {
+      "name": "一位一刀彫伝統工芸士会"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0616/",
+    "image": null,
+    "kougeihinId": "0616"
+  },
+  {
+    "id": "nagoyakiritansu",
+    "name": "名古屋桐簞笥",
+    "kana": "なごやきりたんす",
+    "prefecture": "愛知県",
+    "city": "名古屋市、春日井市ほか4市町",
+    "lat": 35.1815,
+    "lon": 136.9066,
+    "category": "woodwork",
+    "since": "1981年(昭和56年)指定",
+    "products": "昇箪笥、中開箪笥、衣装箪笥、小袖箪笥、帯箪笥、総桐チェスト",
+    "description": "約400年前、名古屋城築城に携わった職人が城下に住みつき箪笥を作り始めたのが起源とされる。良質な飛騨桐を用い、他産地より幅広の造りに小引出しや金銀の金具、蒔絵をあしらった豪華な仕立てが特徴。",
+    "association": {
+      "name": "名古屋桐箪笥組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0617/",
+    "image": null,
+    "kougeihinId": "0617"
+  },
+  {
+    "id": "echizentansu",
+    "name": "越前箪笥",
+    "kana": "えちぜんたんす",
+    "prefecture": "福井県",
+    "city": "越前市、鯖江市",
+    "lat": 35.9036,
+    "lon": 136.1697,
+    "category": "woodwork",
+    "since": "2013年(平成25年)指定",
+    "products": "車箪笥、帳箪笥、水屋箪笥、桐タンス、小物入",
+    "description": "江戸後期から作られてきた、ケヤキやキリを奈良時代由来の越前指物技術で組み上げる和箪笥。近隣で育った越前打刃物の錺金具と越前漆器の塗りの技術を生かした、重厚な装飾と堅牢な作りが特徴。",
+    "association": {
+      "name": "越前指物協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0618/",
+    "image": null,
+    "kougeihinId": "0618"
+  },
+  {
+    "id": "kyousashimono",
+    "name": "京指物",
+    "kana": "きょうさしもの",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "woodwork",
+    "since": "1976年(昭和51年)指定",
+    "products": "箪笥、飾棚、茶道具",
+    "description": "平安時代に起源を持ち、室町以後は専門の指物師が現れ、茶道文化の確立とともに発展した木工芸。水気や熱に強い桐材を用いた高級調度から、茶道具の挽物・曲物まで幅広く、木目を生かした木地仕上げに蒔絵や箔などの加飾を組み合わせる。",
+    "association": {
+      "name": "京都木工芸協同組合",
+      "url": "http://kyou-sashimono.blogspot.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0619/",
+    "image": null,
+    "kougeihinId": "0619"
+  },
+  {
+    "id": "oosakaranma",
+    "name": "大阪欄間",
+    "kana": "おおさからんま",
+    "prefecture": "大阪府",
+    "city": "大阪市、岸和田市、吹田市、貝塚市、枚方市、茨木市、松原市、摂津市、東大阪市、豊能郡能勢町",
+    "lat": 34.6937,
+    "lon": 135.5023,
+    "category": "woodwork",
+    "since": "1975年(昭和50年)指定",
+    "products": "欄間、衝立（ついたて）、彫刻額",
+    "description": "17世紀初めに起源を持つとされ、江戸中期には商家の住まいの鴨居上に光と風を通す実用と装飾を兼ねた建具として広まった。屋久杉の絵画調の彫刻欄間や桐の透彫欄間など、家屋にふさわしい機能美を備える。",
+    "association": {
+      "name": "大阪欄間工芸協同組合",
+      "url": "https://osaka-ranma.com"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0620/",
+    "image": null,
+    "kougeihinId": "0620"
+  },
+  {
+    "id": "oosakakarakisashimono",
+    "name": "大阪唐木指物",
+    "kana": "おおさかからきさしもの",
+    "prefecture": "大阪府",
+    "city": "大阪市他、兵庫県／姫路市他、奈良県／奈良市他、和歌山県／有田市、福井県／越前市",
+    "lat": 34.6937,
+    "lon": 135.5023,
+    "category": "woodwork",
+    "since": "1977年(昭和52年)指定",
+    "products": "棚、机、台、箱物",
+    "description": "奈良時代の遣唐使が持ち帰った紫檀・黒檀などの唐木を用いた指物で、江戸時代には長崎から入った唐木材を大阪の薬種問屋が扱ったことから発展した。釘を使わず組手で接合し、生漆で拭き込む仕上げによる堅牢で落ち着いた風合いが特徴。",
+    "association": {
+      "name": "大阪唐木指物組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0621/",
+    "image": null,
+    "kougeihinId": "0621"
+  },
+  {
+    "id": "oosakasenshuukiritansu",
+    "name": "大阪泉州桐簞笥",
+    "kana": "おおさかせんしゅうきりたんす",
+    "prefecture": "大阪府",
+    "city": "岸和田市、堺市、和泉市、東大阪市、大阪市、泉北郡忠岡町",
+    "lat": 34.4614,
+    "lon": 135.3717,
+    "category": "woodwork",
+    "since": "1989年(平成1年)指定",
+    "products": "収納家具、各種桐箪笥",
+    "description": "江戸中期、農業の傍らキハダやキリで簡単な指物を作ったのが始まりとされ、江戸後期から明治にかけて一大産地となった。柾目を揃えて接ぐ「矧ぎ加工」など、木釘と組み接ぎ技法を用いた伝統的な組立が特徴。",
+    "association": {
+      "name": "大阪泉州桐箪笥組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0622/",
+    "image": null,
+    "kougeihinId": "0622"
+  },
+  {
+    "id": "oosakakongousudare",
+    "name": "大阪金剛簾",
+    "kana": "おおさかこんごうすだれ",
+    "prefecture": "大阪府",
+    "city": "大阪市、富田林市、河内長野市",
+    "lat": 34.6937,
+    "lon": 135.5023,
+    "category": "woodwork",
+    "since": "1996年(平成8年)指定",
+    "products": "簾",
+    "description": "平安時代の御簾を原型とし、金剛山麓に自生する良質な竹を用いて富田林周辺で発展した簾。天然の竹ひごを編み上げた、室内の間仕切りや日よけとして使われる優雅な意匠が特徴。",
+    "association": {
+      "name": "大阪簾工業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0623/",
+    "image": null,
+    "kougeihinId": "0623"
+  },
+  {
+    "id": "toyookakiryuuzaiku",
+    "name": "豊岡杞柳細工",
+    "kana": "とよおかきりゅうざいく",
+    "prefecture": "兵庫県",
+    "city": "豊岡市、養父市、美方郡香美町",
+    "lat": 35.5439,
+    "lon": 134.8228,
+    "category": "woodwork",
+    "since": "1992年(平成4年)指定",
+    "products": "柳行李（やなぎこうり）、バスケット類",
+    "description": "起源は1世紀まで遡るとされ、正倉院にも柳箱が残る。円山川の荒地に自生するコリヤナギを編んで籠を作る技術が城下町豊岡で産業として整い、江戸時代には藩の専売制のもとで広く知られるようになった。縄編みや側編みなど多様な編み技法を持つ。",
+    "association": {
+      "name": "兵庫県杞柳製品協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0624/",
+    "image": null,
+    "kougeihinId": "0624"
+  },
+  {
+    "id": "takayamachasen",
+    "name": "高山茶筌",
+    "kana": "たかやまちゃせん",
+    "prefecture": "奈良県",
+    "city": "生駒市",
+    "lat": 34.6919,
+    "lon": 135.7017,
+    "category": "woodwork",
+    "since": "1975年(昭和50年)指定",
+    "products": "茶筌、美術品、コーヒーの泡立て用",
+    "description": "室町中期、高山領主の子息が茶道の祖・村田珠光の依頼で作ったのが始まりとされ、以後城主一族の秘伝として伝えられた。流派や用途に応じて素材や穂の数の異なる120種の茶筌があり、竹を細かく割いて仕上げる繊細な手技が特徴。",
+    "association": {
+      "name": "奈良県高山茶筌生産協同組合",
+      "url": "http://takayamachasenkumiai.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0625/",
+    "image": null,
+    "kougeihinId": "0625"
+  },
+  {
+    "id": "kishuutansu",
+    "name": "紀州簞笥",
+    "kana": "きしゅうたんす",
+    "prefecture": "和歌山県",
+    "city": "和歌山市",
+    "lat": 34.2306,
+    "lon": 135.1708,
+    "category": "woodwork",
+    "since": "1987年(昭和62年)指定",
+    "products": "桐箪笥",
+    "description": "江戸後期の和歌山城炎上後、天守閣再建とともに箱物家具が作り直された記録が残る。淡い黄色の木肌が美しく軽いキリ材を用い、蟻ほぞなど精緻な組手技術と、矢車附子の煮汁で染めて蝋磨きする仕上げが特徴。",
+    "association": {
+      "name": "紀州桐箪笥協同組合",
+      "url": "https://kishutansu.com/html/business.html"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0626/",
+    "image": null,
+    "kougeihinId": "0626"
+  },
+  {
+    "id": "kishuuherazao",
+    "name": "紀州へら竿",
+    "kana": "きしゅうへらざお",
+    "prefecture": "和歌山県",
+    "city": "橋本市、伊都郡九度山町",
+    "lat": 34.3167,
+    "lon": 135.6083,
+    "category": "woodwork",
+    "since": "2013年(平成25年)指定",
+    "products": "主にへら鮒釣りを目的とした釣り竿",
+    "description": "明治10年代に大阪で技法が確立し、原材料の高野竹の産地に近い橋本市に根付いたへら鮒釣り用の竿。3〜5本の竹を継ぐ「並継ぎ」により、バランスの取れた調子と丁寧な装飾を両立させている。",
+    "association": {
+      "name": "紀州製竿組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0627/",
+    "image": null,
+    "kougeihinId": "0627"
+  },
+  {
+    "id": "katsuyamatakezaiku",
+    "name": "勝山竹細工",
+    "kana": "かつやまたけざいく",
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "lat": 35.1167,
+    "lon": 133.7667,
+    "category": "woodwork",
+    "since": "1979年(昭和54年)指定",
+    "products": "そうけ、めしぞうけ、米あげぞうけ、パン籠、盛籠、花器、壁掛け",
+    "description": "19世紀初頭に始まり、江戸末期には産地としての形が整った実用本位の竹細工。マダケを晒しも皮剥ぎもせずに使い、素朴でありながら丈夫で、和洋どちらの食卓にも合う「そうけ」などの籠物が特徴。",
+    "association": {
+      "name": "（勝山竹細工）真庭市　勝山振興局　地域振興課"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0628/",
+    "image": null,
+    "kougeihinId": "0628"
+  },
+  {
+    "id": "miyajimazaiku",
+    "name": "宮島細工",
+    "kana": "みやじまざいく",
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "lat": 34.3486,
+    "lon": 132.3319,
+    "category": "woodwork",
+    "since": "1982年(昭和57年)指定",
+    "products": "しゃもじ、ろくろ細工、刳物細工（くりものざいく）、彫刻",
+    "description": "鎌倉初期に神社仏閣建立のため招かれた大工・指物師の技術を源流とし、豊富な森林資源を背景に廿日市地区で発展した木工芸。しゃもじやろくろ細工など日用品が中心で、木目の色調や手触りを生かした木地仕上げが特徴。",
+    "association": {
+      "name": "宮島細工協同組合",
+      "url": "https://miyajimazaiku.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0629/",
+    "image": null,
+    "kougeihinId": "0629"
+  },
+  {
+    "id": "bepputakezaiku",
+    "name": "別府竹細工",
+    "kana": "べっぷたけざいく",
+    "prefecture": "大分県",
+    "city": "大分市、別府市、日田市、杵築市、由布市、速見郡日出町",
+    "lat": 33.2382,
+    "lon": 131.6126,
+    "category": "woodwork",
+    "since": "1979年(昭和54年)指定",
+    "products": "茶器、花器、盛籠、オシボリ入れ、銘々皿、マガジンラック、インテリア用品",
+    "description": "室町時代、行商用の籠作りに始まり、江戸時代には別府温泉の湯治客向けの台所用品や土産物として発展した。県産のマダケを中心に8種の基礎技法を用い、400種以上の編み方を組み合わせて竹本来の美しさを生かす。",
+    "association": {
+      "name": "別府竹製品協同組合",
+      "url": "https://www.beppu-take-kumiai.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0630/",
+    "image": null,
+    "kougeihinId": "0630"
+  },
+  {
+    "id": "miyakonojoudaikyuu",
+    "name": "都城大弓",
+    "kana": "みやこのじょうだいきゅう",
+    "prefecture": "宮崎県",
+    "city": "都城市、北諸県郡三股町",
+    "lat": 31.7217,
+    "lon": 131.0619,
+    "category": "woodwork",
+    "since": "1994年(平成6年)指定",
+    "products": "弓道具",
+    "description": "鹿児島の弓作りの流れを汲み、江戸後期には盛んに作られていた竹弓で、明治に楠見親子が多くの職人を育て、昭和初期には東アジアにまで製品が渡る大産地となった。現在も国内の竹弓の9割を生産する、外側7つ・内側6つの節で形を整える伝統の弓。",
+    "association": {
+      "name": "都城弓製造業協同組合",
+      "url": "https://www.miyakonojyo-yumi-kumiai.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0631/",
+    "image": null,
+    "kougeihinId": "0631"
+  },
+  {
+    "id": "nanbutekki",
+    "name": "南部鉄器",
+    "kana": "なんぶてっき",
+    "prefecture": "岩手県",
+    "city": "盛岡市、奥州市",
+    "lat": 39.7036,
+    "lon": 141.1527,
+    "category": "metalwork",
+    "since": "1975年(昭和50年)指定",
+    "products": "茶釜、鉄瓶（てつびん）、花器",
+    "description": "17世紀初め、南部藩が京都から茶釜職人を招いたことに始まるとされる鋳物。丈夫で長持ちする質実剛健な作風と、鉄瓶などに施される「霰」文様の美しい粒立ちが特徴。",
+    "association": {
+      "name": "岩手県南部鉄器協同組合連合会",
+      "url": "https://www.ginga.or.jp/nanbu/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0701/",
+    "image": null,
+    "kougeihinId": "0701"
+  },
+  {
+    "id": "yamagataimono",
+    "name": "山形鋳物",
+    "kana": "やまがたいもの",
+    "prefecture": "山形県",
+    "city": "山形市",
+    "lat": 38.2404,
+    "lon": 140.3633,
+    "category": "metalwork",
+    "since": "1975年(昭和50年)指定",
+    "products": "茶釜、鉄瓶（てつびん）、青銅花瓶、鉄鍋、置物、銅器",
+    "description": "平安中期、転戦した源頼義に随行した鋳物職人が、山形の砂と土質が鋳物に適することを見出して住み着いたのが始まりとされる。薄手ながら繊細な肌と正確な形が特徴で、茶の湯釜の産地として知られる。",
+    "association": {
+      "name": "山形鋳物伝統工芸組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0702/",
+    "image": null,
+    "kougeihinId": "0702"
+  },
+  {
+    "id": "toukyouginki",
+    "name": "東京銀器",
+    "kana": "とうきょうぎんき",
+    "prefecture": "東京都",
+    "city": "特別区（港区を除く）、武蔵野市、町田市、小平市、西東京市",
+    "lat": 35.6938,
+    "lon": 139.7532,
+    "category": "metalwork",
+    "since": "1979年(昭和54年)指定",
+    "products": "茶器、酒器、花器、置物、装身具",
+    "description": "江戸中期、彫金師の下で生地を作る銀師や飾り職人の活動に始まったとされる金工品。鎚で打ち出す鍛金やたがねで文様を彫る彫金の技法により、優雅で長く使える器物や装身具が作られる。",
+    "association": {
+      "name": "東京金銀器工業協同組合",
+      "url": "http://www.tokyoginki.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0703/",
+    "image": null,
+    "kougeihinId": "0703"
+  },
+  {
+    "id": "toukyouanchimoniikougeihin",
+    "name": "東京アンチモニー工芸品",
+    "kana": "とうきょうあんちもにーこうげいひん",
+    "prefecture": "東京都",
+    "city": "台東区、墨田区、荒川区、葛飾区、港区、足立区、江東区　千葉県／我孫子市、市川市",
+    "lat": 35.7128,
+    "lon": 139.78,
+    "category": "metalwork",
+    "since": "2015年(平成27年)指定",
+    "products": "",
+    "description": "明治初期に東京で確立された、鉛・アンチモン・錫の合金を用いる鋳物工芸。繊細な模様や彫刻を生かした装飾品、賞杯、置物などが作られている。",
+    "association": {
+      "name": "〒124-0011"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/070310/",
+    "image": null,
+    "kougeihinId": "070310"
+  },
+  {
+    "id": "tsubametsuikidouki",
+    "name": "燕鎚起銅器",
+    "kana": "つばめついきどうき",
+    "prefecture": "新潟県",
+    "city": "燕市",
+    "lat": 37.6772,
+    "lon": 138.8817,
+    "category": "metalwork",
+    "since": "1981年(昭和56年)指定",
+    "products": "茶器、台所用品、酒器、文房具",
+    "description": "江戸中期、仙台の渡り職人が技術を伝えたことに始まるとされる銅器で、地元弥彦山の銅を使ったやかん作りから発展した。一枚の銅板を鎚で打ち起こして立体的な形に仕上げる「鎚起」の技術により、注ぎ口まで継ぎ目なく打ち出すことができる。",
+    "association": {
+      "name": "燕銅器工芸組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0704/",
+    "image": null,
+    "kougeihinId": "0704"
+  },
+  {
+    "id": "echigoyoitauchihamono",
+    "name": "越後与板打刃物",
+    "kana": "えちごよいたうちはもの",
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "lat": 37.4468,
+    "lon": 138.8514,
+    "category": "metalwork",
+    "since": "1986年(昭和61年)指定",
+    "products": "のみ、鉋（かんな）、まさかり、ちょうな、彫刻刀、切り出し、やり鉋",
+    "description": "戦国時代、上杉謙信の家臣が春日山から刀鍛冶を招いたことに始まるとされる打刃物。江戸中期には大工道具の産地として知られ、明治以降は鉋づくりでも高い評価を得た、400年余りの歴史を持つ刃物。",
+    "association": {
+      "name": "越後与板打刃物組合",
+      "url": "https://yoita-uchihamono.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0705/",
+    "image": null,
+    "kougeihinId": "0705"
+  },
+  {
+    "id": "echigosanjouuchihamono",
+    "name": "越後三条打刃物",
+    "kana": "えちごさんじょううちはもの",
+    "prefecture": "新潟県",
+    "city": "三条市",
+    "lat": 37.6333,
+    "lon": 138.9667,
+    "category": "metalwork",
+    "since": "2009年(平成21年)指定",
+    "products": "庖丁、切出小刀、鉋、鑿、鉈、鉞、鎌、木鋏、ヤットコ、和釘",
+    "description": "中世の農具づくりや農家の副業の和釘作りを経て、包丁や鉋、鑿など多様な打刃物を作るようになった産地。製造に使う道具まで鍛冶職人自らが手がける、一貫した技術体系を今に伝えている。",
+    "association": {
+      "name": "越後三条鍛冶集団",
+      "url": "https://kajidojo.com/blacksmith/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0706/",
+    "image": null,
+    "kougeihinId": "0706"
+  },
+  {
+    "id": "shinshuuuchihamono",
+    "name": "信州打刃物",
+    "kana": "しんしゅううちはもの",
+    "prefecture": "長野県",
+    "city": "長野市、千曲市、上水内郡信濃町、飯綱町",
+    "lat": 36.6486,
+    "lon": 138.1947,
+    "category": "metalwork",
+    "since": "1982年(昭和57年)指定",
+    "products": "鎌、包丁、なた",
+    "description": "16世紀後半の川中島合戦の頃、武具の修理に訪れた刃物職人から里人が鍛冶の技を学んだのが始まりとされる。鍛造後に打ち延ばすことで強靱に仕上げた鎌や包丁が中心で、柄を水平に持っても刃が斜めに立つ独自の構造を持つ。",
+    "association": {
+      "name": "信州打刃物工業協同組合",
+      "url": "https://shinsyu.biz/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0707/",
+    "image": null,
+    "kougeihinId": "0707"
+  },
+  {
+    "id": "takaokadouki",
+    "name": "高岡銅器",
+    "kana": "たかおかどうき",
+    "prefecture": "富山県",
+    "city": "高岡市",
+    "lat": 36.7539,
+    "lon": 137.0253,
+    "category": "metalwork",
+    "since": "1975年(昭和50年)指定",
+    "products": "花器、香炉、ブックエンド、文鎮、パネル、置時計、壁面レリーフ、照明器具",
+    "description": "江戸初期、加賀前田藩が河内丹南から7人の鋳物職人を招いて開いた鋳物工場に始まり、花器や仏具に彫金を施す「唐金鋳物」で発展した。明治のパリ万博出品を機に世界に知られ、現在も全国の銅器生産の大半を占める、卓上置物から大仏まで手がける幅広い鋳造技術を持つ。",
+    "association": {
+      "name": "伝統工芸高岡銅器振興協同組合",
+      "url": "https://douki-takaoka.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0708/",
+    "image": null,
+    "kougeihinId": "0708"
+  },
+  {
+    "id": "echizen-uchihamono",
+    "name": "越前打刃物",
+    "kana": "えちぜんうちはもの",
+    "prefecture": "福井県",
+    "city": "越前市",
+    "lat": 35.9036,
+    "lon": 136.1697,
+    "category": "metalwork",
+    "since": "1979年(昭和54年)指定",
+    "products": "鎌、なた、はさみ、包丁",
+    "description": "室町初期、刀鍛冶にふさわしい土地を求めて移り住んだ京都の職人が、近隣の農民のために鎌を作ったのが始まりとされ、江戸時代には福井藩の保護で全国に広まった。日本古来の火作り鍛造技術と、刃を二枚重ねて均一に打ち延ばす「二枚広げ」など独自の技法を持つ。",
+    "association": {
+      "name": "越前打刃物産地協同組合連合会",
+      "url": "http://www.echizenuchihamono.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0709/",
+    "image": null,
+    "kougeihinId": "0709"
+  },
+  {
+    "id": "sakaiuchihamono",
+    "name": "堺打刃物",
+    "kana": "さかいうちはもの",
+    "prefecture": "大阪府",
+    "city": "堺市、大阪市",
+    "lat": 34.5733,
+    "lon": 135.4831,
+    "category": "metalwork",
+    "since": "1982年(昭和57年)指定",
+    "products": "包丁",
+    "description": "16世紀にポルトガル人が伝えたたばこを刻む「たばこ包丁」を起源とし、幕府から品質証明の「極印」を得て専売を許された堺刃物として全国に名を広めた。軟らかい地金と硬い刃金を鍛接する技法により、折れず曲がらずよく切れる包丁を生み、板前が愛用する刃物として知られる。",
+    "association": {
+      "name": "堺刃物商工業協同組合連合会",
+      "url": "http://www.sakaihamono.or.jp/main.html"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0710/",
+    "image": null,
+    "kougeihinId": "0710"
+  },
+  {
+    "id": "oosakananiwasuzuki",
+    "name": "大阪浪華錫器",
+    "kana": "おおさかなにわすずき",
+    "prefecture": "大阪府",
+    "city": "大阪市、松原市、羽曳野市、東大阪市",
+    "lat": 34.6937,
+    "lon": 135.5023,
+    "category": "metalwork",
+    "since": "1983年(昭和58年)指定",
+    "products": "神仏具、酒器、茶器、菓子器、花器",
+    "description": "約1300年前、遣隋使によって伝えられたとされる錫器の技術を源流とし、江戸中期に大阪で産地が形成された。イオン効果による水の浄化作用や気密性の高さから酒器や茶筒に適し、ほとんどの工程を手作業で仕上げる柔らかな金属ならではの繊細な加工が特徴。",
+    "association": {
+      "name": "錫器事業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0711/",
+    "image": null,
+    "kougeihinId": "0711"
+  },
+  {
+    "id": "banshuumikiuchihamono",
+    "name": "播州三木打刃物",
+    "kana": "ばんしゅうみきうちはもの",
+    "prefecture": "兵庫県",
+    "city": "三木市",
+    "lat": 34.7967,
+    "lon": 134.9917,
+    "category": "metalwork",
+    "since": "1996年(平成8年)指定",
+    "products": "鋸、のみ、鉋（かんな）、小刀",
+    "description": "安土桃山末期、羽柴秀吉に攻められ焼失した三木の町の復興のため各地から大工が集まったことが、大工道具づくりの発展につながったとされる。江戸時代から続く和鉄の鍛練技術を受け継ぎ、のみ・鉋・小刀など多品種の打刃物を今に伝えている。",
+    "association": {
+      "name": "三木工業協同組合",
+      "url": "http://www.miki-kanamono.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0712/",
+    "image": null,
+    "kougeihinId": "0712"
+  },
+  {
+    "id": "tosauchihamono",
+    "name": "土佐打刃物",
+    "kana": "とさうちはもの",
+    "prefecture": "高知県",
+    "city": "高知市、安芸市、南国市、須崎市、土佐清水市、香美市他",
+    "lat": 33.5597,
+    "lon": 133.5311,
+    "category": "metalwork",
+    "since": "1998年(平成10年)指定",
+    "products": "斧、鳶（とび）、鋸、鎌、包丁、鉈（なた）、柄鎌（えがま）、鍬（くわ）",
+    "description": "16世紀末の検地帳に399軒の鍛冶屋が記されるほど盛んで、江戸初期の藩政改革による林業・新田開発の振興を機に生産量と品質が飛躍的に向上した。注文書の寸法だけで多様な形の刃物を作る「自由鍛造」を特徴とし、少量多品種の生産を可能にしている。",
+    "association": {
+      "name": "高知県土佐刃物連合協同組合",
+      "url": "http://tosahamono.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0713/",
+    "image": null,
+    "kougeihinId": "0713"
+  },
+  {
+    "id": "higozougan",
+    "name": "肥後象がん",
+    "kana": "ひごぞうがん",
+    "prefecture": "熊本県",
+    "city": "熊本市",
+    "lat": 32.8032,
+    "lon": 130.7079,
+    "category": "metalwork",
+    "since": "2003年(平成15年)指定",
+    "products": "",
+    "description": "1632年、肥後藩に仕えた林又七が鉄砲や刀の鐔に象がんを施したのが祖とされ、江戸時代には複数の家系が名品を残した。廃刀令後は装身具や装飾品へと用途を広げ、金銀を打ち込む布目象がんなどの技法による重厚で渋みのある意匠が特徴。",
+    "association": {
+      "name": "肥後象がん振興会"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0714/",
+    "image": null,
+    "kougeihinId": "0714"
+  },
+  {
+    "id": "chibakoushougu",
+    "name": "千葉工匠具",
+    "kana": "ちばこうしょうぐ",
+    "prefecture": "千葉県",
+    "city": "船橋市、館山市、松戸市、野田市、成田市、柏市、市原市、流山市、鴨川市、鎌ヶ谷市、君津市、南房総市、香取市、いすみ市、印旛郡酒々井町",
+    "lat": 35.6947,
+    "lon": 139.9825,
+    "category": "metalwork",
+    "since": "2017年(平成29年)指定",
+    "products": "",
+    "description": "砂鉄の産地であった房総半島で古代から続く製鉄・鍛冶の伝統を背景に、江戸時代の治水・新田開発や畜産の発展とともに多様な道具づくりの技術が磨かれてきた。明治以降は種類がさらに広がり、全国的に知られる工匠具の産地となった。",
+    "association": {
+      "name": "千葉県打刃物連絡会"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0715/",
+    "image": null,
+    "kougeihinId": "0715"
+  },
+  {
+    "id": "yamagatabutsudan",
+    "name": "山形仏壇",
+    "kana": "やまがたぶつだん",
+    "prefecture": "山形県",
+    "city": "山形市、天童市、尾花沢市、酒田市",
+    "lat": 38.2404,
+    "lon": 140.3633,
+    "category": "other",
+    "since": "1980年(昭和55年)指定",
+    "products": "仏壇",
+    "description": "江戸中期、紅花交易を通じて京都の仏壇・仏具文化が伝わったことに始まる。木目を生かした塗りや豪華な宮殿・金具、竜や天人の彫刻など、随所に華やかな装飾が施されている。",
+    "association": {
+      "name": "山形県仏壇商工業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0801/",
+    "image": null,
+    "kougeihinId": "0801"
+  },
+  {
+    "id": "niigata-shironebutsudan",
+    "name": "新潟・白根仏壇",
+    "kana": "にいがた・しろねぶつだん",
+    "prefecture": "新潟県",
+    "city": "新潟市",
+    "lat": 37.9161,
+    "lon": 139.0364,
+    "category": "other",
+    "since": "1980年(昭和55年)指定",
+    "products": "仏壇・仏具",
+    "description": "江戸中期、京都の技術を取り入れた寺院建築の専門家が「白木仏壇」を完成させたのが始まりとされる。須弥壇や宮殿のバランス、彫刻や蒔絵、金箔仕上げなど全体の調和から生まれる荘厳な品格が重視される。",
+    "association": {
+      "name": "白根佛壇協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0802/",
+    "image": null,
+    "kougeihinId": "0802"
+  },
+  {
+    "id": "nagaokabutsudan",
+    "name": "長岡仏壇",
+    "kana": "ながおかぶつだん",
+    "prefecture": "新潟県",
+    "city": "長岡市、小千谷市、十日町市",
+    "lat": 37.4468,
+    "lon": 138.8514,
+    "category": "other",
+    "since": "1980年(昭和55年)指定",
+    "products": "金仏壇",
+    "description": "17世紀頃、全国から集まった宮大工や仏師らが冬の内職として手がけたのが始まりとされ、浄土真宗の広まりとともに地場産業として定着した。台座と本体を分けて組み立てるため塗り替えによる再生がしやすく、唐破風と千鳥破風を組み合わせた三ツ屋根の宮殿造りが特徴。",
+    "association": {
+      "name": "長岡地域仏壇協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0803/",
+    "image": null,
+    "kougeihinId": "0803"
+  },
+  {
+    "id": "sanjoubutsudan",
+    "name": "三条仏壇",
+    "kana": "さんじょうぶつだん",
+    "prefecture": "新潟県",
+    "city": "新潟市、三条市、燕市",
+    "lat": 37.9161,
+    "lon": 139.0364,
+    "category": "other",
+    "since": "1980年(昭和55年)指定",
+    "products": "金仏壇、宗教用具",
+    "description": "「仏都三条」と称されるほど仏教が盛んだった土地柄を背景に、江戸中期の大寺院造営に参加した職人たちの技術が礎となったとされる仏壇。寺院建築を手本とした格式高い宮殿造りと、本漆塗・金箔押し・優れた金具細工に定評がある。",
+    "association": {
+      "name": "三条・燕・西蒲仏壇組合",
+      "url": "https://www.pref.niigata.lg.jp/sec/chiikishinko/1293144348052.html"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0804/",
+    "image": null,
+    "kougeihinId": "0804"
+  },
+  {
+    "id": "iiyamabutsudan",
+    "name": "飯山仏壇",
+    "kana": "いいやまぶつだん",
+    "prefecture": "長野県",
+    "city": "飯山市",
+    "lat": 36.85,
+    "lon": 138.3667,
+    "category": "other",
+    "since": "1975年(昭和50年)指定",
+    "products": "金仏壇",
+    "description": "江戸初期から寺の町・飯山に根づいた仏壇づくりで、部品づくりから組み立てまでを地域内で一貫して行う。松や杉、朴などの木地に本組みや金箔押しなどの伝統技法を用い、主に浄土真宗系の仏壇を作る。",
+    "association": {
+      "name": "飯山仏壇事業協同組合",
+      "url": "http://www.avis.ne.jp/~butsudan/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0805/",
+    "image": null,
+    "kougeihinId": "0805"
+  },
+  {
+    "id": "kanazawabutsudan",
+    "name": "金沢仏壇",
+    "kana": "かなざわぶつだん",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "lat": 36.5613,
+    "lon": 136.6562,
+    "category": "other",
+    "since": "1976年(昭和51年)指定",
+    "products": "仏壇",
+    "description": "17世紀まで遡るとされ、浄土真宗が篤く信仰された土地柄と、加賀藩の細工所で育った工芸技術者の存在を背景に発展した。加賀百万石の財力に支えられ、金箔や蒔絵をふんだんに使った、厳かで華やかな作りが特徴。",
+    "association": {
+      "name": "金沢仏壇商工業協同組合",
+      "url": "http://kanazawa-butsudan.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0806/",
+    "image": null,
+    "kougeihinId": "0806"
+  },
+  {
+    "id": "nanaobutsudan",
+    "name": "七尾仏壇",
+    "kana": "ななおぶつだん",
+    "prefecture": "石川県",
+    "city": "七尾市、鹿島郡中能登町",
+    "lat": 37.0447,
+    "lon": 136.9683,
+    "category": "other",
+    "since": "1978年(昭和53年)指定",
+    "products": "仏壇、みこし、宗教用具",
+    "description": "17世紀半ば頃から生産されていたとみられ、古くから塗師の町として知られた七尾の文化を伝える仏壇。狂いの少ない能登アテや能登ヒバを用い、ほぞ組みの堅牢な本体と手打ちの金具による荘厳な作りが特徴。",
+    "association": {
+      "name": "七尾仏壇工芸士会"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0807/",
+    "image": null,
+    "kougeihinId": "0807"
+  },
+  {
+    "id": "nagoyabutsudan",
+    "name": "名古屋仏壇",
+    "kana": "なごやぶつだん",
+    "prefecture": "愛知県",
+    "city": "名古屋市、岡崎市、一宮市、瀬戸市、半田市他",
+    "lat": 35.1815,
+    "lon": 136.9066,
+    "category": "other",
+    "since": "1976年(昭和51年)指定",
+    "products": "仏壇",
+    "description": "篤い仏教信仰を背景に江戸初期にはすでに専門店があったとされ、明治期の博覧会出品を経て大きな産地に成長した仏壇。各宗派の様式に応じた作風を持ち、台座の中に仏具一式を収納できる合理的な構造が特徴。",
+    "association": {
+      "name": "名古屋仏壇商工協同組合",
+      "url": "http://nagoya-butsudan.net/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0808/",
+    "image": null,
+    "kougeihinId": "0808"
+  },
+  {
+    "id": "mikawabutsudan",
+    "name": "三河仏壇",
+    "kana": "みかわぶつだん",
+    "prefecture": "愛知県",
+    "city": "岡崎市、豊橋市、半田市、安城市、西尾市、知立市、刈谷市、蒲郡市、碧南市、豊田市他",
+    "lat": 34.955,
+    "lon": 137.1739,
+    "category": "other",
+    "since": "1976年(昭和51年)指定",
+    "products": "仏壇、宗教用具",
+    "description": "江戸中期、矢作川の水運で得たマツ・スギ・ヒノキと猿投山麓の漆を用いて仏壇師が作り始めたのが起源とされる。日々の勤行がしやすいよう台を低く作り、「うねり長押」により宮殿部分が美しく見える構造が特徴。",
+    "association": {
+      "name": "三河仏壇振興協同組合",
+      "url": "https://www.mikawabutudan.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0809/",
+    "image": null,
+    "kougeihinId": "0809"
+  },
+  {
+    "id": "hikonebutsudan",
+    "name": "彦根仏壇",
+    "kana": "ひこねぶつだん",
+    "prefecture": "滋賀県",
+    "city": "彦根市、米原市",
+    "lat": 35.2744,
+    "lon": 136.2597,
+    "category": "other",
+    "since": "1975年(昭和50年)指定",
+    "products": "仏壇",
+    "description": "江戸中期、彦根藩が武具師・塗師・細工師に仏壇製造への転向を勧めたことから家内工業として始まり、藩の保護のもとで産地として整った。大型で豪華な仏壇でありながら、日用品の収納にも配慮した細やかな工夫が特徴。",
+    "association": {
+      "name": "彦根仏壇事業協同組合",
+      "url": "http://www.hikone-butsudan.net/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0810/",
+    "image": null,
+    "kougeihinId": "0810"
+  },
+  {
+    "id": "kyoubutsudan",
+    "name": "京仏壇",
+    "kana": "きょうぶつだん",
+    "prefecture": "京都府",
+    "city": "京都市、宇治市、亀岡市、城陽市、向日市、長岡京市、木津川市、南丹市",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "other",
+    "since": "1976年(昭和51年)指定",
+    "products": "仏壇",
+    "description": "武士階級の厨子に始まり、江戸初期の宗門改めを機に一般家庭にも仏壇が広まったとされる。各宗派の総本山の本堂を精緻に再現・小型化した「京もの」として知られ、2000ともいわれる細かな分業体制が格調の高さを支えている。",
+    "association": {
+      "name": "京都府仏具協同組合",
+      "url": "http://www.kyobutsugu.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0811/",
+    "image": null,
+    "kougeihinId": "0811"
+  },
+  {
+    "id": "kyoubutsugu",
+    "name": "京仏具",
+    "kana": "きょうぶつぐ",
+    "prefecture": "京都府",
+    "city": "京都市、宇治市、亀岡市、城陽市、向日市、長岡京市、木津川市、南丹市",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "other",
+    "since": "1976年(昭和51年)指定",
+    "products": "木製仏具、金属製仏具、木彫仏、仏画軸",
+    "description": "8世紀の平安仏教の時代に始まったとされ、11世紀には七条に仏所が設けられて本格的な仏具作りが発展した。木地・木彫・漆塗・蒔絵彩色・箔押しなど高度な分業により、1500種を超える多彩な仏具を一品ずつ手作りしている。",
+    "association": {
+      "name": "京都府仏具協同組合",
+      "url": "http://www.kyobutsugu.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0812/",
+    "image": null,
+    "kougeihinId": "0812"
+  },
+  {
+    "id": "oosakabutsudan",
+    "name": "大阪仏壇",
+    "kana": "おおさかぶつだん",
+    "prefecture": "大阪府",
+    "city": "大阪市、八尾市、東大阪市、堺市、岸和田市他",
+    "lat": 34.6937,
+    "lon": 135.5023,
+    "category": "other",
+    "since": "1982年(昭和57年)指定",
+    "products": "仏壇",
+    "description": "聖徳太子が四天王寺を建てた際に百済から招いた技術者が礎を築いたと伝わり、ほぞ組みで扉や障子を付けた移動しやすい形が今に受け継がれている。宗派ごとに異なる型を作り分け、高蒔絵の段金具風の装飾など細部まで意匠を凝らしている。",
+    "association": {
+      "name": "大阪宗教用具商工協同組合",
+      "url": "http://www.osakabutsudan.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0813/",
+    "image": null,
+    "kougeihinId": "0813"
+  },
+  {
+    "id": "hiroshimabutsudan",
+    "name": "広島仏壇",
+    "kana": "ひろしまぶつだん",
+    "prefecture": "広島県",
+    "city": "広島市、三原市、福山市、府中市、三次市他",
+    "lat": 34.3853,
+    "lon": 132.4553,
+    "category": "other",
+    "since": "1978年(昭和53年)指定",
+    "products": "金仏壇",
+    "description": "浄土真宗が盛んな土地柄を背景に、江戸初期に紀州から移り住んだ職人の技術と、京都・大阪で学んだ製造技術が結びついて確立した。広島名産の牡蠣殻を砕いた胡粉下地を用い、堅牢な上塗りと金箔押しの技術に定評がある。",
+    "association": {
+      "name": "広島宗教用具商工協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0814/",
+    "image": null,
+    "kougeihinId": "0814"
+  },
+  {
+    "id": "yamefukushimabutsudan",
+    "name": "八女福島仏壇",
+    "kana": "やめふくしまぶつだん",
+    "prefecture": "福岡県",
+    "city": "八女市、久留米市、筑後市、みやま市、八女郡広川町",
+    "lat": 33.2131,
+    "lon": 130.5578,
+    "category": "other",
+    "since": "1977年(昭和52年)指定",
+    "products": "金仏壇",
+    "description": "江戸中期、指物大工が仏閣の夢を見たことをきっかけに仲間と製造を志したと伝わり、19世紀半ばに技術が確立して九州の仏壇作りの源となった。江戸時代以来の材料と手作りにこだわり、全体に金箔を施した華やかな仕上がりが特徴。",
+    "association": {
+      "name": "八女福島仏壇仏具協同組合",
+      "url": "https://yamebutsudan.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0815/",
+    "image": null,
+    "kougeihinId": "0815"
+  },
+  {
+    "id": "kawanabebutsudan",
+    "name": "川辺仏壇",
+    "kana": "かわなべぶつだん",
+    "prefecture": "鹿児島県",
+    "city": "南九州市",
+    "lat": 31.3167,
+    "lon": 130.45,
+    "category": "other",
+    "since": "1975年(昭和50年)指定",
+    "products": "金仏壇",
+    "description": "鎌倉時代初期、この地に住んだ河辺氏や平家の残党が供養と仏教伝道に努めた歴史を背景に、素朴な技術が育まれたと伝わる。木地・宮殿・彫刻・金具・蒔絵・塗り・仕上げの7部門による分業で作られる、堅牢で手頃な総合工芸品。",
+    "association": {
+      "name": "鹿児島県川辺仏壇協同組合",
+      "url": "http://www.kawanabe-butudan.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0816/",
+    "image": null,
+    "kougeihinId": "0816"
+  },
+  {
+    "id": "owaributsugu",
+    "name": "尾張仏具",
+    "kana": "おわりぶつぐ",
+    "prefecture": "愛知県",
+    "city": "愛知県名古屋市、一宮市、瀬戸市、春日井市、津島市、刈谷市、犬山市、江南市、小牧市、稲沢氏、東海市、大府市、知立市、尾張旭市、日進市、愛西市、清須市、弥富氏、大治町、岐阜県　岐阜市、多治見市、海津市",
+    "lat": 35.1815,
+    "lon": 136.9066,
+    "category": "other",
+    "since": "2017年(平成29年)指定",
+    "products": "",
+    "description": "江戸初期から名古屋を中心に作られてきた仏具で、後期には下級武士の内職として発展した。木製漆塗りの製品が中心で、宗派や用途ごとに工程が細かく専門化されており、木魚や丸金台は現在全国でこの地域だけで作られている。",
+    "association": {
+      "name": "尾張仏具技術保存会",
+      "url": "https://owaributsugu.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0817/",
+    "image": null,
+    "kougeihinId": "0817"
+  },
+  {
+    "id": "uchiyamagami",
+    "name": "内山紙",
+    "kana": "うちやまがみ",
+    "prefecture": "長野県",
+    "city": "飯山市、下高井郡野沢温泉村、下水内郡栄村",
+    "lat": 36.85,
+    "lon": 138.3667,
+    "category": "paper",
+    "since": "1976年(昭和51年)指定",
+    "products": "障子紙、永年保存用紙、加工書道用紙、紙加工品、一〆張り",
+    "description": "江戸初期、美濃で製法を学んだ職人が漉き始めたとされる和紙。雪でコウゾを晒す「雪晒し」などの独自技術を持ち、コウゾ100％のため強靱で通気性・保湿力に優れ、日焼けしにくいことから障子紙や保存用紙に適している。",
+    "association": {
+      "name": "内山紙協同組合",
+      "url": "http://www.uchiyama-gami.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0901/",
+    "image": null,
+    "kougeihinId": "0901"
+  },
+  {
+    "id": "etchuuwashi",
+    "name": "越中和紙",
+    "kana": "えっちゅうわし",
+    "prefecture": "富山県",
+    "city": "下新川郡朝日町、富山市、南砺市",
+    "lat": 36.9333,
+    "lon": 137.5333,
+    "category": "paper",
+    "since": "1988年(昭和63年)指定",
+    "products": "染紙、書画・版画用紙",
+    "description": "奈良時代の正倉院文書に「越中国紙」の記載が残るほど古い歴史を持ち、江戸時代には八尾地方の紙が薬包用として、平村の紙が加賀藩の御用紙として発展した。障子紙や版画用紙から100種を超える染紙まで多品種で、雪に晒したコウゾを用いる伝統技法を受け継いでいる。",
+    "association": {
+      "name": "富山県和紙協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0902/",
+    "image": null,
+    "kougeihinId": "0902"
+  },
+  {
+    "id": "minowashi",
+    "name": "美濃和紙",
+    "kana": "みのわし",
+    "prefecture": "岐阜県",
+    "city": "美濃市",
+    "lat": 35.5525,
+    "lon": 136.9411,
+    "category": "paper",
+    "since": "1985年(昭和60年)指定",
+    "products": "本美濃紙、美術工芸紙、箔合紙",
+    "description": "正倉院文書に奈良時代の戸籍用紙として記録が残るほど古い歴史を持つ和紙で、室町時代には紙市場を通じて京都・大阪方面にも広まった。「流し漉き」による均一で丈夫な紙質を持ち、薄くても布のような強さを備える。",
+    "association": {
+      "name": "美濃手すき和紙協同組合",
+      "url": "http://www.minowashi.or.jp"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0903/",
+    "image": null,
+    "kougeihinId": "0903"
+  },
+  {
+    "id": "echizenwashi",
+    "name": "越前和紙",
+    "kana": "えちぜんわし",
+    "prefecture": "福井県",
+    "city": "越前市",
+    "lat": 35.9036,
+    "lon": 136.1697,
+    "category": "paper",
+    "since": "1976年(昭和51年)指定",
+    "products": "木版画、襖（ふすま）紙、印刷、免状、書道、日本画、色紙、封筒、便箋（びんせん）",
+    "description": "約1500年前、岡太川に現れた姫が紙漉きの技を教えたという伝説を持ち、奈良時代には写経用紙として、江戸時代には「越前奉書」など高品質の紙として幕府や領主の保護を受けて発展した。コウゾやミツマタなどを原料に、流し漉きと溜め漉きで作る温かみのある「生成」の風合いが特徴。",
+    "association": {
+      "name": "福井県和紙工業協同組合",
+      "url": "http://www.washi.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0904/",
+    "image": null,
+    "kougeihinId": "0904"
+  },
+  {
+    "id": "inshuuwashi",
+    "name": "因州和紙",
+    "kana": "いんしゅうわし",
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "lat": 35.5011,
+    "lon": 134.2351,
+    "category": "paper",
+    "since": "1975年(昭和50年)指定",
+    "products": "画仙紙、書道半紙、襖紙",
+    "description": "平安時代の「延喜式」に朝廷への献上品として記録され、江戸時代には藩の御用紙をまかなうため各地の農家で盛んに紙漉きが行われた。書道や墨絵に適した画仙紙や半紙として高い評価を得ている。",
+    "association": {
+      "name": "鳥取県因州和紙協同組合",
+      "url": "http://inshu-washi.net/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0905/",
+    "image": null,
+    "kougeihinId": "0905"
+  },
+  {
+    "id": "sekishuuwashi",
+    "name": "石州和紙",
+    "kana": "せきしゅうわし",
+    "prefecture": "島根県",
+    "city": "江津市、浜田市",
+    "lat": 35.0136,
+    "lon": 132.2181,
+    "category": "paper",
+    "since": "1989年(平成1年)指定",
+    "products": "障子紙、石州半紙、封筒、便箋（びんせん）、はがき、名刺",
+    "description": "平安時代の「延喜式」に名が見え、柿本人麻呂が紙漉きを教えたという伝承も残る約1300年の歴史を持つ和紙。コウゾ・ミツマタ・ガンピを使い分け、なかでも繊維の長いコウゾ紙は帳簿用として火事の際に井戸へ投げ込んで守られるほど丈夫だった。",
+    "association": {
+      "name": "石州和紙協同組合",
+      "url": "https://sekishu.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0906/",
+    "image": null,
+    "kougeihinId": "0906"
+  },
+  {
+    "id": "awawashi",
+    "name": "阿波和紙",
+    "kana": "あわわし",
+    "prefecture": "徳島県",
+    "city": "吉野川市、那賀郡那賀町、三好市",
+    "lat": 34.0333,
+    "lon": 134.3333,
+    "category": "paper",
+    "since": "1976年(昭和51年)指定",
+    "products": "画仙紙、工芸紙、包装紙",
+    "description": "約1300年前、朝廷に仕えた忌部族が麻やコウゾを植えて紙や布を作ったのが始まりと伝わり、紙の神として今も始祖が祀られている。手漉きならではの生成りの色合いと、草木染めによるしなやかで丈夫な風合いが特徴。",
+    "association": {
+      "name": "阿波手漉和紙商工業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0907/",
+    "image": null,
+    "kougeihinId": "0907"
+  },
+  {
+    "id": "oozuwashi",
+    "name": "大洲和紙",
+    "kana": "おおずわし",
+    "prefecture": "愛媛県",
+    "city": "西予市、喜多郡内子町",
+    "lat": 33.3667,
+    "lon": 132.5333,
+    "category": "paper",
+    "since": "1977年(昭和52年)指定",
+    "products": "障子紙、たこ紙、書道用紙",
+    "description": "平安時代の「延喜式」にも記録が残る伊予の紙を源流とし、江戸中期に僧の指導のもと大洲藩の産業として発展した。一枚ずつ手で漉く温かみが特徴で、障子紙や書道用紙のほかちぎり絵など新しい用途にも使われている。",
+    "association": {
+      "name": "大洲手すき和紙協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0908/",
+    "image": null,
+    "kougeihinId": "0908"
+  },
+  {
+    "id": "tosawashi",
+    "name": "土佐和紙",
+    "kana": "とさわし",
+    "prefecture": "高知県",
+    "city": "南国市、土佐市、吾川郡いの町、高岡郡津野町他",
+    "lat": 33.5833,
+    "lon": 133.6417,
+    "category": "paper",
+    "since": "1976年(昭和51年)指定",
+    "products": "書道用紙、手工芸用紙、表具用紙、障子紙、絵画版画用紙、和紙加工品",
+    "description": "平安時代の「延喜式」に献上品として名が見える古い産地で、江戸時代には「土佐七色紙」が幕府に献上され、明治中期には全国一の生産量を誇った。原料から道具、紙漉きまで全て地元で賄われ、家ごとに異なる紙を漉く品種の豊富さが特徴。",
+    "association": {
+      "name": "高知県手すき和紙協同組合",
+      "url": "http://www.tosawashi.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/0909/",
+    "image": null,
+    "kougeihinId": "0909"
+  },
+  {
+    "id": "ogatsusuzuri",
+    "name": "雄勝硯",
+    "kana": "おがつすずり",
+    "prefecture": "宮城県",
+    "city": "仙台市、石巻市",
+    "lat": 38.2682,
+    "lon": 140.8694,
+    "category": "other",
+    "since": "1985年(昭和60年)指定",
+    "products": "自然石硯、天然共蓋付き硯、特殊硯",
+    "description": "室町初期にさかのぼるとされる硯で、伊達政宗に献上され称賛されたという逸話も伝わる。墨をする面の粒の粗さや硬さが絶妙なバランスを持ち、黒く深みのある艶と滑らかな石肌が特徴。",
+    "association": {
+      "name": "雄勝硯生産販売協同組合",
+      "url": "https://www.ogatsu-suzuri.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1001/",
+    "image": null,
+    "kougeihinId": "1001"
+  },
+  {
+    "id": "toyohashifude",
+    "name": "豊橋筆",
+    "kana": "とよはしふで",
+    "prefecture": "愛知県",
+    "city": "豊橋市、豊川市、蒲郡市、新城市他",
+    "lat": 34.7692,
+    "lon": 137.3917,
+    "category": "other",
+    "since": "1976年(昭和51年)指定",
+    "products": "書道用筆、面相筆、日本画筆",
+    "description": "江戸後期、吉田藩主が京都の職人を御用筆匠として招き、下級武士に副業として奨励したのが始まりとされる筆づくり。明治期に確立した水筆の製法を受け継ぎ、書道用筆を中心に高品質なものづくりを続けている。",
+    "association": {
+      "name": "豊橋筆振興協同組合",
+      "url": "https://www.pref.aichi.jp/soshiki/sangyoshinko/501.html"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1002/",
+    "image": null,
+    "kougeihinId": "1002"
+  },
+  {
+    "id": "suzukazumi",
+    "name": "鈴鹿墨",
+    "kana": "すずかずみ",
+    "prefecture": "三重県",
+    "city": "鈴鹿市",
+    "lat": 34.8778,
+    "lon": 136.5847,
+    "category": "other",
+    "since": "1980年(昭和55年)指定",
+    "products": "和墨",
+    "description": "平安初期、鈴鹿の山の松材から採った油煙をニカワで固めたのが始まりと伝わる墨。江戸時代に家紋の制度化や寺子屋の普及で需要が増え、恵まれた気候風土のもと発色の良い上品で深みのある墨として発展した。",
+    "association": {
+      "name": "鈴鹿製墨協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1003/",
+    "image": null,
+    "kougeihinId": "1003"
+  },
+  {
+    "id": "banshuusoroban",
+    "name": "播州そろばん",
+    "kana": "ばんしゅうそろばん",
+    "prefecture": "兵庫県",
+    "city": "小野市、加西市、三木市、加古川市、加東市",
+    "lat": 34.8583,
+    "lon": 134.9317,
+    "category": "other",
+    "since": "1976年(昭和51年)指定",
+    "products": "そろばん",
+    "description": "室町末期に中国から長崎経由で伝わったそろばんの技法を、三木城攻めの際に大津へ逃れた住民が習得して持ち帰ったのが始まりとされる。カバやツゲの珠、黒檀の枠など堅く重い木を用い、繊細な「うろこ細」の技法による使いやすさと美しさを兼ね備える。",
+    "association": {
+      "name": "播州算盤工芸品協同組合",
+      "url": "https://banshusoroban.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1004/",
+    "image": null,
+    "kougeihinId": "1004"
+  },
+  {
+    "id": "narafude",
+    "name": "奈良筆",
+    "kana": "ならふで",
+    "prefecture": "奈良県",
+    "city": "奈良市、大和郡山市",
+    "lat": 34.6851,
+    "lon": 135.8048,
+    "category": "other",
+    "since": "1977年(昭和52年)指定",
+    "products": "書道用筆",
+    "description": "約1200年前、唐から帰った空海が筆作りの技法を大和国の人々に伝えたことに始まるとされる。羊・馬・鹿・狸など十数種の動物の毛を組み合わせ、弾力や強さの異なる毛質を巧みに使い分けて作られる。",
+    "association": {
+      "name": "奈良毛筆協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1005/",
+    "image": null,
+    "kougeihinId": "1005"
+  },
+  {
+    "id": "narasumi",
+    "name": "奈良墨",
+    "kana": "ならすみ",
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "lat": 34.6851,
+    "lon": 135.8048,
+    "category": "other",
+    "since": "2018年(平成30年)指定",
+    "products": "",
+    "description": "明日香の地に始まり、都が京都に移った後も多くの社寺を抱える奈良で写経や学問用の墨作りが受け継がれてきた。興福寺二諦坊の灯明の煤を集めて作ったという油煙墨が名声を得て以来、長い伝統を保っている。",
+    "association": {
+      "name": "奈良製墨組合",
+      "url": "http://www.sumi-nara.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/10051/",
+    "image": null,
+    "kougeihinId": "10051"
+  },
+  {
+    "id": "unshuusoroban",
+    "name": "雲州そろばん",
+    "kana": "うんしゅうそろばん",
+    "prefecture": "島根県",
+    "city": "仁多郡奥出雲町",
+    "lat": 35.2,
+    "lon": 133.0667,
+    "category": "other",
+    "since": "1985年(昭和60年)指定",
+    "products": "そろばん",
+    "description": "江戸後期、広島の職人のそろばんを手本に地元のカシやウメ、スズタケで作り始めたのが起こりで、珠を削る手回しろくろの完成により生産が飛躍した。珠の穴や芯竹の仕上げにまでこだわり、使うほどに手になじむ品質から「そろばんといえば雲州」と評された。",
+    "association": {
+      "name": "雲州算盤協同組合",
+      "url": "https://okuizumo.org/jp/guide/detail/189/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1006/",
+    "image": null,
+    "kougeihinId": "1006"
+  },
+  {
+    "id": "kumanofude",
+    "name": "熊野筆",
+    "kana": "くまのふで",
+    "prefecture": "広島県",
+    "city": "安芸郡熊野町",
+    "lat": 34.3167,
+    "lon": 132.5667,
+    "category": "other",
+    "since": "1975年(昭和50年)指定",
+    "products": "毛筆、画筆、化粧筆",
+    "description": "江戸時代、農閑期に紀州熊野や大和吉野へ出稼ぎに行った農民が筆や墨を仕入れて行商したことが縁となり、広島藩の御用筆司で技を学んだ熊野の住人が村に伝えたのが始まりとされる。学童用から書道家用まで幅広い筆を、毛を選び組み合わせる丁寧な手仕事で作っている。",
+    "association": {
+      "name": "熊野筆事業協同組合",
+      "url": "https://www.kumanofude.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1007/",
+    "image": null,
+    "kougeihinId": "1007"
+  },
+  {
+    "id": "kawajirifude",
+    "name": "川尻筆",
+    "kana": "かわじりふで",
+    "prefecture": "広島県",
+    "city": "呉市",
+    "lat": 34.2492,
+    "lon": 132.5656,
+    "category": "other",
+    "since": "2004年(平成16年)指定",
+    "products": "書道用筆",
+    "description": "19世紀前半、摂州有馬の筆を仕入れて売り歩いた行商がきっかけとなり、19世紀半ばに地元で筆作りが始まったとされる。大量生産には向かないが高い技術を要する「練り混ぜ」という毛混ぜの技法により、品質の高い筆に仕上げている。",
+    "association": {
+      "name": "川尻毛筆事業協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1008/",
+    "image": null,
+    "kougeihinId": "1008"
+  },
+  {
+    "id": "akamasuzuri",
+    "name": "赤間硯",
+    "kana": "あかますずり",
+    "prefecture": "山口県",
+    "city": "下関市、宇部市",
+    "lat": 33.9578,
+    "lon": 130.9417,
+    "category": "other",
+    "since": "1976年(昭和51年)指定",
+    "products": "硯",
+    "description": "鎌倉初期に鶴岡八幡宮へ奉納された記録が残り、江戸時代には毛利藩が原石の採れる山を「御止山」として管理する貴重な名産品だった。硬く緻密で粘りのある赤間石は墨の発色がよく、なめらかな墨汁が得られる硯石として重宝されている。",
+    "association": {
+      "name": "山口県赤間硯生産協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1009/",
+    "image": null,
+    "kougeihinId": "1009"
+  },
+  {
+    "id": "makabeishidourou",
+    "name": "真壁石燈籠",
+    "kana": "まかべいしどうろう",
+    "prefecture": "茨城県",
+    "city": "桜川市",
+    "lat": 36.3167,
+    "lon": 140.1167,
+    "category": "other",
+    "since": "1995年(平成7年)指定",
+    "products": "庭園用石燈籠、神社仏閣奉納用石燈籠",
+    "description": "良質な花崗岩の産地である茨城県真壁地方で室町末期の仏石づくりに始まるとされる石工品。硬く白い石肌に施される繊細優美な彫刻が特徴で、苔が生すことで日本庭園に一層の趣を添える。",
+    "association": {
+      "name": "真壁石材協同組合",
+      "url": "https://makabeishi.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1101/",
+    "image": null,
+    "kougeihinId": "1101"
+  },
+  {
+    "id": "okazakisekkouhin",
+    "name": "岡崎石工品",
+    "kana": "おかざきせっこうひん",
+    "prefecture": "愛知県",
+    "city": "岡崎市",
+    "lat": 34.955,
+    "lon": 137.1739,
+    "category": "other",
+    "since": "1979年(昭和54年)指定",
+    "products": "灯籠、多重塔、鉢物",
+    "description": "室町後期に始まり、安土桃山時代に岡崎城主が招いた石工が石垣や堀を築いたことで技術が磨かれた石工品。石灯籠を中心に、直線と曲線が織りなす構成と繊細優美な彫刻が特徴。",
+    "association": {
+      "name": "岡崎石工団地協同組合",
+      "url": "http://osd.tukai.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1102/",
+    "image": null,
+    "kougeihinId": "1102"
+  },
+  {
+    "id": "kyouishikougeihin",
+    "name": "京石工芸品",
+    "kana": "きょういしこうげいひん",
+    "prefecture": "京都府",
+    "city": "京都市、宇治市、亀岡市、向日市、八幡市",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "other",
+    "since": "1982年(昭和57年)指定",
+    "products": "石灯籠、鉢物、挽臼（ひきうす）、層塔（そとう）、彫刻物",
+    "description": "石器時代からの石と人の関わりを背景に、奈良時代後期の仏教伝来を機に石造文化が花開いた。比叡山麓の良質な花崗岩に恵まれ、千年の都の文化に支えられて発展した石工芸で、特に石灯籠は桃山時代以降の茶道の流行とともに日本庭園に欠かせない存在となった。",
+    "association": {
+      "name": "京都府石材業協同組合",
+      "url": "http://kyoishikumiai.jp/wp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1103/",
+    "image": null,
+    "kougeihinId": "1103"
+  },
+  {
+    "id": "izumoishidourou",
+    "name": "出雲石燈ろう",
+    "kana": "いずもいしどうろう",
+    "prefecture": "鳥取県",
+    "city": "境港市　島根県／松江市、出雲市",
+    "lat": 35.5394,
+    "lon": 133.2311,
+    "category": "other",
+    "since": "1976年(昭和51年)指定",
+    "products": "庭園用石燈籠、神社仏閣奉納用石燈籠",
+    "description": "地元で採れる火山灰質の砂岩を原石とし、江戸時代には藩主がその価値を認め「お止石」として管理したと伝わる。粒子の詰まった石質による気品ある柔らかな作風で、早く苔がついて自然に調和し、風化に強く長く美観を保つ。",
+    "association": {
+      "name": "来待石灯ろう協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1104/",
+    "image": null,
+    "kougeihinId": "1104"
+  },
+  {
+    "id": "koushuusuishoukisekizaiku",
+    "name": "甲州水晶貴石細工",
+    "kana": "こうしゅうすいしょうきせきざいく",
+    "prefecture": "山梨県",
+    "city": "甲府市、甲州市、甲斐市、西八代郡市川三郷町",
+    "lat": 35.6642,
+    "lon": 138.5686,
+    "category": "other",
+    "since": "1976年(昭和51年)指定",
+    "products": "置物、装身具",
+    "description": "約千年前、昇仙峡の奥地で水晶原石が発見されたことに始まり、江戸後期に金剛砂で研磨する技法が導入されて確立した貴石細工。天然石の表情をそのまま生かすため、同じものが二つとない一点物の作品が多い。",
+    "association": {
+      "name": "山梨県水晶美術彫刻協同組合",
+      "url": "https://suishou.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1201/",
+    "image": null,
+    "kougeihinId": "1201"
+  },
+  {
+    "id": "wakasamenouzaiku",
+    "name": "若狭めのう細工",
+    "kana": "わかさめのうざいく",
+    "prefecture": "福井県",
+    "city": "小浜市",
+    "lat": 35.4939,
+    "lon": 135.7458,
+    "category": "other",
+    "since": "1976年(昭和51年)指定",
+    "products": "装身具、置物、茶碗、風鎮（ふうちん）",
+    "description": "奈良時代、玉を信仰する海民族がこの地で玉作りを始めたのが起こりとされ、江戸中期にはめのう原石を焼いて発色させる独自の技法が確立した。半透明で年輪状の模様を持つ硬いめのうに時間をかけて彫刻・研磨を施し、動物や仏像、装身具に仕上げる。",
+    "association": {
+      "name": "（若狭めのう細工）小浜市　商工観光課",
+      "url": "http://wakasa-koubou.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1202/",
+    "image": null,
+    "kougeihinId": "1202"
+  },
+  {
+    "id": "miyagidentoukokeshi",
+    "name": "宮城伝統こけし",
+    "kana": "みやぎでんとうこけし",
+    "prefecture": "宮城県",
+    "city": "仙台市、白石市、大崎市、刈田郡蔵王町及び七ヶ宿町、柴田郡川崎町、宮城郡松島町",
+    "lat": 38.2682,
+    "lon": 140.8694,
+    "category": "doll",
+    "since": "1981年(昭和56年)指定",
+    "products": "こけし",
+    "description": "江戸中期以降、東北の温泉土産として生まれたとされるこけしで、宮城県内には鳴子・作並・遠刈田・弥治郎・肘折の5系統が伝わる。頭部と胴体だけの簡素な造形に、素朴で愛らしい表情が特徴。",
+    "association": {
+      "name": "鳴子木地玩具協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1301/",
+    "image": null,
+    "kougeihinId": "1301"
+  },
+  {
+    "id": "edokimekominingyou",
+    "name": "江戸木目込人形",
+    "kana": "えどきめこみにんぎょう",
+    "prefecture": "埼玉県",
+    "city": "さいたま市、春日部市、東京都／文京区、台東区、墨田区、北区、荒川区、板橋区、足立区、葛飾区、江戸川区",
+    "lat": 35.8617,
+    "lon": 139.6455,
+    "category": "doll",
+    "since": "1978年(昭和53年)指定",
+    "products": "節句人形、歌舞伎人形、風俗人形",
+    "description": "江戸中期、京都上賀茂神社の祭事道具の端材で神官が作った小さな人形が起源とされ、木の溝に衣装の布地を挟み込む技法から「木目込」の名がついたと伝わる。桐塑で作った型に筋彫りを施し、そこに布地をきめ込んで仕立てるのが特徴。",
+    "association": {
+      "name": "東京都雛人形工業協同組合",
+      "url": "http://www.hina-ko.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1302/",
+    "image": null,
+    "kougeihinId": "1302"
+  },
+  {
+    "id": "iwatsukiningyou",
+    "name": "岩槻人形",
+    "kana": "いわつきにんぎょう",
+    "prefecture": "埼玉県",
+    "city": "さいたま市",
+    "lat": 35.8617,
+    "lon": 139.6455,
+    "category": "doll",
+    "since": "2007年(平成19年)指定",
+    "products": "雛人形、五月人形、浮世人形",
+    "description": "江戸後期に始まり、明治初期に節句人形と士族の内職人形の技術が合流して雛人形として本格的に発展したとされる。頭の輪郭が丸く目鼻立ちのはっきりした、やや華やかな彩色が特徴。",
+    "association": {
+      "name": "岩槻人形協同組合",
+      "url": "https://doll.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1303/",
+    "image": null,
+    "kougeihinId": "1303"
+  },
+  {
+    "id": "edosekkuningyou",
+    "name": "江戸節句人形",
+    "kana": "えどせっくにんぎょう",
+    "prefecture": "東京都",
+    "city": "足立区、荒川区他、埼玉県／さいたま市他",
+    "lat": 35.775,
+    "lon": 139.8047,
+    "category": "doll",
+    "since": "2007年(平成19年)指定",
+    "products": "雛人形、五月人形、飾り甲冑、風俗人形、市松人形、御所人形",
+    "description": "京都の影響を受け江戸初期に始まり、江戸中期の宝暦頃に独自の様式を確立したとされる人形。写実的で洗練された江戸前の姿と、実物の甲冑を模した精巧な江戸甲冑などに特徴がある。",
+    "association": {
+      "name": "東京都雛人形工業協同組合",
+      "url": "http://www.hina-ko.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1304/",
+    "image": null,
+    "kougeihinId": "1304"
+  },
+  {
+    "id": "edooshie",
+    "name": "江戸押絵",
+    "kana": "えどおしえ",
+    "prefecture": "東京都",
+    "city": "東京都台東区、墨田区、葛飾区／埼玉県川越市、春日部市、新座市／神奈川県二宮町",
+    "lat": 35.7128,
+    "lon": 139.78,
+    "category": "doll",
+    "since": "2019年(令和元年)指定",
+    "products": "羽子板、肖像画、額装、屏風や団扇などの装飾",
+    "description": "江戸後期、浅草を中心に発展した押し絵細工で、歌舞伎役者の姿を題材にした羽子板などが代表的。絹織物を用い、日本画の技法で顔や柄を描き加える点に特色があり、役者絵から風景・動植物まで幅広く手がける。",
+    "association": {
+      "name": "東京歳之市羽子板商組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/13041/",
+    "image": null,
+    "kougeihinId": "13041"
+  },
+  {
+    "id": "surugahinagu",
+    "name": "駿河雛具",
+    "kana": "するがひなぐ",
+    "prefecture": "静岡県",
+    "city": "静岡市、焼津市、掛川市",
+    "lat": 34.9756,
+    "lon": 138.3828,
+    "category": "doll",
+    "since": "1994年(平成6年)指定",
+    "products": "ひなまつり・端午の節句飾り、ミニュチュア製品",
+    "description": "16世紀、今川氏の治世下ですでに生産されていたとされ、久能山東照宮などの造営を通じて各地の高度な技術が伝わり発達した雛具。木地・漆・蒔絵・金具の各工程を分業することで、手仕事でありながら精緻な小道具を数多く作り出している。",
+    "association": {
+      "name": "静岡雛具人形協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1305/",
+    "image": null,
+    "kougeihinId": "1305"
+  },
+  {
+    "id": "surugahinaningyou",
+    "name": "駿河雛人形",
+    "kana": "するがひなにんぎょう",
+    "prefecture": "静岡県",
+    "city": "静岡県／静岡市、焼津市、藤枝市、富士市、牧之原市、榛原郡吉田町",
+    "lat": 34.9756,
+    "lon": 138.3828,
+    "category": "doll",
+    "since": "1994年(平成6年)指定",
+    "products": "雛人形、煉天神（ねりてんじん）、時代人形",
+    "description": "美濃から招いた土人形師による「煉天神」にルーツを持つとされる雛人形で、江戸末期には衣装を着せた天神人形が作られていた。人形作りの最終工程である「腕折り」に作者の個性が最も強く表れるとされる。",
+    "association": {
+      "name": "駿河雛人形伝統工芸士会"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1306/",
+    "image": null,
+    "kougeihinId": "1306"
+  },
+  {
+    "id": "kyouningyou",
+    "name": "京人形",
+    "kana": "きょうにんぎょう",
+    "prefecture": "京都府",
+    "city": "京都市、宇治市、亀岡市、八幡市",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "doll",
+    "since": "1986年(昭和61年)指定",
+    "products": "市松人形、雛人形、五月人形、風俗人形、御所人形",
+    "description": "子供の身代わりとして厄を引き受ける天児・這子に始まり、平安貴族の遊び道具を経て江戸時代に完成したとされる。仏具や繊維、漆芸など京都の工芸環境に支えられ、頭・髪付け・手足・着付けと職人が部門ごとに分かれる分業によって高度な人形が生み出される。",
+    "association": {
+      "name": "京人形商工業協同組合",
+      "url": "http://www.kyo-ningyo.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1307/",
+    "image": null,
+    "kougeihinId": "1307"
+  },
+  {
+    "id": "hakataningyou",
+    "name": "博多人形",
+    "kana": "はかたにんぎょう",
+    "prefecture": "福岡県",
+    "city": "福岡市、小郡市、筑紫野市、春日市、大野城市、太宰府市、前原市他",
+    "lat": 33.5904,
+    "lon": 130.4017,
+    "category": "doll",
+    "since": "1976年(昭和51年)指定",
+    "products": "美人もの、男もの、歌舞伎もの",
+    "description": "1600年、黒田長政の福岡城築城の際に鬼瓦細工の技術を学んだ職人が優れた作品を献上したのが始まりとされ、19世紀前半の素焼き玩具人形も源流の一つといわれる。素焼きに施す落ち着いた彩色と、きめ細かい彫り込みが持ち味で、美人物や歌舞伎物など幅広い題材を手がける。",
+    "association": {
+      "name": "博多人形商工業協同組合",
+      "url": "https://www.hakataningyo.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1308/",
+    "image": null,
+    "kougeihinId": "1308"
+  },
+  {
+    "id": "tendoushougikoma",
+    "name": "天童将棋駒",
+    "kana": "てんどうしょうぎこま",
+    "prefecture": "山形県",
+    "city": "天童市、山形市、村山市",
+    "lat": 38.3608,
+    "lon": 140.3728,
+    "category": "other",
+    "since": "1996年(平成8年)指定",
+    "products": "将棋駒",
+    "description": "江戸後期、財政難の藩が下級武士に内職として駒づくりを奨励したのが始まり。ツゲなどの木地に漆で文字を書き、高級品は彫った文字に漆を盛り上げる技法を用い、全国生産の95％以上を占める。",
+    "association": {
+      "name": "山形県将棋駒協同組合",
+      "url": "http://www.tendocci.com/koma/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1401/",
+    "image": null,
+    "kougeihinId": "1401"
+  },
+  {
+    "id": "boushuuuchiwa",
+    "name": "房州うちわ",
+    "kana": "ぼうしゅううちわ",
+    "prefecture": "千葉県",
+    "city": "館山市、南房総市",
+    "lat": 34.9967,
+    "lon": 139.87,
+    "category": "other",
+    "since": "2003年(平成15年)指定",
+    "products": "うちわ",
+    "description": "江戸時代、うちわの材料となる竹の産地であった房州で明治10年頃から本格化したとされるうちわ。骨に女竹、弓に真竹を用い、丸柄と半円形の美しい格子模様が特徴で、京うちわ・丸亀うちわと並ぶ日本三大うちわの一つに数えられる。",
+    "association": {
+      "name": "房州うちわ振興協議会",
+      "url": "https://www.bosyu-uchiwa.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1402/",
+    "image": null,
+    "kougeihinId": "1402"
+  },
+  {
+    "id": "edokarakami",
+    "name": "江戸からかみ",
+    "kana": "えどからかみ",
+    "prefecture": "東京都",
+    "city": "文京区、台東区ほか７区市、千葉県／松戸市、埼玉県／比企郡ときがわ町",
+    "lat": 35.7089,
+    "lon": 139.7522,
+    "category": "other",
+    "since": "1999年(平成11年)指定",
+    "products": "襖（ふすま）、壁、天井、障子、屏風用の加飾された和紙",
+    "description": "平安時代の詠草料紙に源流を持ち、江戸の街づくりとともに独自の発展を遂げたとされる装飾和紙。町人文化を反映した自由でのびやかな文様や、身近な草花をモチーフにした季節感豊かな図柄が特徴。",
+    "association": {
+      "name": "江戸からかみ協同組合",
+      "url": "https://www.dentoukougei.jp/tokyo/35.html"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1403/",
+    "image": null,
+    "kougeihinId": "1403"
+  },
+  {
+    "id": "edokiriko",
+    "name": "江戸切子",
+    "kana": "えどきりこ",
+    "prefecture": "東京都",
+    "city": "江東区、墨田区、江戸川区、葛飾区、大田区、千葉県／市川市、千葉市、船橋市 埼玉県／所沢市、草加市、飯能市 神奈川県／川崎市 茨城県／龍ヶ崎市",
+    "lat": 35.6729,
+    "lon": 139.8172,
+    "category": "other",
+    "since": "2002年(平成14年)指定",
+    "products": "食器、酒器、花器、食卓用品、置物、装身具、文具、日常生活用品",
+    "description": "天保5年（1834年）、江戸のガラス職人がガラス表面に彫刻を施したのが始まりとされる切子細工。菊や麻の葉、篭目などの伝統文様を円盤や砥石で切り出し、透明ガラスに色ガラスを被せてカットする「色被せ」の作品が主流となっている。",
+    "association": {
+      "name": "江戸切子協同組合",
+      "url": "https://www.edokiriko.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1404/",
+    "image": null,
+    "kougeihinId": "1404"
+  },
+  {
+    "id": "edomokuhanga",
+    "name": "江戸木版画",
+    "kana": "えどもくはんが",
+    "prefecture": "東京都",
+    "city": "東京都／荒川区、新宿区、足立区、台東区、中央区、文京区、目黒区、練馬区、西東京市　　千葉県／松戸市　　茨城県／常総市",
+    "lat": 35.7361,
+    "lon": 139.7833,
+    "category": "other",
+    "since": "2007年(平成19年)指定",
+    "products": "木版画",
+    "description": "墨一色の摺りから彩色を重ねる技法へと発展し、江戸中期に多色摺りの技法が確立された版画。庶民の暮らしや憧れを写し取った題材と、一組の版木から大量に摺られる量産性が特徴。",
+    "association": {
+      "name": "東京伝統木版画工芸協同組合",
+      "url": "http://edohanga.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1405/",
+    "image": null,
+    "kougeihinId": "1405"
+  },
+  {
+    "id": "edogarasu",
+    "name": "江戸硝子",
+    "kana": "えどがらす",
+    "prefecture": "東京都",
+    "city": "江戸川区、墨田区、江東区、千葉県／八千代市、九十九里町",
+    "lat": 35.7067,
+    "lon": 139.8683,
+    "category": "other",
+    "since": "2014年(平成26年)指定",
+    "products": "食器、酒器、花器、食卓用品、置物、日常生活用品",
+    "description": "明治初期、品川の官営硝子工場に導入された西洋式の製造技術を基に東京で発展した硝子工芸。宙吹き・型吹き・押し型の3つの製法を用いて作られている。",
+    "association": {
+      "name": "一般社団法人東部硝子工業会",
+      "url": "http://www.tobu-glass.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1406/",
+    "image": null,
+    "kougeihinId": "1406"
+  },
+  {
+    "id": "edobekkou",
+    "name": "江戸べっ甲",
+    "kana": "えどべっこう",
+    "prefecture": "東京都",
+    "city": "台東区、文京区、豊島区、荒川区、練馬区、江戸川区、墨田区、板橋区、江東区、北区、千代田区、中野区、港区　埼玉県／入間市、越谷市、深谷市、大里郡寄居町、比企群嵐山町　千葉県／市川市、松戸市、流山市　群馬県／太田市　栃木県／佐野市　山梨県／大月市　茨城県／桜川市",
+    "lat": 35.7128,
+    "lon": 139.78,
+    "category": "other",
+    "since": "2015年(平成27年)指定",
+    "products": "",
+    "description": "タイマイの甲羅を原料に、独自の張り合わせ技術で仕上げる工芸品。江戸期の関東で和装小物として発展し、現在は眼鏡や和洋の装飾品として作られている。",
+    "association": {
+      "name": "東京鼈甲組合連合会"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/140610/",
+    "image": null,
+    "kougeihinId": "140610"
+  },
+  {
+    "id": "nagasakibekkou",
+    "name": "長崎べっ甲",
+    "kana": "ながさきべっこう",
+    "prefecture": "長崎県",
+    "city": "長崎県　長崎市、諫早市、西海市、西彼杵郡長与町",
+    "lat": 32.7503,
+    "lon": 129.8781,
+    "category": "other",
+    "since": "2017年(平成29年)指定",
+    "products": "",
+    "description": "江戸時代以降、長崎市や諫早市を中心に発展してきたべっ甲細工。タイマイの甲羅の厚みや色合いを手作業で丹念に調整する緻密な技法を持ち、髪飾りなどの小物から宝船のような大型の置物まで手がける。",
+    "association": {
+      "name": "長崎鼈甲組合連合会"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/140611/",
+    "image": null,
+    "kougeihinId": "140611"
+  },
+  {
+    "id": "koushuuinden",
+    "name": "甲州印伝",
+    "kana": "こうしゅういんでん",
+    "prefecture": "山梨県",
+    "city": "甲府市、甲斐市、西八代郡市川三郷町",
+    "lat": 35.6642,
+    "lon": 138.5686,
+    "category": "other",
+    "since": "1987年(昭和62年)指定",
+    "products": "印鑑入れ、財布、袋物、ハンドバック",
+    "description": "江戸末期、甲府を中心に産地が形成されたとされる袋物工芸。柔らかく丈夫な鹿革に漆で模様を付けたもので、使い込むほど手になじみ味わいが増す。",
+    "association": {
+      "name": "甲府印伝商工業協同組合",
+      "url": "https://www.pref.yamanashi.jp/shouko/kogyo/densan/inden_01.html"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1407/",
+    "image": null,
+    "kougeihinId": "1407"
+  },
+  {
+    "id": "koushuuteboriinshou",
+    "name": "甲州手彫印章",
+    "kana": "こうしゅうてぼりいんしょう",
+    "prefecture": "山梨県",
+    "city": "甲府市、西八代郡市川三郷町、身延町、中巨摩郡昭和町他",
+    "lat": 35.6642,
+    "lon": 138.5686,
+    "category": "other",
+    "since": "2000年(平成12年)指定",
+    "products": "印章",
+    "description": "江戸末期の文献に印判職人の存在が記されるほど古い歴史を持つ印章づくり。水晶や水牛、ツゲなど多様な印材を用い、印材製造から彫刻、販売までを地域内で一貫して手がける独自の産業構造を持つ。",
+    "association": {
+      "name": "山梨県印章店協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1408/",
+    "image": null,
+    "kougeihinId": "1408"
+  },
+  {
+    "id": "gifuchouchin",
+    "name": "岐阜提灯",
+    "kana": "ぎふちょうちん",
+    "prefecture": "岐阜県",
+    "city": "岐阜市、山県市、瑞穂市、羽島郡岐南町",
+    "lat": 35.4233,
+    "lon": 136.7606,
+    "category": "other",
+    "since": "1995年(平成7年)指定",
+    "products": "提灯、大内行灯（あんどん）",
+    "description": "18世紀中頃、豊富な和紙と竹を背景に発展したとされる提灯で、19世紀前半には現在の様式が広く普及した。細い竹ひごの骨組みに極薄の和紙を張り、花鳥風月などの優雅な絵付けを施した球形・卵形の提灯が特徴。",
+    "association": {
+      "name": "岐阜提灯協同組合",
+      "url": "http://www.gifu-chochin.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1409/",
+    "image": null,
+    "kougeihinId": "1409"
+  },
+  {
+    "id": "owarishippou",
+    "name": "尾張七宝",
+    "kana": "おわりしっぽう",
+    "prefecture": "愛知県",
+    "city": "名古屋市、あま市、清須市",
+    "lat": 35.1815,
+    "lon": 136.9066,
+    "category": "other",
+    "since": "1995年(平成7年)指定",
+    "products": "花瓶、香炉、額、飾皿、宝石箱等",
+    "description": "江戸後期、梶常吉が作り出したことに始まるとされる七宝焼。金属の素地にガラス質の釉薬を施し、花鳥風月や風景の図柄を表現する点に特徴がある。",
+    "association": {
+      "name": "名古屋七宝協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1410/",
+    "image": null,
+    "kougeihinId": "1410"
+  },
+  {
+    "id": "kyousensu",
+    "name": "京扇子",
+    "kana": "きょうせんす",
+    "prefecture": "京都府",
+    "city": "京都市、宇治市、亀岡市、南丹市",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "other",
+    "since": "1977年(昭和52年)指定",
+    "products": "招涼持ち扇（しょうりょうもちおうぎ）、儀式扇、芸事扇、飾り扇",
+    "description": "平安初期、木簡をつなげた「桧扇」に始まり、竹と紙の「紙扇」が中国を経てヨーロッパに渡り、逆輸入された「絹扇」も生まれたという扇の歴史を持つ。吟味された竹と紙を用いた確かな手仕事から、実用品ならではの風合いと美しさが生まれる。",
+    "association": {
+      "name": "京都扇子団扇商工協同組合",
+      "url": "http://www.sensu-uchiwa.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1411/",
+    "image": null,
+    "kougeihinId": "1411"
+  },
+  {
+    "id": "kyouuchiwa",
+    "name": "京うちわ",
+    "kana": "きょううちわ",
+    "prefecture": "京都府",
+    "city": "京都市、南丹市",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "other",
+    "since": "1977年(昭和52年)指定",
+    "products": "うちわ",
+    "description": "南北朝時代、倭寇が持ち帰った朝鮮団扇が紀州・大和を経て京都深草に伝わったのが始まりとされる。柄を中骨とは別に取り付ける「挿柄」の構造が特徴で、宮廷絵師が描いた「御所うちわ」を起源に庶民へも広まった。",
+    "association": {
+      "name": "京都扇子団扇商工協同組合",
+      "url": "http://www.sensu-uchiwa.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1412/",
+    "image": null,
+    "kougeihinId": "1412"
+  },
+  {
+    "id": "kyouhyougu",
+    "name": "京表具",
+    "kana": "きょうひょうぐ",
+    "prefecture": "京都府",
+    "city": "京都市ほか",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "category": "other",
+    "since": "1997年(平成9年)指定",
+    "products": "掛軸、巻物、額装、襖（ふすま）、屏風（びょうぶ）、衝立（ついたて）",
+    "description": "平安時代、経典や書画を布で補強する「表具」に始まり、掛軸や屏風、襖に仕立てる「表装」全般へと発展した。湿度の高い盆地の風土と京都人の洗練された美意識、茶道の隆盛に育まれ、書画の保存と鑑賞を支える技として完成された。",
+    "association": {
+      "name": "京表具協同組合連合会",
+      "url": "http://www.kyo-hyougu.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1413/",
+    "image": null,
+    "kougeihinId": "1413"
+  },
+  {
+    "id": "banshuukebari",
+    "name": "播州毛鉤",
+    "kana": "ばんしゅうけばり",
+    "prefecture": "兵庫県",
+    "city": "西脇市、丹波市",
+    "lat": 34.9814,
+    "lon": 134.9928,
+    "category": "other",
+    "since": "1987年(昭和62年)指定",
+    "products": "毛鉤",
+    "description": "江戸末期に京都から技法が伝わり、農家の副業として育てられてきた毛鉤作り。魚の種類や季節、水質に合わせて1000種類以上を作り分け、絹糸で鳥の羽根を巻き付け水生昆虫そっくりに仕上げる繊細な手技が特徴。",
+    "association": {
+      "name": "播州釣針協同組合",
+      "url": "http://www.bantsuri.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1414/",
+    "image": null,
+    "kougeihinId": "1414"
+  },
+  {
+    "id": "fukuyamakoto",
+    "name": "福山琴",
+    "kana": "ふくやまこと",
+    "prefecture": "広島県",
+    "city": "福山市",
+    "lat": 34.4858,
+    "lon": 133.3625,
+    "category": "other",
+    "since": "1985年(昭和60年)指定",
+    "products": "琴",
+    "description": "江戸初期、福山城築城の頃に始まったとされ、歴代藩主が奨励した歌謡・音曲の盛んな土地柄を背景に発展した。最高級の桐を長期乾燥させて用い、甲の彫りや焼き、蒔絵による装飾まで熟練の職人が手作業で仕上げる。",
+    "association": {
+      "name": "福山邦楽器製造業協同組合",
+      "url": "https://www.fukuyama.or.jp/dentou/fukuyamakoto/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1415/",
+    "image": null,
+    "kougeihinId": "1415"
+  },
+  {
+    "id": "marugameuchiwa",
+    "name": "丸亀うちわ",
+    "kana": "まるがめうちわ",
+    "prefecture": "香川県",
+    "city": "丸亀市",
+    "lat": 34.29,
+    "lon": 133.7981,
+    "category": "other",
+    "since": "1997年(平成9年)指定",
+    "products": "うちわ",
+    "description": "金比羅参りの土産として考案された丸金印入りの渋うちわに始まり、江戸中期に丸亀藩が藩士の内職として奨励したことで産地として発展、全国生産量の約9割を占める。柄と骨を一本の竹から作るのが特徴で、丸柄・平柄の両方がある。",
+    "association": {
+      "name": "香川県うちわ協同組合連合会",
+      "url": "https://marugameuchiwa.jp/cooperative"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1416/",
+    "image": null,
+    "kougeihinId": "1416"
+  },
+  {
+    "id": "yamechouchin",
+    "name": "八女提灯",
+    "kana": "やめちょうちん",
+    "prefecture": "福岡県",
+    "city": "八女市、柳川市、筑後市、八女郡広川町、久留米市、みやま市",
+    "lat": 33.2131,
+    "lon": 130.5578,
+    "category": "other",
+    "since": "2001年(平成13年)指定",
+    "products": "盆提灯、祭礼提灯、献灯提灯、装飾提灯",
+    "description": "19世紀初め、素朴な絵を描いた「場提灯」に始まり、19世紀半ばの意匠改良で一大発展を遂げた提灯。竹ひごを螺旋状に巻く骨組みに薄い手漉き和紙を張り、内部を透かして山水や花鳥を描く、涼み提灯として名高い意匠が特徴。",
+    "association": {
+      "name": "八女提灯協同組合"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1417/",
+    "image": null,
+    "kougeihinId": "1417"
+  },
+  {
+    "id": "yamagatourou",
+    "name": "山鹿灯籠",
+    "kana": "やまがとうろう",
+    "prefecture": "熊本県",
+    "city": "山鹿市",
+    "lat": 33.0139,
+    "lon": 130.6942,
+    "category": "other",
+    "since": "2013年(平成25年)指定",
+    "products": "置物、記念品、土産物、インテリア、ランプシェード",
+    "description": "起源には諸説あるが確実に遡れるのは17世紀中頃とされる工芸品。和紙と糊だけで立体的な形を組み上げる技法を用い、奉納品としてだけでなく置物や土産品にも作られている。",
+    "association": {
+      "name": "山鹿灯籠振興会",
+      "url": "https://www.yamagatourou.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1418/",
+    "image": null,
+    "kougeihinId": "1418"
+  },
+  {
+    "id": "etchuufukuokanosugegasa",
+    "name": "越中福岡の菅笠",
+    "kana": "えっちゅうふくおかのすげがさ",
+    "prefecture": "富山県",
+    "city": "高岡市、砺波市、小矢部市、南砺市",
+    "lat": 36.7539,
+    "lon": 137.0253,
+    "category": "other",
+    "since": "2017年(平成29年)指定",
+    "products": "",
+    "description": "1400年代に始まったとされる縫い笠で、江戸時代に加賀藩が生産を奨励したことで全国に広まった。良質な菅草を生かした製作技術により、農作業の日除け・雨除けから各地の伝統行事や祭りの道具まで幅広く使われている。",
+    "association": {
+      "name": "〒939-0111　富山県高岡市福岡町福岡1034"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1419/",
+    "image": null,
+    "kougeihinId": "1419"
+  },
+  {
+    "id": "sanshin",
+    "name": "三線",
+    "kana": "さんしん",
+    "prefecture": "沖縄県",
+    "city": "那覇市、宜野湾市、浦添市、糸満市、沖縄市、豊見城市、うるま市、南城市、中城郡読谷村、島尻郡南風原町、島尻郡久米島町、島尻郡八重瀬町、八重山郡竹富町",
+    "lat": 26.2124,
+    "lon": 127.6809,
+    "category": "other",
+    "since": "2018年(平成30年)指定",
+    "products": "",
+    "description": "琉球王国時代に中国から原型が伝わり宮廷楽器として発展し、その後庶民にも広まったとされる沖縄の楽器。棹の形状によって琉球王国時代の名工の名を冠した7つの型があり、原木選びから仕上げまで数十年かけることもある繊細な職人技を要する。",
+    "association": {
+      "name": "沖縄県三線製作事業協同組合",
+      "url": "https://okinawa34.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1420/",
+    "image": null,
+    "kougeihinId": "1420"
+  },
+  {
+    "id": "shougawahikimonokiji",
+    "name": "庄川挽物木地",
+    "kana": "しょうがわひきものきじ",
+    "prefecture": "富山県",
+    "city": "高岡市、砺波市、南砺市",
+    "lat": 36.7539,
+    "lon": 137.0253,
+    "category": "other",
+    "since": "1978年(昭和53年)指定",
+    "products": "茶盆、茶托（ちゃたく）、菓子器、椀、茶櫃（ちゃびつ）、茶筒、銘々皿、盛鉢",
+    "description": "16世紀末、加賀藩の材木を庄川の流れで運ぶ流木事業が起こり、集まった豊富な木材を求めて19世紀後半にろくろ木地職人が根付いたのが始まりとされる、伝統的工芸材料に指定された挽物木地。年輪の表情や色調の違いを生かした、木の温かみを大切にする木地作りが特徴。",
+    "association": {
+      "name": "庄川木工挽物会",
+      "url": "https://www.shokoren-toyama.or.jp/~shogawa-wood/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1501/",
+    "image": null,
+    "kougeihinId": "1501"
+  },
+  {
+    "id": "kanazawahaku",
+    "name": "金沢箔",
+    "kana": "かなざわはく",
+    "prefecture": "石川県",
+    "city": "金沢市、小松市他、富山県／富山市、小矢部市",
+    "lat": 36.5613,
+    "lon": 136.6562,
+    "category": "other",
+    "since": "1977年(昭和52年)指定",
+    "products": "神社仏閣、仏壇仏具、織物の金糸・銀糸、漆器の蒔絵・沈金、陶磁器の絵付け、屏風（びょうぶ）・襖（ふすま）紙・壁紙、看板・金文字・水引き・表具用",
+    "description": "戦国時代後期、前田利家が朝鮮出兵の陣中から箔の製造を国元に命じたという記録にまで遡るとされる、伝統的工芸材料に指定された金銀箔。厚さ1万分の1〜2mmという極薄の箔は複雑な模様にも押すことができ、金の輝きを損なわない美しさで国内随一の産地としての地位を保っている。",
+    "association": {
+      "name": "石川県箔商工業協同組合",
+      "url": "http://www.icnet.or.jp/dentou/insti/09.html"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1502/",
+    "image": null,
+    "kougeihinId": "1502"
+  },
+  {
+    "id": "isekatagami",
+    "name": "伊勢形紙",
+    "kana": "いせかたがみ",
+    "prefecture": "三重県",
+    "city": "鈴鹿市",
+    "lat": 34.8778,
+    "lon": 136.5847,
+    "category": "other",
+    "since": "1983年(昭和58年)指定",
+    "products": "染色用具、美術工芸品、インテリア",
+    "description": "室町末期にはすでに存在していたとされる、着物の柄や文様を染めるための型紙。江戸時代に紀州藩の保護を受けて白子・寺家の両村を中心に発展し、経済産業大臣指定の伝統的工芸用具でもある。",
+    "association": {
+      "name": "伊勢形紙協同組合",
+      "url": "http://www.isekatagami.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1503/",
+    "image": null,
+    "kougeihinId": "1503"
+  },
+  {
+    "id": "sadomumyouiyaki",
+    "name": "佐渡無名異焼",
+    "kana": "さどむみょういやき",
+    "prefecture": "新潟県",
+    "city": "佐渡市",
+    "lat": 38.0186,
+    "lon": 138.3689,
+    "category": "ceramics",
+    "since": "2024年(令和6年)指定",
+    "products": "茶器（湯呑や急須）、酒器、花瓶、お皿、ビアカップ、箸置きなど",
+    "description": "酸化鉄を多く含む赤土「無名異土」を原料とする陶器で、19世紀初頭の赤色の楽焼に始まり、明治期に現在の高温焼成による硬質な焼物として完成した。焼成時に約3割も収縮するほど粒子が細かく、極めて固く焼き締まるのが特徴。",
+    "association": {
+      "name": "佐渡無名異焼の会"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1504/",
+    "image": null,
+    "kougeihinId": "1504"
+  },
+  {
+    "id": "izumigarasu",
+    "name": "いずみガラス",
+    "kana": "いずみがらす",
+    "prefecture": "大阪府",
+    "city": "和泉市",
+    "lat": 34.4839,
+    "lon": 135.4136,
+    "category": "other",
+    "since": "2024年(令和6年)指定",
+    "products": "置物（動物、人形、箸置き、網目細工の宝船など）、箸置き、風鈴など",
+    "description": "明治10年、大阪府和泉市にガラス玉の製造技術が伝わったことに始まる、色ガラス棒とランプワーク技法によるガラス工芸。軟質ガラスを用いるため、丸みを帯びた温かみのある質感が特徴。",
+    "association": {
+      "name": "日本人造真珠硝子細貨工業組合",
+      "url": "https://jpga-izumi.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1505/",
+    "image": null,
+    "kougeihinId": "1505"
+  },
+  {
+    "id": "toukyouteboriinshou",
+    "name": "東京手彫り印章",
+    "kana": "とうきょうてぼりいんしょう",
+    "prefecture": "東京都",
+    "city": "東京都 千代田区、中央区、港区、新宿区、文京区、台東区、墨田区、江東区、品川区、目黒区、大田区、世田谷区、中野区、杉並区、豊島区、荒川区、足立区、葛飾区、江戸川区、八王子市、立川市、武蔵野市、三鷹市、青梅市、小金井市、東村山市、国立市、西東京市神奈川県 川崎市",
+    "lat": 35.6938,
+    "lon": 139.7532,
+    "category": "other",
+    "since": "2025年(令和7年)指定",
+    "products": "印章",
+    "description": "寛永元年（1624年）に京都から印判師が江戸へ移り住んだことで産地が形成されたとされる印章づくり。文字のデザインから彫刻まで全工程を職人が手作業で行い、機械には出せない精巧な仕上がりを実現している。",
+    "association": {
+      "name": "東京印章協同組合",
+      "url": "http://www.tokyoinsho.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/1506/",
+    "image": null,
+    "kougeihinId": "1506"
+  },
+  {
+    "id": "nagoyasekkukazari",
+    "name": "名古屋節句飾",
+    "kana": "なごやせっくかざり",
+    "prefecture": "愛知県",
+    "city": "名古屋市、岡崎市、岐阜県岐阜市他",
+    "lat": 35.1815,
+    "lon": 136.9066,
+    "category": "doll",
+    "since": "2021年(令和3年)指定",
+    "products": "（人形）雛人形・五月人形・風俗人形・市松人形 、（幟旗類）武者絵幟・鍾馗旗・鯉のぼり、（雪洞）雪洞・燭台",
+    "description": "江戸時代からの伝統技術を受け継ぎ、19世紀には京都に劣らないと評されるまでに発展した節句人形。人形・幟旗・雪洞の3種からなり、東西の様式を折衷した作風と、名古屋独特の大幟や「黄腹の鯉」が特徴。",
+    "association": {
+      "name": "中部人形節句品工業協同組合",
+      "url": "http://www.sekku.or.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/20210115/",
+    "image": null,
+    "kougeihinId": "20210115"
+  },
+  {
+    "id": "edohyougu",
+    "name": "江戸表具",
+    "kana": "えどひょうぐ",
+    "prefecture": "東京都",
+    "city": "大田区、江東区、台東区ほか　埼玉県／さいたま市、川越市ほか　千葉県／浦安市　神奈川県／鎌倉市",
+    "lat": 35.5614,
+    "lon": 139.7161,
+    "category": "other",
+    "since": "2022年(令和4年)指定",
+    "products": "掛軸、巻子、襖、屏風、額、衝立、壁張付",
+    "description": "奈良時代に起源を持つ表具技術が、17世紀初頭の江戸開府とともに大名・寺社お抱えの職人によって発展したもの。掛軸や屏風、襖などに用いられ、控えめな中にも華やかさを併せ持つ意匠と、乾燥した東京の気候に耐える堅牢さが特徴。",
+    "association": {
+      "name": "一般社団法人東京表具経師内装文化協会",
+      "url": "https://tokyo-hyougu.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/edo-hyogu/",
+    "image": null,
+    "kougeihinId": "edo-hyogu"
+  },
+  {
+    "id": "gifuwagasa",
+    "name": "岐阜和傘",
+    "kana": "ぎふわがさ",
+    "prefecture": "岐阜県",
+    "city": "岐阜市、瑞穂市、本巣郡北方町、羽鳥郡岐南町",
+    "lat": 35.4233,
+    "lon": 136.7606,
+    "category": "woodwork",
+    "since": "2022年(令和4年)指定",
+    "products": "雨傘、日傘、舞踏傘、野点傘、差し掛け傘",
+    "description": "江戸時代、武士の内職として奨励され、長良川流域の良質な和紙や竹を生かして発展した和傘づくり。畳むと細くまとまる「細物」の造形美が特徴で、蛇の目傘や日傘、舞踊傘など用途に応じた多様な傘が作られている。",
+    "association": {
+      "name": "一般社団法人 岐阜和傘協会",
+      "url": "https://gifuwagasakyokai.jimdofree.com/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/gifu-wagasa/",
+    "image": null,
+    "kougeihinId": "gifu-wagasa"
+  },
+  {
+    "id": "toukyouhonzomechuusen",
+    "name": "東京本染注染",
+    "kana": "とうきょうほんぞめちゅうせん",
+    "prefecture": "東京都",
+    "city": "東京都／足立区、葛飾区、江戸川区、栃木県／宇都宮市、群馬県／高崎市",
+    "lat": 35.775,
+    "lon": 139.8047,
+    "category": "dyeing",
+    "since": "2023年(令和5年)指定",
+    "products": "",
+    "description": "幕末に江戸の紺屋が考案した「注ぎ染め」に起源を持つ型染めで、明治末以降はゆかた地にも応用されて技術が磨かれた。型付けした生地の両面から染料を注ぐことで、緻密さとゆらぎのある独特の風合いを生む両面染めとなる。",
+    "association": {
+      "name": "関東注染工業協同組合",
+      "url": "https://tokyochusen.jp/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/tokyo-honzome-chusen/",
+    "image": null,
+    "kougeihinId": "tokyo-honzome-chusen"
+  },
+  {
+    "id": "toukyoukoto",
+    "name": "東京琴",
+    "kana": "とうきょうこと",
+    "prefecture": "東京都",
+    "city": "大田区、世田谷区、渋谷区ほか　埼玉県／三郷市",
+    "lat": 35.5614,
+    "lon": 139.7161,
+    "category": "other",
+    "since": "2022年(令和4年)指定",
+    "products": "琴",
+    "description": "奈良時代に唐から伝わった十三絃の琴を改良して生まれた楽器。木肌が美しく狂いの少ない桐材を用い、古来より尊ばれる龍の姿を型どった格式高い楽器とされる。",
+    "association": {
+      "name": "東京邦楽器商工業協同組合",
+      "url": "https://hougakki.tokyo/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/tokyo-koto/",
+    "image": null,
+    "kougeihinId": "tokyo-koto"
+  },
+  {
+    "id": "toukyoushamisen",
+    "name": "東京三味線",
+    "kana": "とうきょうしゃみせん",
+    "prefecture": "東京都",
+    "city": "葛飾区、台東区、豊島区ほか　埼玉県／所沢市、東松山市",
+    "lat": 35.7438,
+    "lon": 139.8469,
+    "category": "other",
+    "since": "2022年(令和4年)指定",
+    "products": "三味線",
+    "description": "約400年前に琉球から堺を経て伝わった楽器の原型を今に伝える。木地づくりから音響膜張りまで一人の職人が手がけ、狂いの少ない南洋産の堅木を用いる点に特徴がある。",
+    "association": {
+      "name": "東京邦楽器商工業協同組合",
+      "url": "https://hougakki.tokyo/"
+    },
+    "sourceUrl": "https://kougeihin.jp/craft/tokyo-shamisen/",
+    "image": null,
+    "kougeihinId": "tokyo-shamisen"
+  }
+]

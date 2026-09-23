@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>日本 伝統工芸マップ</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@500;700;900&family=Space+Grotesk:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div id="app">
+    <header id="app-header">
+      <div class="header-top">
+        <div class="brand">
+          <span class="brand-dot"></span>
+          <span class="brand-name">CRAFT MAP JAPAN</span>
+        </div>
+        <div class="header-index">全国244件収録</div>
+      </div>
+      <h1>日本の<br>伝統工芸<span class="accent-dot">。</span></h1>
+      <p class="subtitle">全国の伝統工芸品・職人の技を、地図から探す。<br class="br-mobile">TRADITIONAL CRAFTS &amp; CRAFTSMANSHIP OF JAPAN</p>
+    </header>
+
+    <div class="marquee" aria-hidden="true">
+      <div class="marquee-track">
+        <span>伝統工芸 ・ CRAFTSMANSHIP ・ 職人の技 ・ HANDMADE IN JAPAN ・ 伝統工芸 ・ CRAFTSMANSHIP ・ 職人の技 ・ HANDMADE IN JAPAN ・ </span>
+        <span>伝統工芸 ・ CRAFTSMANSHIP ・ 職人の技 ・ HANDMADE IN JAPAN ・ 伝統工芸 ・ CRAFTSMANSHIP ・ 職人の技 ・ HANDMADE IN JAPAN ・ </span>
+      </div>
+    </div>
+
+    <div id="main">
+      <aside id="sidebar">
+        <div id="sidebar-sticky">
+          <div class="panel-label"><span class="panel-num">01</span>SEARCH / 検索</div>
+          <div class="search-box">
+            <input type="text" id="search-input" placeholder="工芸品名・都道府県で検索" />
+          </div>
+
+          <div class="panel-label"><span class="panel-num">02</span>CATEGORY / 分類</div>
+          <div class="category-filters" id="category-filters">
+            <!-- filled by JS -->
+          </div>
+
+          <div class="panel-label list-label"><span class="panel-num">03</span>RESULTS / 一覧<span class="result-count" id="result-count"></span></div>
+        </div>
+
+        <ul id="craft-list"></ul>
+      </aside>
+
+      <main id="map-wrap">
+        <div id="map"></div>
+      </main>
+
+      <div id="detail-panel" class="hidden">
+        <button id="detail-close" aria-label="閉じる">✕</button>
+        <div id="detail-content"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
