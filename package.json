@@ -1,0 +1,12 @@
+{
+  "name": "craft-map-japan",
+  "private": true,
+  "version": "1.0.0",
+  "description": "日本の伝統工芸マップ",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
