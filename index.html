@@ -12,15 +12,16 @@
 <body>
   <div id="app">
     <header id="app-header">
-      <div class="header-top">
+      <div class="header-noise" aria-hidden="true"></div>
+      <div class="header-top fade-up" style="animation-delay:.05s">
         <div class="brand">
           <span class="brand-dot"></span>
           <span class="brand-name">CRAFT MAP JAPAN</span>
         </div>
-        <div class="header-index">全国244件収録</div>
+        <div class="header-index">全国<span class="count-up" id="header-count">0</span>件収録</div>
       </div>
-      <h1>日本の<br>伝統工芸<span class="accent-dot">。</span></h1>
-      <p class="subtitle">全国の伝統工芸品・職人の技を、地図から探す。<br class="br-mobile">TRADITIONAL CRAFTS &amp; CRAFTSMANSHIP OF JAPAN</p>
+      <h1 class="fade-up" style="animation-delay:.15s">日本の<br>伝統工芸<span class="accent-dot">。</span></h1>
+      <p class="subtitle fade-up" style="animation-delay:.25s">全国の伝統工芸品・職人の技を、地図から探す。<br class="br-mobile">TRADITIONAL CRAFTS &amp; CRAFTSMANSHIP OF JAPAN</p>
     </header>
 
     <div class="marquee" aria-hidden="true">
@@ -37,6 +38,7 @@
           <div class="search-box">
             <svg class="icon search-box-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m21 21-4.34-4.34" /><circle cx="11" cy="11" r="8" /></svg>
             <input type="text" id="search-input" placeholder="工芸品名・都道府県で検索" />
+            <div class="search-underline"></div>
           </div>
 
           <div class="panel-label"><span class="panel-num">02</span>CATEGORY / 分類</div>

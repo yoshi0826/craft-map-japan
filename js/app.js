@@ -52,12 +52,14 @@
   }).addTo(map);
 
   const markers = new Map(); // id -> L.marker
+  let markerSeq = 0;
 
   function markerIcon(craft) {
     const cat = categories[craft.category] || categories.other;
+    const delay = Math.min(markerSeq++, 60) * 8;
     return L.divIcon({
       className: 'craft-marker-wrap',
-      html: `<div class="craft-marker" style="background:${cat.color}; width:30px; height:30px;">${icon(cat.icon, { size: 16 })}</div>`,
+      html: `<div class="craft-marker" style="background:${cat.color}; width:30px; height:30px; animation-delay:${delay}ms;">${icon(cat.icon, { size: 16 })}</div>`,
       iconSize: [30, 30],
       iconAnchor: [15, 30],
       popupAnchor: [0, -28],
@@ -69,7 +71,7 @@
     marker.bindPopup(
       `<div class="popup-name">${craft.name}</div>
        <div class="popup-loc">${craft.prefecture}${craft.city ? ' ・ ' + craft.city : ''}</div>
-       <div class="popup-link" data-id="${craft.id}">詳しく見る${icon('arrow-right', { size: 13 })}</div>`
+       <div class="popup-link" data-id="${craft.id}">詳しく見る<span class="link-arrow">${icon('arrow-right', { size: 13 })}</span></div>`
     );
     marker.on('popupopen', () => {
       const el = document.querySelector(`.popup-link[data-id="${craft.id}"]`);
@@ -141,11 +143,12 @@
       if (!shouldShow && isOnMap) map.removeLayer(marker);
     });
 
-    list.forEach((craft) => {
+    list.forEach((craft, index) => {
       const cat = categories[craft.category] || categories.other;
       const li = document.createElement('li');
       li.className = 'craft-item' + (craft.id === state.selectedId ? ' selected' : '');
       li.dataset.id = craft.id;
+      li.style.animationDelay = `${Math.min(index, 20) * 15}ms`;
       li.innerHTML = `
         <span class="dot" style="background:${cat.color}"></span>
         <span class="info">
@@ -163,11 +166,22 @@
     });
   }
 
+  let selectedMarkerEl = null;
+  function setSelectedMarker(id) {
+    if (selectedMarkerEl) selectedMarkerEl.classList.remove('marker-selected');
+    const marker = markers.get(id);
+    const el = marker && marker.getElement && marker.getElement();
+    const inner = el && el.querySelector('.craft-marker');
+    selectedMarkerEl = inner || null;
+    if (selectedMarkerEl) selectedMarkerEl.classList.add('marker-selected');
+  }
+
   function highlightListItem(id) {
     state.selectedId = id;
     document.querySelectorAll('.craft-item').forEach((el) => {
       el.classList.toggle('selected', el.dataset.id === id);
     });
+    setSelectedMarker(id);
   }
 
   // ---- Detail panel ----
@@ -202,14 +216,14 @@
     if (assocUrl) {
       linkButtons.push(
         `<a class="detail-link-btn" href="${assocUrl}" target="_blank" rel="noopener noreferrer">
-           <span>${escapeHtml(craft.association.name || '産地組合の公式サイト')}</span>${icon('external-link', { size: 14 })}
+           <span>${escapeHtml(craft.association.name || '産地組合の公式サイト')}</span><span class="link-arrow">${icon('external-link', { size: 14 })}</span>
          </a>`
       );
     }
     if (sourceUrl) {
       linkButtons.push(
         `<a class="detail-link-btn secondary" href="${sourceUrl}" target="_blank" rel="noopener noreferrer">
-           <span>伝統工芸 青山スクエアで見る</span>${icon('external-link', { size: 14 })}
+           <span>伝統工芸 青山スクエアで見る</span><span class="link-arrow">${icon('external-link', { size: 14 })}</span>
          </a>`
       );
     }
@@ -237,7 +251,30 @@
       </div>
     `;
     detailPanel.classList.remove('hidden');
+    detailContent.classList.remove('detail-fade');
+    void detailContent.offsetWidth;
+    detailContent.classList.add('detail-fade');
   }
+
+  // ---- Header count-up ----
+  function animateCount(el, target, duration = 900) {
+    if (!el) return;
+    const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (prefersReduced) {
+      el.textContent = target;
+      return;
+    }
+    const start = performance.now();
+    function tick(now) {
+      const progress = Math.min((now - start) / duration, 1);
+      const eased = 1 - Math.pow(1 - progress, 3);
+      el.textContent = Math.round(eased * target);
+      if (progress < 1) requestAnimationFrame(tick);
+    }
+    requestAnimationFrame(tick);
+  }
+
+  animateCount(document.getElementById('header-count'), crafts.length);
 
   render();
 })();
